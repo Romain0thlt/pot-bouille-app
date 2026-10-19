@@ -5,6 +5,7 @@ Usage : python scripts/extraire.py [chemin_du_pdf]
 Règles de nettoyage :
 - suppression du numéro de page « – N – » en tête de chaque page ;
 - suppression du titre « Chapitre X » ;
+- correction des coquilles de l'édition listées dans CORRECTIONS ;
 - U+FFFE (trait d'union en fin de ligne mal codé par le PDF) -> « - » ;
 - reconstruction des paragraphes : un paragraphe commence à chaque ligne
   en retrait (alinéa), y compris en haut de page. L'espace finale des
@@ -22,6 +23,13 @@ RACINE = Path(__file__).resolve().parent.parent
 PDF_DEFAUT = RACINE / "source" / "zola_pot_bouille.pdf"
 SORTIE = RACINE / "data" / "chapitres"
 NB_CHAPITRES = 18
+
+# Coquilles de l'édition source, corrigées après extraction.
+# (chapitre, texte fautif, correction) : le texte fautif, pris avec assez de
+# contexte pour être unique, doit apparaître exactement une fois.
+CORRECTIONS = [
+    (10, "Gueufin ricanait", "Gueulin ricanait"),  # le personnage s'appelle Gueulin (19 occurrences)
+]
 
 ENTETE_PAGE = re.compile(r"^–\s*\d+\s*–$")
 TITRE_CHAPITRE = re.compile(r"^Chapitre [IVXLC]+$")
@@ -104,6 +112,10 @@ def main():
     SORTIE.mkdir(parents=True, exist_ok=True)
     for n in range(NB_CHAPITRES):
         texte = extraire_chapitre(doc, bornes[n], bornes[n + 1])
+        for chap, fautif, correct in CORRECTIONS:
+            if chap == n + 1:
+                assert texte.count(fautif) == 1, f"correction introuvable ou ambiguë : {fautif!r}"
+                texte = texte.replace(fautif, correct)
         chemin = SORTIE / f"{n + 1:02d}.txt"
         chemin.write_text(texte, encoding="utf-8")
         print(f"{chemin.name} : pages {bornes[n] + 1}-{bornes[n + 1]}, {len(texte.split())} mots")

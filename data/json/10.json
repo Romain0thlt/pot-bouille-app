@@ -75,7 +75,7 @@
         "gueulin"
       ],
       "deroule": "L’oncle Bachelard offre au Café anglais un dîner à Duveyrier, avec Trublot et Gueulin, sans femmes car « les femmes ne savent pas manger ». Le menu est fastueux et les vins rares ; Bachelard regrette un johannisberg de cent cinq ans vendu à un Turc. Il pose pour l’homme bien, une rose à la boutonnière, et répète que les bons vins ne grisent pas. Au café, les quatre hommes ne parlent que des femmes : Bachelard se dit désabusé et vante la vertu, Trublot méprise les filles, Duveyrier, buvant du kummel, réclame une maîtresse honnête. Gueulin rappelle les maîtresses qui ont trompé l’oncle. Bachelard annonce alors qu’il a « une jeune fille, mais une vraie », qu’il veut rendre heureuse et marier à un garçon sage. Il propose de la montrer, mais sur le boulevard, par peur qu’on la lui vole, il refuse.",
-      "enjeu": "Bachelard veut éblouir le conseiller par sa dépense et se vanter de sa jeune fille, tout en craignant de la perdre s’il la montre.",
+      "enjeu": "Bachelard traite le conseiller, « peut-être » pour lui montrer comment on sait dépenser l’argent dans le commerce, et se vante de sa jeune fille, tout en craignant de la perdre s’il la montre.",
       "regroupements": [
         {
           "personnages": [
@@ -133,18 +133,8 @@
         "octave-mouret"
       ],
       "deroule": "Rue de la Cerisaie, aucune lumière n’éclaire le troisième. Le concierge, ricanant sous un respect exagéré, remet à Duveyrier la clef et une bougie. Trublot doit ouvrir la porte, car le conseiller ne trouve pas la serrure. L’appartement est entièrement vide : plus de meubles, de rideaux, de patères, et même les clous de la cuisine ont été dévissés. Duveyrier pleure, puis estime les meubles à vingt-cinq mille francs ; Trublot s’assoit par terre et fume un cigare abandonné. Bachelard révèle les infidélités de Clarisse, partie sans doute avec le gros Payan, et Duveyrier s’écrie qu’il n’y a plus d’honnêteté sur terre. Octave arrive alors et annonce à Duveyrier que son beau-père se meurt.",
-      "enjeu": "Duveyrier découvre qu’il a été abandonné et dépouillé par Clarisse ; il veut sauver sa dignité, tandis que Bachelard se réjouit de son infortune.",
-      "regroupements": [
-        {
-          "personnages": [
-            "trublot"
-          ],
-          "action": "Épuisé, Trublot s’assoit seul par terre contre un mur pour fumer le cigare abandonné, à l’écart des trois autres qui restent debout.",
-          "extraits": [
-            "Cependant, Trublot fumait contre le mur, les jambes allongées. Il se reposait gravement, on l’oubliait."
-          ]
-        }
-      ],
+      "enjeu": "Duveyrier découvre qu’il a été abandonné et dépouillé par Clarisse ; il pleure, puis déclare qu’elle devra lui demander pardon à genoux, tandis que son infortune enchante Bachelard.",
+      "regroupements": [],
       "phrase_finale": "Oui, il vaut mieux s’en aller, ajouta Trublot, en train de coller une seconde feuille de papier à cigarette autour de son cigare."
     },
     {
@@ -169,8 +159,9 @@
             "gueulin",
             "trublot"
           ],
-          "action": "Une fois le fiacre parti, Bachelard reste dans la rue avec Gueulin et Trublot et les emmène voir sa jeune fille.",
+          "action": "Une fois le fiacre parti, Bachelard, resté dans la rue avec Gueulin et Trublot, veut les emmener voir sa jeune fille : il prend leur bras et cherche une voiture.",
           "extraits": [
+            "Tonnerre de Dieu ! il faut que je vous la montre.",
             "l’oncle Bachelard dit à Gueulin et à Trublot, restés dans la rue déserte",
             "Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite."
           ]
@@ -190,8 +181,8 @@
         "m-gourd",
         "hippolyte"
       ],
-      "deroule": "Dans le fiacre, Octave raconte l’attaque de M. Vabre et avoue que Mme Duveyrier connaît l’adresse de la rue de la Cerisaie. Duveyrier demande d’une voix dolente si elle lui pardonnera, puis s’il ne ferait pas mieux de se remettre avec sa femme ; Octave répond que ce serait peut-être raisonnable. Duveyrier se met alors à regretter son beau-père. Rue de Choiseul, un groupe est planté devant la loge de M. Gourd. Julie s’emporte contre les bourgeois qui se laissent mourir entre eux, M. Gourd parle de cœurs secs et Hippolyte se moque de l’air bête de madame. Tous se taisent en voyant Duveyrier, et Hippolyte annonce que le médecin pose des sinapismes.",
-      "enjeu": "Duveyrier, abandonné par Clarisse, cherche à rentrer en grâce auprès de sa femme ; les domestiques jugent sévèrement leurs maîtres.",
+      "deroule": "Dans le fiacre, Octave raconte l’attaque de M. Vabre et avoue que Mme Duveyrier connaît l’adresse de la rue de la Cerisaie. Duveyrier demande d’une voix dolente si elle lui pardonnera, puis s’il ne ferait pas mieux de se remettre avec sa femme ; Octave répond que ce serait peut-être raisonnable. Duveyrier sent alors la nécessité de regretter son beau-père. Rue de Choiseul, un groupe est planté devant la loge de M. Gourd. Julie s’emporte contre les bourgeois qui se laissent mourir entre eux, M. Gourd parle de cœurs secs et Hippolyte se moque de l’air bête de madame. Tous se taisent en voyant Duveyrier, et Hippolyte annonce que le médecin pose des sinapismes.",
+      "enjeu": "Duveyrier, abandonné par Clarisse, cherche à rentrer en grâce auprès de sa femme ; les domestiques et le concierge jugent sévèrement les maîtres.",
       "regroupements": [
         {
           "personnages": [
@@ -229,7 +220,7 @@
         "dr-juillerat",
         "m-vabre"
       ],
-      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que le deuil va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, et les époux échangent un regard : « tous deux s’entendaient ». Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
+      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que ce malheur va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, et les époux échangent un regard : « tous deux s’entendaient ». Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
       "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et la famille ne sera prévenue que le lendemain ; Clotilde subit le retour de son mari.",
       "regroupements": [
         {
@@ -262,7 +253,7 @@
       "id": "octave-mouret",
       "nom": "Octave",
       "presence": "acteur",
-      "identite": "Jeune homme employé au magasin de Berthe, derrière un comptoir ; il lit à peine la musique, mais Mme Duveyrier le déclare ténor.",
+      "identite": "Jeune homme employé derrière un comptoir du magasin du frère de Mme Duveyrier, où Berthe est sa patronne ; il lit à peine la musique, mais Mme Duveyrier le déclare ténor.",
       "role_dans_chapitre": "Il chante chez Mme Duveyrier, prend en main les secours lors de l’attaque de M. Vabre, puis va chercher Duveyrier rue de la Cerisaie et le ramène.",
       "scenes": [
         "s1",
@@ -384,7 +375,7 @@
       "nom": "Trublot",
       "presence": "acteur",
       "identite": "Jeune homme, convive de Bachelard ; selon Mme Duveyrier, il n’est pas ténor.",
-      "role_dans_chapitre": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare laissé par Clarisse et propose de trouver son adresse grâce à la bonne.",
+      "role_dans_chapitre": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare troué trouvé sur la cheminée et propose de trouver son adresse grâce à la bonne.",
       "scenes": [
         "s4",
         "s5",
@@ -3075,7 +3066,7 @@
         0,
         2
       ],
-      "reponse_libre": "Il emmène Gueulin, à sa droite, et Trublot, à sa gauche, une fois le fiacre parti avec Octave et Duveyrier.",
+      "reponse_libre": "Il veut emmener Gueulin et Trublot, restés avec lui dans la rue une fois le fiacre parti avec Octave et Duveyrier : il prend Gueulin à sa droite, Trublot à sa gauche, et cherche une voiture.",
       "elements_cles": [
         "Gueulin",
         "Trublot"
@@ -3122,7 +3113,7 @@
       "type": "motivation",
       "difficulte": 2,
       "format": "qcm",
-      "enonce": "Dans le fiacre, que décide Duveyrier, avec l’approbation forcée d’Octave ?",
+      "enonce": "Dans le fiacre, que Duveyrier juge-t-il le mieux à faire, avec l’approbation forcée d’Octave ?",
       "choix": [
         "De se remettre avec sa femme, en attendant",
         "De retrouver Clarisse le lendemain",

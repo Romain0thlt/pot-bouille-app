@@ -8,9 +8,15 @@ Lis d'abord `CLAUDE.md` : ses règles priment sur ce prompt.
 
 1. **Source unique : le texte du chapitre.** Aucune connaissance extérieure du roman, aucun souvenir d'autres chapitres, aucune déduction que le texte ne soutient pas par une phrase précise. Dans le doute, n'écris pas.
 2. **Pas de spoiler.** Ne mentionne aucun événement postérieur à ce chapitre et ne renvoie pas à d'autres chapitres. Les liens entre personnages (parenté, liaison, statut) sont ceux que CE chapitre établit, pas plus.
-3. **Tout est justifié par des extraits.** Chaque fait, chaque question, chaque regroupement cite 1 à 3 extraits copiés mot pour mot depuis le fichier du chapitre : contigus, de 10 à 400 caractères, de préférence une phrase complète, sans « […] » ni « ... », sans le tiret de dialogue initial, ponctuation et apostrophes inchangées. Ne cite jamais de mémoire : copie depuis le fichier. Si tu ne peux pas citer, tu retires l'élément.
+3. **Tout est justifié par des extraits.** Chaque fait, chaque question, chaque regroupement cite 1 à 4 extraits (3 en général) copiés mot pour mot depuis le fichier du chapitre : contigus, de 10 à 400 caractères, de préférence une phrase complète, sans « […] » ni « ... », sans le tiret de dialogue initial, ponctuation et apostrophes inchangées. Ne cite jamais de mémoire : copie depuis le fichier. Si tu ne peux pas citer, tu retires l'élément.
 4. **Les détails comptent autant que l'intrigue.** Les contrôles de lecture posent des questions très précises : âge d'un personnage, durée d'un séjour, morceau joué au piano, expéditeur et contenu d'une lettre, qui s'écarte avec qui pour parler de quoi, qui dit quoi à qui, comment un personnage se conduit, phrase qui termine un chapitre ou une scène.
 5. Français clair, niveau lycée. Noms propres écrits exactement comme dans le texte.
+6. **Fidélité stricte au texte** :
+   - (a) un regroupement compte au moins 2 personnages ;
+   - (b) ne présente jamais comme accompli ce que le chapitre annonce ou fait vouloir (« veut emmener », pas « emmène ») ;
+   - (c) aucun lien de cause ni d'intention que le texte ne formule pas ;
+   - (d) rôle et statut d'un personnage uniquement tels que le chapitre les donne ;
+   - (e) les mauvais choix d'un QCM ne doivent jamais être défendables d'après le texte, et on ne réutilise pas comme leurre un fait vrai du chapitre qui répond à la question sous une autre forme.
 
 ## Étape 1 — Lecture
 

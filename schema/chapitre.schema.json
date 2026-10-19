@@ -21,7 +21,7 @@
     "extraits": {
       "type": "array",
       "minItems": 1,
-      "maxItems": 3,
+      "maxItems": 4,
       "items": { "$ref": "#/$defs/extrait" }
     },
     "regroupement": {
@@ -29,7 +29,7 @@
       "additionalProperties": false,
       "required": ["personnages", "action", "extraits"],
       "properties": {
-        "personnages": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/slug" } },
+        "personnages": { "type": "array", "minItems": 2, "uniqueItems": true, "items": { "$ref": "#/$defs/slug" } },
         "action": { "type": "string", "minLength": 15, "maxLength": 300 },
         "extraits": { "$ref": "#/$defs/extraits" }
       }

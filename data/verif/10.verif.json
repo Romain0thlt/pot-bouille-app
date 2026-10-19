@@ -1,0 +1,163 @@
+{
+  "chapitre": 10,
+  "verdict_global": "A_CORRIGER",
+  "problemes": [
+    {
+      "cible": "c10-f098",
+      "gravite": "ambiguite",
+      "description": "Le fait affirme que Duveyrier demande « si Clarisse lui pardonnera ». Le texte ne dit pas qui est « elle ». La question vient juste après qu’Octave a révélé que sa femme connaît l’adresse : « sans cacher que Mme Duveyrier connaissait l’adresse de la rue de la Cerisaie. Au bout d’un silence, le conseiller demanda d’une voix dolente : », puis « Croyez-vous qu’elle me pardonne ? ». Plus tôt, Duveyrier disait au contraire de Clarisse : « Il faut qu’elle me demande pardon à genoux. » Le pronom peut donc désigner Clotilde. Attribuer la question à Clarisse est une interprétation que le texte ne prouve pas.",
+      "correction_proposee": "Dans le fiacre, Duveyrier demande d’une voix dolente à Octave : « Croyez-vous qu’elle me pardonne ? », puis s’il ne ferait pas mieux de se remettre avec sa femme, « en attendant » ; Octave, forcé de répondre, dit que ce serait peut-être raisonnable."
+    },
+    {
+      "cible": "c10-q018",
+      "gravite": "ambiguite",
+      "description": "« Pour quel fils M. Vabre avait-il fait des promesses ? » : Gustave n’est pas le fils de M. Vabre, mais son petit-fils, le fils des Duveyrier : « des promesses en faveur de leur fils Gustave, que son grand-père souvent parlait d’avantager ». Les distracteurs Auguste et Théophile sont, eux, de vrais fils de M. Vabre (« son frère Auguste », « leur père »). L’énoncé induit donc l’élève en erreur.",
+      "correction_proposee": "Énoncé : « Selon Duveyrier, en faveur de quel petit-fils M. Vabre avait-il fait des promesses ? » (choix et bonne réponse inchangés)"
+    },
+    {
+      "cible": "c10-q021",
+      "gravite": "ambiguite",
+      "description": "Le distracteur « Pour que Théophile ne vienne pas » se défend en partie. Juste avant, Clotilde a dit qu’elle ne veut pas que Théophile monte : « quant à Théophile, il ferait bien de ne pas monter, car sa vue seule achèverait leur père ». Un élève peut le cocher en le justifiant par le texte.",
+      "correction_proposee": "Remplacer le choix « Pour que Théophile ne vienne pas » par « Pour ne pas réveiller M. Vabre »"
+    },
+    {
+      "cible": "c10-q052",
+      "gravite": "mineur",
+      "description": "Les extraits ne nomment ni Gueulin ni Trublot (« il faut que je vous la montre », « Il a beau être près de minuit »). Ils ne prouvent donc pas la réponse. La preuve est ailleurs : « l’oncle Bachelard dit à Gueulin et à Trublot, restés dans la rue déserte » et « Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche ». De plus, le chapitre se termine avant leur arrivée chez la jeune fille : ils sont seulement « en quête d’une voiture ». « Emmène-t-il voir » va un peu au-delà du texte. La même formule figure dans les fiches « bachelard » (« finit par emmener Gueulin et Trublot voir sa protégée ») et « fifi » (« puis emmène Gueulin et Trublot la voir »).",
+      "correction_proposee": "Énoncé : « Parmi ces personnages, lesquels Bachelard veut-il emmener voir la jeune fille à la fin de la soirée ? » ; extraits : [« l’oncle Bachelard dit à Gueulin et à Trublot, restés dans la rue déserte », « Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite. »] ; dans les fiches bachelard et fifi, remplacer « emmener/emmène Gueulin et Trublot voir » par « partir avec Gueulin et Trublot pour leur montrer »"
+    },
+    {
+      "cible": "c10-q055",
+      "gravite": "mineur",
+      "description": "Les extraits ne prouvent que la réponse « Julie ». M. Gourd et Hippolyte, deux des trois bonnes réponses, ne sont pas couverts. Par ailleurs, M. Gourd est le concierge (« la loge de M. Gourd ») : les Duveyrier ne sont pas « ses maîtres ».",
+      "correction_proposee": "Énoncé : « Parmi ces personnages, lesquels critiquent les maîtres devant la loge de M. Gourd, avant l’arrivée de Duveyrier ? » ; ajouter les extraits « Des cœurs secs, disait M. Gourd, des gens qui ne savaient pas se servir de leurs dix doigts » et « tandis qu’Hippolyte, renchérissant encore, racontait la tête de madame, là-haut, son air bête, ses bras ballants en face de ce pauvre monsieur »"
+    },
+    {
+      "cible": "c10-q015",
+      "gravite": "mineur",
+      "description": "L’énoncé cite « heureux de prendre l’air » et la réponse indique qu’Hippolyte part chercher le médecin, mais aucun extrait ne le prouve. La preuve est : « Hippolyte partit tout de suite, heureux de prendre l’air. »",
+      "correction_proposee": "Ajouter l’extrait « Octave l’interrompit pour lui conseiller d’envoyer chercher le Dr Juillerat. Personne n’y songeait. Hippolyte partit tout de suite, heureux de prendre l’air. »"
+    },
+    {
+      "cible": "c10-q043",
+      "gravite": "mineur",
+      "description": "La bonne réponse « Les clous des planches de la cuisine » n’est prouvée par aucun extrait. Rien ne prouve non plus que le faux col et le cigare sont restés.",
+      "correction_proposee": "Ajouter les extraits « On avait décollé la toile cirée du cabinet et dévissé les clous des planches de la cuisine. » et « Il venait d’apercevoir sur la cheminée un faux col sale et un cigare détérioré. »"
+    },
+    {
+      "cible": "c10-q026",
+      "gravite": "mineur",
+      "description": "La question croise deux scènes : Octave arrive « vers neuf heures » et le dîner dure encore « à neuf heures ». Le second extrait (les valets derrière chaque convive) ne prouve rien. Il manque l’extrait sur l’heure d’arrivée d’Octave.",
+      "correction_proposee": "Remplacer le second extrait par « Vers neuf heures, Octave trouva Mme Duveyrier qui l’attendait, dans son grand salon blanc et or. »"
+    },
+    {
+      "cible": "c10-q032",
+      "gravite": "mineur",
+      "description": "L’énoncé dit « pendant le dîner puis dans la rue », mais l’extrait ne couvre que le dîner. La phrase prononcée dans la rue est : « Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur. » (« il » désigne l’oncle).",
+      "correction_proposee": "Ajouter les extraits « tandis que l’oncle, vexé de ne plus placer un mot sur la petite, se retenait pour ne pas lui apprendre que sa Clarisse couchait avec tout le monde. » et « Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur. »"
+    },
+    {
+      "cible": "s2.deroule",
+      "gravite": "mineur",
+      "description": "« Octave s’écrie, pour lui plaire » : le texte dit qu’il le « répète » « d’un air d’extase » : « Comment peut-on ne pas aimer la musique ? répétait Octave d’un air d’extase, afin de lui être agréable. »",
+      "correction_proposee": "Remplacer « et Octave s’écrie, pour lui plaire : » par « et Octave répète d’un air d’extase, pour lui plaire : »"
+    },
+    {
+      "cible": "s9.deroule",
+      "gravite": "mineur",
+      "description": "« les époux s’entendent pour ne pas prévenir la famille » : le texte ne dit pas sur quoi ils « s’entendent ». La phrase « Maintenant, tous deux s’entendaient » vient après l’échange sur le testament et l’aveu de Clotilde (« Mon Dieu ! non, murmura Clotilde. J’ai reçu un tel coup !… Ma première pensée a été d’envoyer monsieur chercher mon mari. »). Seule Clotilde décide ensuite d’attendre : « Attendons demain, n’est-ce pas ? ». La même interprétation figure dans l’enjeu de s9 (« s’accordent pour retarder l’arrivée de la famille »).",
+      "correction_proposee": "Remplacer « et les époux s’entendent pour ne pas prévenir la famille » par « ; Clotilde avoue n’avoir pas prévenu la famille, et les époux échangent un regard : « tous deux s’entendaient » » ; enjeu : « Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et la famille ne sera prévenue que le lendemain ; Clotilde subit le retour de son mari. »"
+    },
+    {
+      "cible": "c10-f077",
+      "gravite": "mineur",
+      "description": "« même le lit a disparu » n’est pas couvert par les extraits. La preuve est : « À la place du lit, les ferrures du baldaquin enlevées laissaient des trous béants ».",
+      "correction_proposee": "Ajouter l’extrait « À la place du lit, les ferrures du baldaquin enlevées laissaient des trous béants »"
+    },
+    {
+      "cible": "c10-f012",
+      "gravite": "mineur",
+      "description": "La seconde moitié (« c’est la seule attaque qui lui échappe contre lui en public ») n’est pas couverte par les extraits. La preuve est : « C’était d’ailleurs l’attaque unique qui lui échappait parfois contre son mari devant le monde ».",
+      "correction_proposee": "Ajouter l’extrait « C’était d’ailleurs l’attaque unique qui lui échappait parfois contre son mari devant le monde »"
+    },
+    {
+      "cible": "c10-f111",
+      "gravite": "mineur",
+      "description": "« il promet de revenir de bonne heure » n’est pas couvert par l’extrait. La preuve est : « Le matin, il reviendrait de bonne heure. »",
+      "correction_proposee": "Ajouter l’extrait « Le matin, il reviendrait de bonne heure. »"
+    },
+    {
+      "cible": "c10-f093",
+      "gravite": "mineur",
+      "description": "« Gueulin et Trublot en parlent avec philosophie » : la réplique de Trublot n’est pas dans les extraits, et seul Gueulin parle « philosophiquement » dans le texte.",
+      "correction_proposee": "Ajouter l’extrait « Oui, il vaut mieux s’en aller, ajouta Trublot » et écrire : « Bachelard dit qu’il s’attendait à la mort du père Vabre ; Gueulin remarque philosophiquement qu’on est au bout de son rouleau, et Trublot ajoute qu’il vaut mieux s’en aller. »"
+    }
+  ],
+  "omissions": [
+    {
+      "description": "C’est Octave, et lui seul, qui pense à envoyer chercher le Dr Juillerat.",
+      "extrait": "Octave l’interrompit pour lui conseiller d’envoyer chercher le Dr Juillerat. Personne n’y songeait."
+    },
+    {
+      "description": "C’est Trublot qui ouvre la porte de l’appartement de Clarisse, car Duveyrier ne trouve pas la serrure.",
+      "extrait": "Au troisième, il fut pris d’une faiblesse, jamais il ne put trouver le trou de la serrure. Trublot lui rendit le service d’ouvrir."
+    },
+    {
+      "description": "Trublot, épuisé, s’assoit par terre contre un mur en fumant le cigare abandonné ; c’est lui qui rend la clef au concierge, car Duveyrier a honte.",
+      "extrait": "Tant pis ! je m’assois un peu par terre… J’ai les jambes qui me rentrent dans le corps."
+    },
+    {
+      "description": "Prix des dîners de Bachelard : trois cents francs par tête.",
+      "extrait": "quand un client tombait chez lui du fond de l’Inde ou du Brésil, des dîners à trois cents francs par tête"
+    },
+    {
+      "description": "Les vers chantés par Octave (Zémire et Azor).",
+      "extrait": "Du moment qu’on aime,"
+    },
+    {
+      "description": "Projet de Mme Duveyrier : une seconde audition de la Bénédiction des Poignards, avec deux ténors de plus.",
+      "extrait": "Justement, elle voulait donner une seconde audition de la Bénédiction des Poignards, à un de ses premiers samedis de l’hiver suivant, mais avec deux ténors de plus, quelque chose de très complet."
+    },
+    {
+      "description": "Clotilde avoue qu’elle est heureuse que son mari reste chez sa maîtresse.",
+      "extrait": "Ne le défendez donc pas ! reprit-elle. Je suis trop heureuse, il peut y rester… Ah ! mon Dieu ! si ce n’était pas pour mon pauvre père !"
+    },
+    {
+      "description": "Bachelard console Duveyrier : « L’honneur est sauf ».",
+      "extrait": "Du courage, monsieur ! répétait-il. Ça m’est arrivé, et je n’en suis pas mort… L’honneur est sauf, que diable !"
+    },
+    {
+      "description": "Les vins servis au dîner (madère, château-filhot 58, johannisberg, pichon-longueville, château-lafite 48, sparling-moselle, roederer).",
+      "extrait": "madère vieux au potage, château-filhot 58 aux hors-d’œuvre, johannisberg et pichon-longueville aux relevés, château-lafite 48 aux entrées, sparling-moselle au rôti, roederer frappé au dessert."
+    },
+    {
+      "description": "Itinéraire à pied : rue de Richelieu, puis rue de Rivoli, où Duveyrier ne cesse de vanter Clarisse.",
+      "extrait": "Et, tout le long de la rue de Rivoli, le conseiller ne tarissait pas"
+    },
+    {
+      "description": "La fiche d’Isidore Charbotel mentionne aussi un troisième Salon (1861, portrait de M. P***), absent du fait c10-f035.",
+      "extrait": "Salon de 1861, portrait de M. P***"
+    },
+    {
+      "description": "Réaction de Clotilde à l’embrassade de son mari : elle recule, surprise, puis se dégage sans répondre.",
+      "extrait": "Surprise de cette effusion inaccoutumée, elle recula."
+    },
+    {
+      "description": "Remarque d’Octave sur Clarisse en apprenant sa fuite.",
+      "extrait": "Tiens ! elle a filé ! Ça ne m’étonne pas. Elle avait des yeux et des cheveux si drôles !"
+    },
+    {
+      "description": "Le malade peut traîner jusqu’au lendemain (pronostic du médecin) ; Julie dit que le vieux râle depuis deux heures.",
+      "extrait": "le malade pouvait traîner jusqu’au lendemain"
+    },
+    {
+      "description": "Gueulin raconte qu’il a dû se défendre, un soir, contre la veuve au coup de sabre.",
+      "extrait": "Eh bien ! j’ai dû me défendre, un soir, contre celle au coup de sabre."
+    }
+  ],
+  "bilan": {
+    "questions_verifiees": 60,
+    "questions_ok": 52,
+    "faits_verifies": 113
+  }
+}

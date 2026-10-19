@@ -1,0 +1,115 @@
+{
+  "chapitre": 9,
+  "verdict_global": "A_CORRIGER",
+  "problemes": [
+    {
+      "cible": "c09-q049",
+      "gravite": "ambiguite",
+      "description": "L'énoncé demande les comportements de Gasparine « au dîner du soir », mais le choix 4 (« Elle a déjà dompté les bonnes, au point de faire trembler Victoire ») décrit une situation habituelle, pas un geste fait pendant ce dîner : « Déjà, Gasparine avait mis la main sur le ménage et dompté les bonnes ; d’un mot, elle faisait trembler Victoire elle-même devant ses casseroles. » Victoire n'est pas présente au dîner. Un élève peut légitimement ne pas cocher ce choix.",
+      "correction_proposee": "Remplacer l'énoncé par : « Parmi ces affirmations sur Gasparine, le soir où Octave annonce son départ du Bonheur des Dames, lesquelles sont exactes ? »"
+    },
+    {
+      "cible": "c09-q037",
+      "gravite": "ambiguite",
+      "description": "Le distracteur « Octave est trop jeune pour être associé » est en partie défendable : Mme Hédouin invoque bien la jeunesse d'Octave pour écarter ses avances (« Enfin, tous les jeunes gens manquent de raison… »). Un élève peut cocher ce choix en pensant à cette phrase.",
+      "correction_proposee": "Remplacer le choix 4 par : « Elle doit partir aux eaux de Vichy »"
+    },
+    {
+      "cible": "c09-q030",
+      "gravite": "mineur",
+      "description": "Le choix 0 (« Ils dînent au Bœuf à la mode, dans un cabinet ») est une bonne réponse, mais aucun des extraits de la question ne le prouve. La phrase du texte est : « Octave les avait menés au Bœuf à la mode, dans un cabinet, pour être plus libre, disait-il. »",
+      "correction_proposee": "Ajouter aux extraits : « Octave les avait menés au Bœuf à la mode, dans un cabinet, pour être plus libre, disait-il. »"
+    },
+    {
+      "cible": "c09-q002",
+      "gravite": "mineur",
+      "description": "La reponse_libre établit un lien de cause qui n'est pas dans le texte : « On parle de l'anglais qu'Angèle apprend depuis quinze jours, car Lisa sortait de chez une actrice revenue de Londres ». Dans le texte, c'est Campardon qui a imposé l'anglais (« Campardon avait brusquement soutenu la nécessité de l’anglais pour une demoiselle ») ; le passé de Lisa explique seulement qu'on discute « les noms des plats qu’elle apportait ».",
+      "correction_proposee": "On parle de l'anglais qu'Angèle apprend depuis quinze jours, Campardon le jugeant nécessaire à une demoiselle ; comme Lisa sortait de chez une actrice revenue de Londres, on discute à chaque repas le nom des plats ; le rôti, oublié au feu par Victoire, est dur comme des semelles de botte."
+    },
+    {
+      "cible": "s3.regroupements[0]",
+      "gravite": "mineur",
+      "description": "Ce « regroupement » ne contient qu'un seul personnage (octave-mouret) : ce n'est pas un regroupement. Le texte dit seulement : « Octave s’était écarté, en trouvant qu’on finissait par être trop tendre, dans cette maison. »",
+      "correction_proposee": "SUPPRIMER"
+    },
+    {
+      "cible": "rose-campardon",
+      "gravite": "mineur",
+      "description": "Le champ identite généralise un détail limité à un seul jour : « elle a du mal à marcher ». Le texte précise « malgré la difficulté qu’elle éprouvait à marcher, ce jour-là ».",
+      "correction_proposee": "Femme de l'architecte Campardon et cousine de Gasparine ; de santé fragile (« ça ne se remettra jamais »), elle reste assise de peur de se fatiguer et passe des heures à sa toilette."
+    },
+    {
+      "cible": "c09-f097",
+      "gravite": "mineur",
+      "description": "L'énoncé dit que c'est « le sourire de Berthe » qu'Octave a déjà rencontré le jour de son arrivée et le jour des noces. Le texte parle du regard : « le joli visage de Berthe, qui lui souriait de son air de bon accueil, avec le gai regard qu’il avait déjà rencontré deux fois, le jour de son arrivée et le jour des noces. »",
+      "correction_proposee": "Octave hésite à cause du peu d'importance de la maison, mais le sourire de Berthe et son gai regard, déjà rencontré le jour de son arrivée et le jour des noces, le décident."
+    }
+  ],
+  "omissions": [
+    {
+      "description": "Le lit d'acajou installé à la place de la table à dessiner de Campardon (et la Vierge au cœur saignant calée par une cuvette neuve) : aucune question.",
+      "extrait": "Un lit d’acajou, apporté le matin par un marchand de meubles, occupait la place de la table à dessiner, qu’on avait transportée au milieu de la pièce voisine"
+    },
+    {
+      "description": "Pourquoi l'examen des commandes a lieu vers trois heures ce lundi-là : les Duveyrier emmènent Mme Hédouin à l'Opéra-Comique.",
+      "extrait": "Mais, ce lundi-là, les Duveyrier menaient justement Mme Hédouin à l’Opéra-Comique. Aussi, vers trois heures, appela-t-elle le jeune homme."
+    },
+    {
+      "description": "Le baiser d'Octave sur le front de Marie, « le baiser d'adieu d'un père qui cède sa fille à un gendre ».",
+      "extrait": "il posa un baiser sur le front de la jeune femme, le baiser d’adieu d’un père qui cède sa fille à un gendre."
+    },
+    {
+      "description": "La réplique de Mme Hédouin « je vous croyais plus intelligent que les autres » et ses trois raisons de refus (bête, inutile, aucune envie).",
+      "extrait": "jamais je ne ferai ça, parce que c’est bête d’abord, inutile ensuite, et que, heureusement pour moi, je n’en ai pas la moindre envie !"
+    },
+    {
+      "description": "Octave annonce à Rose qu'il prendra pension ailleurs à la fin du mois, en inventant une autre situation ; Rose en éprouve comme un soulagement.",
+      "extrait": "expliqua qu’à la fin du mois il serait forcé de prendre pension ailleurs."
+    },
+    {
+      "description": "L'excuse de Campardon pour son retard au dîner : un imbécile l'a retenu une heure sur un trottoir.",
+      "extrait": "Encore un imbécile, qui m’a retenu une heure sur un trottoir !"
+    },
+    {
+      "description": "Le mot anglais dont on essaie la prononciation au dîner : « rumsteack ».",
+      "extrait": "après de longs essais inutiles sur la prononciation du mot « rumsteack »"
+    },
+    {
+      "description": "Dans le cabinet du fond, il faut allumer le gaz malgré le soleil ; Octave pousse le verrou en disant « Personne ne viendra nous déranger ».",
+      "extrait": "Malgré le clair soleil, ils durent allumer le gaz, car le cabinet ne recevait qu’un jour livide par une cour intérieure."
+    },
+    {
+      "description": "Mme Hédouin est née au Bonheur des Dames, fondé par son père et son oncle.",
+      "extrait": "Elle était née au Bonheur des Dames, fondé par son père et son oncle"
+    },
+    {
+      "description": "Les toilettes de Rose : peignoir de soie crème garni de dentelles blanches au début, peignoir de satin bleu brodé d'argent le dernier soir ; la rougeur derrière l'oreille.",
+      "extrait": "quand il l’eut aidée à remettre son peignoir, tout de satin bleu et brodé d’argent, ce soir-là"
+    },
+    {
+      "description": "Le reproche qu'Octave se fait après son départ : avoir voulu trouver dans la maison « le pain et le lit ».",
+      "extrait": "Ne pouvait-il donc faire son affaire d’argent dans la maison, sans exiger d’y trouver, tout à la fois, le pain et le lit ?"
+    },
+    {
+      "description": "Le contraste entre les deux cousines à Plassans : Rose fillette malade, Gasparine femme à quinze ans.",
+      "extrait": "Rose alors avait le teint plombé, les membres grêles d’une fillette malade de sa croissance, tandis que Gasparine, femme à quinze ans, était grande et désirable, avec ses beaux yeux"
+    },
+    {
+      "description": "Les yeux d'Octave « couleur de vieil or » et sa voix d'acteur au moment de la séduction.",
+      "extrait": "Il la chauffait en même temps de ses yeux couleur de vieil or, que des femmes disaient irrésistibles."
+    },
+    {
+      "description": "La gaieté retrouvée de Campardon le soir de la réconciliation : vieilles farces et chansons de l'École des Beaux-Arts.",
+      "extrait": "retrouva sa gaieté d’artiste, les vieilles farces et les chansons raides de l’École des Beaux-Arts."
+    },
+    {
+      "description": "Le surnom que Campardon se donne devant Rose après avoir accroché les gravures : « ton loup ».",
+      "extrait": "C’est fini, ma cocotte… Embrasse ton loup, qui a bien travaillé."
+    }
+  ],
+  "bilan": {
+    "questions_verifiees": 60,
+    "questions_ok": 56,
+    "faits_verifies": 98
+  }
+}

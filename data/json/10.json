@@ -28,7 +28,7 @@
         "clotilde-duveyrier",
         "clemence"
       ],
-      "deroule": "Vers neuf heures, Octave trouve Clotilde seule, le piano ouvert et les bougies allumées. Elle explique que son mari est sorti pour un rapport sur l’affaire de la rue de Provence, alors qu’Octave sait par Trublot qu’il dîne avec l’oncle Bachelard avant d’aller chez Clarisse. Elle rappelle avec mépris que Duveyrier se vante de ne pas aimer la musique, et Octave s’écrie, pour lui plaire : « Comment peut-on ne pas aimer la musique ? ». Elle lui fait chanter un air de Zémire et Azor, de Grétry, et s’écrie ravie qu’il est un ténor, elle qui en cherche un depuis trois ans. Pendant le chant, elle prend un air passionné puis le laisse tomber comme un masque ; Octave recule, pour ne pas revivre son aventure avec Mme Hédouin. Elle répète vingt fois « Plus tremblant que vous », quand Clémence, la femme de chambre, vient annoncer que M. Vabre est tombé le nez dans ses écritures.",
+      "deroule": "Vers neuf heures, Octave trouve Clotilde seule, le piano ouvert et les bougies allumées. Elle explique que son mari est sorti pour un rapport sur l’affaire de la rue de Provence, alors qu’Octave sait par Trublot qu’il dîne avec l’oncle Bachelard avant d’aller chez Clarisse. Elle rappelle avec mépris que Duveyrier se vante de ne pas aimer la musique, et Octave répète d’un air d’extase, pour lui plaire : « Comment peut-on ne pas aimer la musique ? ». Elle lui fait chanter un air de Zémire et Azor, de Grétry, et s’écrie ravie qu’il est un ténor, elle qui en cherche un depuis trois ans. Pendant le chant, elle prend un air passionné puis le laisse tomber comme un masque ; Octave recule, pour ne pas revivre son aventure avec Mme Hédouin. Elle répète vingt fois « Plus tremblant que vous », quand Clémence, la femme de chambre, vient annoncer que M. Vabre est tombé le nez dans ses écritures.",
       "enjeu": "Clotilde veut faire d’Octave le ténor de ses concerts et sauver les apparences sur l’absence de son mari ; Octave, qui la trouve belle, se heurte à sa froideur.",
       "regroupements": [],
       "phrase_finale": "Madame, c’est M. votre père qui est tombé le nez dans ses écritures et qui ne bouge plus… Il nous fait peur."
@@ -229,8 +229,8 @@
         "dr-juillerat",
         "m-vabre"
       ],
-      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que le deuil va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave, et les époux s’entendent pour ne pas prévenir la famille. Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
-      "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, s’accordent pour retarder l’arrivée de la famille ; Clotilde subit le retour de son mari.",
+      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que le deuil va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, et les époux échangent un regard : « tous deux s’entendaient ». Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
+      "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et la famille ne sera prévenue que le lendemain ; Clotilde subit le retour de son mari.",
       "regroupements": [
         {
           "personnages": [
@@ -371,7 +371,7 @@
       "nom": "L’oncle Bachelard",
       "presence": "acteur",
       "identite": "Homme de commerce connu sur les boulevards pour ses dîners fastueux ; il porte un râtelier et a un grand nez flambant.",
-      "role_dans_chapitre": "Il offre un dîner somptueux à Duveyrier, se vante d’avoir une jeune fille vertueuse, révèle les infidélités de Clarisse et finit par emmener Gueulin et Trublot voir sa protégée.",
+      "role_dans_chapitre": "Il offre un dîner somptueux à Duveyrier, se vante d’avoir une jeune fille vertueuse, révèle les infidélités de Clarisse et finit par partir avec Gueulin et Trublot pour leur montrer sa protégée.",
       "scenes": [
         "s4",
         "s5",
@@ -439,7 +439,7 @@
       "nom": "Fifi",
       "presence": "evoque",
       "identite": "Jeune fille que l’oncle Bachelard protège ; selon lui, fille du capitaine Menu.",
-      "role_dans_chapitre": "Bachelard se vante d’elle comme d’une vraie jeune fille, d’abord sans vouloir la montrer, puis emmène Gueulin et Trublot la voir.",
+      "role_dans_chapitre": "Bachelard se vante d’elle comme d’une vraie jeune fille, d’abord sans vouloir la montrer, puis part avec Gueulin et Trublot pour la leur montrer.",
       "scenes": []
     },
     {
@@ -648,7 +648,8 @@
       "scene": "s2",
       "extraits": [
         "Vous l’avez peut-être entendu se vanter de ne pas aimer la musique ?",
-        "Elle mettait un tel mépris dans cette phrase, qu’il crut devoir risquer un léger rire."
+        "Elle mettait un tel mépris dans cette phrase, qu’il crut devoir risquer un léger rire.",
+        "C’était d’ailleurs l’attaque unique qui lui échappait parfois contre son mari devant le monde"
       ]
     },
     {
@@ -1268,7 +1269,8 @@
       "scene": "s6",
       "extraits": [
         "L’antichambre était vide, les patères elles-mêmes avaient disparu.",
-        "plus un meuble, plus un rideau aux fenêtres, plus une tringle."
+        "plus un meuble, plus un rideau aux fenêtres, plus une tringle.",
+        "À la place du lit, les ferrures du baldaquin enlevées laissaient des trous béants"
       ]
     },
     {
@@ -1419,11 +1421,12 @@
     {
       "id": "c10-f093",
       "categorie": "parole",
-      "enonce": "Bachelard dit qu’il s’attendait à la mort du père Vabre ; Gueulin et Trublot en parlent avec philosophie.",
+      "enonce": "Bachelard dit qu’il s’attendait à la mort du père Vabre ; Gueulin remarque philosophiquement qu’on est au bout de son rouleau, et Trublot ajoute qu’il vaut mieux s’en aller.",
       "scene": "s6",
       "extraits": [
         "Le père Vabre ! murmura Bachelard. Je m’y attendais.",
-        "Bah ! quand on est au bout de son rouleau ! fit remarquer philosophiquement Gueulin."
+        "Bah ! quand on est au bout de son rouleau ! fit remarquer philosophiquement Gueulin.",
+        "Oui, il vaut mieux s’en aller, ajouta Trublot"
       ]
     },
     {
@@ -1468,7 +1471,7 @@
     {
       "id": "c10-f098",
       "categorie": "parole",
-      "enonce": "Dans le fiacre, Duveyrier demande à Octave si Clarisse lui pardonnera, puis s’il doit se remettre avec sa femme ; Octave, forcé de répondre, dit que ce serait raisonnable.",
+      "enonce": "Dans le fiacre, Duveyrier demande d’une voix dolente à Octave : « Croyez-vous qu’elle me pardonne ? », puis s’il ne ferait pas mieux de se remettre avec sa femme, « en attendant » ; Octave, forcé de répondre, dit que ce serait peut-être raisonnable.",
       "scene": "s8",
       "extraits": [
         "Croyez-vous qu’elle me pardonne ?",
@@ -1598,7 +1601,8 @@
       "enonce": "Une heure du matin sonne quand le docteur parle de se retirer ; il promet de revenir de bonne heure.",
       "scene": "s9",
       "extraits": [
-        "Une heure sonnait. Le docteur parla de se retirer, car il avait essayé les révulsifs d’usage, il ne pouvait rien de plus."
+        "Une heure sonnait. Le docteur parla de se retirer, car il avait essayé les révulsifs d’usage, il ne pouvait rien de plus.",
+        "Le matin, il reviendrait de bonne heure."
       ]
     },
     {
@@ -2031,7 +2035,8 @@
       ],
       "extraits": [
         "Hippolyte ne se hâtait point, travaillé d’une inquiétude, d’une répulsion visible à toucher le vieux, qui allait peut-être passer entre ses bras.",
-        "Il fallut qu’Octave lui criât de l’aider. À eux deux, ils le couchèrent."
+        "Il fallut qu’Octave lui criât de l’aider. À eux deux, ils le couchèrent.",
+        "Octave l’interrompit pour lui conseiller d’envoyer chercher le Dr Juillerat. Personne n’y songeait. Hippolyte partit tout de suite, heureux de prendre l’air."
       ],
       "fait_ids": [
         "c10-f027",
@@ -2101,7 +2106,7 @@
       "type": "personnage",
       "difficulte": 3,
       "format": "qcm",
-      "enonce": "Pour quel fils M. Vabre avait-il fait des promesses, selon Duveyrier ?",
+      "enonce": "Selon Duveyrier, en faveur de quel petit-fils M. Vabre avait-il fait des promesses ?",
       "choix": [
         "Hippolyte",
         "Auguste",
@@ -2188,7 +2193,7 @@
       "enonce": "Pourquoi Clotilde recommande-t-elle à Octave : « Pas un mot à personne » ?",
       "choix": [
         "Parce qu’il est inutile de bouleverser la maison",
-        "Pour que Théophile ne vienne pas",
+        "Pour ne pas réveiller M. Vabre",
         "Pour cacher la maladie au docteur",
         "Parce que Berthe est fâchée avec elle"
       ],
@@ -2339,7 +2344,7 @@
       ],
       "extraits": [
         "À neuf heures, le dîner durait encore.",
-        "Outre les deux maîtres d’hôtel, il y avait derrière chaque convive un valet, spécialement chargé de veiller au pain, au vin, au changement des assiettes."
+        "Vers neuf heures, Octave trouva Mme Duveyrier qui l’attendait, dans son grand salon blanc et or."
       ],
       "fait_ids": [
         "c10-f051",
@@ -2508,7 +2513,9 @@
         "Bachelard"
       ],
       "extraits": [
-        "Moi, je suis désabusé, déclara l’oncle Bachelard. La vertu est encore ce qu’il y a de meilleur."
+        "Moi, je suis désabusé, déclara l’oncle Bachelard. La vertu est encore ce qu’il y a de meilleur.",
+        "tandis que l’oncle, vexé de ne plus placer un mot sur la petite, se retenait pour ne pas lui apprendre que sa Clarisse couchait avec tout le monde.",
+        "Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur."
       ],
       "fait_ids": [
         "c10-f054",
@@ -2823,7 +2830,8 @@
       ],
       "extraits": [
         "L’antichambre était vide, les patères elles-mêmes avaient disparu.",
-        "plus un meuble, plus un rideau aux fenêtres, plus une tringle."
+        "plus un meuble, plus un rideau aux fenêtres, plus une tringle.",
+        "On avait décollé la toile cirée du cabinet et dévissé les clous des planches de la cuisine."
       ],
       "fait_ids": [
         "c10-f077",
@@ -3056,7 +3064,7 @@
       "type": "scene",
       "difficulte": 2,
       "format": "multi",
-      "enonce": "Parmi ces personnages, lesquels Bachelard emmène-t-il voir la jeune fille à la fin de la soirée ?",
+      "enonce": "Parmi ces personnages, lesquels Bachelard veut-il emmener voir la jeune fille à la fin de la soirée ?",
       "choix": [
         "Gueulin",
         "Duveyrier",
@@ -3073,8 +3081,8 @@
         "Trublot"
       ],
       "extraits": [
-        "Tonnerre de Dieu ! il faut que je vous la montre.",
-        "Il a beau être près de minuit : elle se lèvera, si elle est couchée…"
+        "l’oncle Bachelard dit à Gueulin et à Trublot, restés dans la rue déserte",
+        "Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite."
       ],
       "fait_ids": [
         "c10-f095",
@@ -3143,7 +3151,7 @@
       "type": "scene",
       "difficulte": 2,
       "format": "multi",
-      "enonce": "Parmi ces personnages, lesquels critiquent leurs maîtres devant la loge de M. Gourd, avant l’arrivée de Duveyrier ?",
+      "enonce": "Parmi ces personnages, lesquels critiquent les maîtres devant la loge de M. Gourd, avant l’arrivée de Duveyrier ?",
       "choix": [
         "Julie",
         "Le Dr Juillerat",
@@ -3164,7 +3172,8 @@
       ],
       "extraits": [
         "Julie, descendue pour courir chez le pharmacien, s’emportait contre les bourgeois qui se laissent crever entre eux, quand ils sont malades",
-        "depuis deux heures qu’il râlait là-haut"
+        "Des cœurs secs, disait M. Gourd, des gens qui ne savaient pas se servir de leurs dix doigts",
+        "tandis qu’Hippolyte, renchérissant encore, racontait la tête de madame, là-haut, son air bête, ses bras ballants en face de ce pauvre monsieur"
       ],
       "fait_ids": [
         "c10-f100",

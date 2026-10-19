@@ -109,15 +109,6 @@
       "regroupements": [
         {
           "personnages": [
-            "octave-mouret"
-          ],
-          "action": "Octave s'écarte, trouvant qu'on finit par être trop tendre dans cette maison, et observe Lisa.",
-          "extraits": [
-            "Octave s’était écarté, en trouvant qu’on finissait par être trop tendre, dans cette maison."
-          ]
-        },
-        {
-          "personnages": [
             "achille-campardon",
             "gasparine",
             "rose-campardon"
@@ -338,7 +329,7 @@
       "id": "rose-campardon",
       "nom": "Rose Campardon (Mme Campardon)",
       "presence": "acteur",
-      "identite": "Femme de l'architecte Campardon et cousine de Gasparine ; de santé fragile (« ça ne se remettra jamais »), elle a du mal à marcher et passe des heures à sa toilette.",
+      "identite": "Femme de l'architecte Campardon et cousine de Gasparine ; de santé fragile (« ça ne se remettra jamais »), elle reste assise de peur de se fatiguer et passe des heures à sa toilette.",
       "role_dans_chapitre": "Elle obtient la réconciliation avec Gasparine puis l'installe chez eux par surprise ; elle se réjouit que son mari ne sorte plus le soir.",
       "scenes": [
         "s1",
@@ -1521,7 +1512,7 @@
     {
       "id": "c09-f097",
       "categorie": "comportement",
-      "enonce": "Octave hésite à cause du peu d'importance de la maison, mais le sourire de Berthe, déjà rencontré le jour de son arrivée et le jour des noces, le décide.",
+      "enonce": "Octave hésite à cause du peu d'importance de la maison, mais le sourire de Berthe et son gai regard, déjà rencontré le jour de son arrivée et le jour des noces, le décident.",
       "scene": "s8",
       "extraits": [
         "Ce dernier, pris à l’improviste, hésitait, était sur le point de refuser, en songeant au peu d’importance de la maison.",
@@ -1625,7 +1616,7 @@
         2,
         3
       ],
-      "reponse_libre": "On parle de l'anglais qu'Angèle apprend depuis quinze jours, car Lisa sortait de chez une actrice revenue de Londres ; le rôti, oublié au feu par Victoire, est immangeable.",
+      "reponse_libre": "On parle de l'anglais qu'Angèle apprend depuis quinze jours, Campardon le jugeant nécessaire à une demoiselle ; comme Lisa sortait de chez une actrice revenue de Londres, on discute à chaque repas le nom des plats ; le rôti, oublié au feu par Victoire, est dur comme des semelles de botte.",
       "elements_cles": [
         "l'anglais appris par Angèle depuis quinze jours",
         "Lisa venait de chez une actrice revenue de Londres",
@@ -2430,7 +2421,7 @@
         "cinquante francs"
       ],
       "extraits": [
-        "Même, au dessert, quand on eut allongé Lilitte entre deux oreillers du divan, il demanda du champagne",
+        "Octave les avait menés au Bœuf à la mode, dans un cabinet, pour être plus libre, disait-il. Là, il les accabla de nourriture, avec une prodigalité émue, ne songeant pas à l’addition, heureux de les voir manger. Même, au dessert, quand on eut allongé Lilitte entre deux oreillers du divan, il demanda du champagne",
         "Alors, comme la petite, tombant de sommeil, refusait de marcher, Octave, pour bien faire les choses jusqu’au bout, voulut absolument prendre une voiture, malgré le voisinage de la rue de Choiseul.",
         "Ma foi, pensait-il en se fourrant tout seul dans son lit, ça m’a coûté cinquante francs, mais je leur devais bien ça"
       ],
@@ -2625,7 +2616,7 @@
         "Son mari est trop souffrant",
         "Elle n'est pas une femme ici, elle a trop d'affaires",
         "Elle aime un autre homme",
-        "Octave est trop jeune pour être associé"
+        "Elle doit partir aux eaux de Vichy"
       ],
       "bonnes_reponses": [
         0,
@@ -2966,7 +2957,7 @@
       "type": "personnage",
       "difficulte": 2,
       "format": "multi",
-      "enonce": "Parmi ces comportements, lesquels sont ceux de Gasparine au dîner du soir chez les Campardon ?",
+      "enonce": "Parmi ces affirmations sur Gasparine, le soir où Octave annonce son départ du Bonheur des Dames, lesquelles sont exactes ?",
       "choix": [
         "Elle choisit pour Rose le meilleur morceau du plat",
         "Elle tance vertement Lisa au sujet d'un morceau de fromage égaré",

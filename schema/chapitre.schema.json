@@ -12,7 +12,7 @@
     "personnages": { "type": "array", "minItems": 3, "items": { "$ref": "#/$defs/personnage" } },
     "faits": { "type": "array", "minItems": 40, "items": { "$ref": "#/$defs/fait" } },
     "citations_cles": { "type": "array", "minItems": 3, "maxItems": 8, "items": { "$ref": "#/$defs/citation" } },
-    "quiz": { "type": "array", "minItems": 30, "maxItems": 60, "items": { "$ref": "#/$defs/question" } }
+    "quiz": { "type": "array", "minItems": 40, "maxItems": 80, "items": { "$ref": "#/$defs/question" } }
   },
   "$defs": {
     "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },

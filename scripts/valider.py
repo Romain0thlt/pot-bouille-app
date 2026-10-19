@@ -10,7 +10,7 @@ Contrôles :
    (normalisation : espaces insécables et retours à la ligne -> espace simple,
    apostrophes et guillemets typographiques unifiés ; rien d'autre) ;
 3. cohérence des identifiants et des références ;
-4. statistiques et couverture des faits (erreur si < 85 %) ;
+4. statistiques et couverture des faits (erreur si < 70 %, avertissement si < 85 %) ;
 5. avertissements non bloquants sur l'équilibre du quiz.
 Code de sortie 1 s'il y a au moins une erreur.
 """
@@ -24,7 +24,8 @@ from pathlib import Path
 from jsonschema import Draft202012Validator
 
 RACINE_REPO = Path(__file__).resolve().parent.parent
-COUVERTURE_MIN = 0.85
+COUVERTURE_MIN = 0.70  # en dessous : erreur bloquante
+COUVERTURE_CIBLE = 0.85  # en dessous : avertissement
 
 APOSTROPHES = dict.fromkeys(map(ord, "’‘ʼ′`"), "'")
 GUILLEMETS = dict.fromkeys(map(ord, "«»“”„‟"), '"')
@@ -157,10 +158,15 @@ def valider_chapitre(nn, racine, validateur):
         print(f"Difficulté  : {repartition(quiz, 'difficulte')}")
         print(f"Formats     : {repartition(quiz, 'format')}")
     print(f"Couverture  : {len(references)}/{len(ids_faits)} faits référencés ({pct(len(references), len(ids_faits))})")
-    if couverture < COUVERTURE_MIN:
-        erreurs.append(f"couverture des faits {100 * couverture:.0f} % < {100 * COUVERTURE_MIN:.0f} %")
+    if couverture < COUVERTURE_CIBLE:
         non_couverts = sorted(ids_faits - references)
-        erreurs.append(f"faits non référencés : {', '.join(non_couverts[:30])}{' …' if len(non_couverts) > 30 else ''}")
+        liste = f"{', '.join(non_couverts[:30])}{' …' if len(non_couverts) > 30 else ''}"
+        if couverture < COUVERTURE_MIN:
+            erreurs.append(f"couverture des faits {100 * couverture:.0f} % < {100 * COUVERTURE_MIN:.0f} % (minimum)")
+            erreurs.append(f"faits non référencés : {liste}")
+        else:
+            avertissements.append(f"couverture des faits {100 * couverture:.0f} % < {100 * COUVERTURE_CIBLE:.0f} % (objectif)"
+                                  f" ; non référencés : {liste}")
 
     # 5. Avertissements
     if quiz:

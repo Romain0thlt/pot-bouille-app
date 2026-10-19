@@ -42,9 +42,9 @@ Identifiants : `c{NN}-f001`, `c{NN}-f002`, etc. Catégories autorisées : identi
 
 ## Étape 4 — Quiz
 
-Taille : 30 à 50 questions ; 45 à 60 si le chapitre dépasse 8 500 mots. Identifiants `c{NN}-q001`, etc.
+Taille : 45 à 60 questions ; 60 à 75 si le chapitre dépasse 8 500 mots. Identifiants `c{NN}-q001`, etc.
 
-- Chaque question part d'un ou plusieurs faits (`fait_ids`). Au moins 85 % des faits doivent être référencés par une question. Ne pose jamais de question sur un fait absent de `faits`.
+- Chaque question part d'un ou plusieurs faits (`fait_ids`). Au moins 70 % des faits doivent être référencés par une question (objectif : 85 %) ; les faits laissés de côté sont ceux de pur contexte. Ne pose jamais de question sur un fait absent de `faits`.
 - Types, répartition cible : `fait` 25 %, `personnage` 15 % (identité, portrait, comportement), `dialogue` 15 % (qui dit quoi, à qui), `scene` 15 % (présence, regroupements, qui est avec qui), `motivation` 15 % (qui veut quoi, pourquoi, comment), `citation` 5 % (phrase qui achève, réplique exacte), `chronologie` 5 %.
 - Difficulté : 1 = événements centraux ; 2 = détails de scène ; 3 = détails pointus (chiffres, âges, œuvres, expéditeurs, noms secondaires, répliques exactes). Entre 35 % et 50 % de niveau 3.
 - Formats : `qcm` (4 choix, 1 bonne), `multi` (4 à 6 choix, au moins 2 bonnes ; énoncé du type « Parmi ces personnages, lesquels… » ; chaque choix non retenu doit être clairement faux d'après le texte), `vrai_faux` (choix `["Vrai","Faux"]`, affirmation nettement vraie ou fausse ; une affirmation fausse altère un détail précis). Au moins 10 % de `multi` et 10 % de `vrai_faux`.

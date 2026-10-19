@@ -23,7 +23,7 @@ Règle : toute décision prise dans le chat est reportée ici ou dans `CLAUDE.md
 
 ## Phase 1 — Setup (Claude Code, ~1 h)
 - [x] `git init`, création de la structure de dossiers (voir `CLAUDE.md`)
-- [ ] Repo GitHub créé et poussé — en attente de `gh auth login` par Romain
+- [x] Repo GitHub créé et poussé : https://github.com/Romain0thlt/pot-bouille-app (public, commits en adresse noreply)
 - [x] Environnement Python + `requirements.txt` (`.venv`, pypdfium2 + jsonschema)
 - [x] Ebook placé dans `source/`
 

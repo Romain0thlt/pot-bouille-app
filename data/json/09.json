@@ -920,7 +920,7 @@
     {
       "id": "c09-f038",
       "categorie": "objet_lieu",
-      "enonce": "Un lit d'acajou, apporté le matin, a pris la place de la table à dessiner de Campardon ; la Vierge au cœur saignant gît contre le mur. Rose dit que c'était une surprise.",
+      "enonce": "Un lit d'acajou, apporté le matin par un marchand de meubles, a pris la place de la table à dessiner de Campardon ; la Vierge au cœur saignant gît contre le mur, calée par une cuvette neuve. Rose dit que c'était une surprise.",
       "scene": "s3",
       "extraits": [
         "Un lit d’acajou, apporté le matin par un marchand de meubles, occupait la place de la table à dessiner, qu’on avait transportée au milieu de la pièce voisine",
@@ -1169,7 +1169,7 @@
     {
       "id": "c09-f063",
       "categorie": "parole",
-      "enonce": "Mme Hédouin répond calmement qu'elle le croyait plus intelligent que les autres, qu'elle n'est pas une femme ici car elle a trop d'affaires, et qu'elle n'en a pas la moindre envie.",
+      "enonce": "Mme Hédouin répond calmement qu'elle le croyait plus intelligent que les autres, qu'elle n'est pas une femme ici car elle a trop d'affaires, et qu'elle ne fera jamais « ça », parce que c'est bête d'abord, inutile ensuite, et qu'elle n'en a pas la moindre envie.",
       "scene": "s5",
       "extraits": [
         "Mais je vous croyais plus intelligent que les autres, monsieur Octave.",
@@ -1526,6 +1526,26 @@
       "scene": "s8",
       "extraits": [
         "Eh bien ! oui, dit-il résolument."
+      ]
+    },
+    {
+      "id": "c09-f099",
+      "categorie": "identite",
+      "enonce": "À Plassans, Rose avait le teint plombé et les membres grêles d'une fillette malade de sa croissance ; aujourd'hui, elle est fraîchement grasse et Gasparine séchée, au point qu'elles ne se reconnaissent plus.",
+      "scene": "s1",
+      "extraits": [
+        "Rose alors avait le teint plombé, les membres grêles d’une fillette malade de sa croissance, tandis que Gasparine, femme à quinze ans, était grande et désirable, avec ses beaux yeux",
+        "elles se regardaient aujourd’hui, elles ne se reconnaissaient plus, l’une si fraîchement grasse dans sa chasteté forcée, l’autre séchée par la vie de passion nerveuse dont elle brûlait."
+      ]
+    },
+    {
+      "id": "c09-f100",
+      "categorie": "parole",
+      "enonce": "Revenu au salon après avoir accroché les gravures avec Gasparine, Campardon présente sa joue à Rose : « C'est fini, ma cocotte… Embrasse ton loup, qui a bien travaillé. »",
+      "scene": "s7",
+      "extraits": [
+        "Mais déjà l’architecte rentrait dans le salon ; et il présenta sa joue échauffée à sa femme.",
+        "C’est fini, ma cocotte… Embrasse ton loup, qui a bien travaillé."
       ]
     }
   ],
@@ -3297,6 +3317,460 @@
       ],
       "fait_ids": [
         "c09-f079"
+      ]
+    },
+    {
+      "id": "c09-q061",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces détails, lesquels décrivent le cabinet de Campardon quand Rose le lui montre, à son retour d'Évreux ?",
+      "choix": [
+        "Un lit d'acajou occupe la place de la table à dessiner",
+        "La table à dessiner a été transportée au milieu de la pièce voisine",
+        "Tout est déjà parfaitement rangé",
+        "La Vierge au cœur saignant gît contre le mur, calée par une cuvette neuve",
+        "Le lit a été monté par Octave pendant la nuit"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        3
+      ],
+      "reponse_libre": "Un lit d'acajou, apporté le matin par un marchand de meubles, a pris la place de la table à dessiner, transportée dans la pièce voisine ; rien n'est encore rangé, et la Vierge au cœur saignant gît contre le mur, calée par une cuvette neuve.",
+      "elements_cles": [
+        "un lit d'acajou à la place de la table à dessiner",
+        "rien n'est encore rangé",
+        "la Vierge au cœur saignant calée par une cuvette neuve"
+      ],
+      "extraits": [
+        "Un lit d’acajou, apporté le matin par un marchand de meubles, occupait la place de la table à dessiner, qu’on avait transportée au milieu de la pièce voisine",
+        "mais rien n’était encore rangé, des cartons s’écroulaient parmi des vêtements à Gasparine",
+        "la Vierge au cœur saignant gisait contre le mur, calée par une cuvette neuve."
+      ],
+      "fait_ids": [
+        "c09-f038"
+      ],
+      "explication": "Le lit a été « apporté le matin par un marchand de meubles », et « rien n'était encore rangé »."
+    },
+    {
+      "id": "c09-q062",
+      "type": "chronologie",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Ce lundi-là, à quel moment Mme Hédouin appelle-t-elle Octave pour examiner les commandes de la semaine, et pour quelle raison ?",
+      "choix": [
+        "Vers trois heures, parce que les Duveyrier la mènent à l'Opéra-Comique",
+        "Après le dîner, comme chaque lundi",
+        "Vers trois heures, parce que son mari revient de Vichy le soir même",
+        "Vers cinq heures, parce que Gasparine doit quitter le magasin"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Au lieu d'après le dîner, comme chaque lundi, elle l'appelle vers trois heures, parce que, ce lundi-là, les Duveyrier la mènent à l'Opéra-Comique.",
+      "elements_cles": [
+        "vers trois heures",
+        "les Duveyrier",
+        "l'Opéra-Comique"
+      ],
+      "extraits": [
+        "Chaque lundi, après le dîner, Octave aidait Mme Hédouin à examiner les commandes de la semaine.",
+        "Mais, ce lundi-là, les Duveyrier menaient justement Mme Hédouin à l’Opéra-Comique. Aussi, vers trois heures, appela-t-elle le jeune homme."
+      ],
+      "fait_ids": [
+        "c09-f054"
+      ]
+    },
+    {
+      "id": "c09-q063",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Une fois rentrés du restaurant, pendant que Jules borde Lilitte, Octave pose un baiser sur le front de Marie, « le baiser d'adieu d'un père qui cède sa fille à un gendre ».",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : en haut, pendant que Jules borde Lilitte, Octave pose sur le front de Marie le baiser d'adieu d'un père qui cède sa fille à un gendre ; dans le fiacre, il avait eu le scrupule de ne pas lui serrer les jambes.",
+      "elements_cles": [
+        "un baiser sur le front de Marie",
+        "le baiser d'adieu d'un père qui cède sa fille à un gendre"
+      ],
+      "extraits": [
+        "Seulement, en haut, pendant que Jules bordait Lilitte, il posa un baiser sur le front de la jeune femme, le baiser d’adieu d’un père qui cède sa fille à un gendre.",
+        "Dans le fiacre, il eut le scrupule de ne pas serrer entre les siennes les jambes de Marie."
+      ],
+      "fait_ids": [
+        "c09-f051"
+      ]
+    },
+    {
+      "id": "c09-q064",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Après la déclaration d'Octave, parmi ces paroles, lesquelles Mme Hédouin lui adresse-t-elle ?",
+      "choix": [
+        "« Je vous croyais plus intelligent que les autres »",
+        "« Je vais tout raconter à mon mari »",
+        "« C'est bête d'abord, inutile ensuite »",
+        "« Heureusement pour moi, je n'en ai pas la moindre envie ! »",
+        "« Attendez au moins le retour de mon mari »"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Elle lui dit qu'elle le croyait plus intelligent que les autres et que jamais elle ne fera « ça », parce que c'est bête d'abord, inutile ensuite, et qu'heureusement pour elle, elle n'en a pas la moindre envie.",
+      "elements_cles": [
+        "plus intelligent que les autres",
+        "c'est bête",
+        "inutile",
+        "pas la moindre envie"
+      ],
+      "extraits": [
+        "Mais je vous croyais plus intelligent que les autres, monsieur Octave.",
+        "jamais je ne ferai ça, parce que c’est bête d’abord, inutile ensuite, et que, heureusement pour moi, je n’en ai pas la moindre envie !"
+      ],
+      "fait_ids": [
+        "c09-f063"
+      ]
+    },
+    {
+      "id": "c09-q065",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces affirmations sur la façon dont Octave annonce à Rose qu'il va prendre ses repas ailleurs, lesquelles sont exactes ?",
+      "choix": [
+        "Il avoue que Mme Hédouin l'a repoussé",
+        "Il invente une histoire : une autre situation qu'il aurait guettée depuis longtemps",
+        "Il explique qu'à la fin du mois, il sera forcé de prendre pension ailleurs",
+        "Rose fond en larmes et refuse de le laisser partir",
+        "Rose éprouve comme un soulagement de son départ"
+      ],
+      "bonnes_reponses": [
+        1,
+        2,
+        4
+      ],
+      "reponse_libre": "Il invente une histoire, une autre situation guettée depuis longtemps, pour expliquer qu'à la fin du mois il sera forcé de prendre pension ailleurs ; Rose, qui n'a plus besoin de lui pour tuer ses soirées, éprouve comme un soulagement.",
+      "elements_cles": [
+        "il invente une autre situation",
+        "pension ailleurs à la fin du mois",
+        "Rose éprouve comme un soulagement"
+      ],
+      "extraits": [
+        "il conta son départ du Bonheur des Dames, il inventa une histoire, une autre situation guettée par lui depuis longtemps ; et il se réservait ainsi un prétexte, pour expliquer sa résolution de prendre ses repas ailleurs.",
+        "Alors, Octave, se trouvant seul avec Rose, reprit son histoire, expliqua qu’à la fin du mois il serait forcé de prendre pension ailleurs.",
+        "et elle-même éprouvait comme un soulagement de son départ, n’ayant plus d’ailleurs besoin de lui, pour tuer ses soirées.",
+        "Jusqu’à Mme Campardon qui le laissait partir sans larmes !"
+      ],
+      "fait_ids": [
+        "c09-f081",
+        "c09-f087"
+      ],
+      "explication": "Octave ne dit pas la vérité sur son départ, et Rose le laisse partir « sans larmes »."
+    },
+    {
+      "id": "c09-q066",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "En arrivant en retard au premier dîner du chapitre, quelle excuse Campardon donne-t-il ?",
+      "choix": [
+        "L'abbé Mauduit l'a retenu à la sacristie",
+        "Monseigneur l'a fait attendre à Évreux",
+        "Il a dû passer chez l'encadreur",
+        "Un imbécile l'a retenu une heure sur un trottoir"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il salue Rose (« mon chat », « ma cocotte ») et dit qu'encore un imbécile l'a retenu une heure sur un trottoir.",
+      "elements_cles": [
+        "un imbécile",
+        "une heure sur un trottoir"
+      ],
+      "extraits": [
+        "Enfin, l’architecte parut.",
+        "Bonsoir, mon chat, bonsoir, ma cocotte, dit-il, en la baisant de son air passionné de bon mari.",
+        "Encore un imbécile, qui m’a retenu une heure sur un trottoir !"
+      ],
+      "fait_ids": [
+        "c09-f005"
+      ]
+    },
+    {
+      "id": "c09-q067",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Pendant le dîner où l'on parle de l'anglais qu'apprend Angèle, sur la prononciation de quel mot fait-on de longs essais inutiles ?",
+      "choix": [
+        "« rumsteack »",
+        "« pudding »",
+        "« roastbeef »",
+        "« sandwich »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "On fait de longs essais inutiles sur la prononciation du mot « rumsteack », puis il faut remporter le rôti, oublié au feu par Victoire.",
+      "elements_cles": [
+        "rumsteack"
+      ],
+      "extraits": [
+        "Pendant tout le dîner, il fut question de la langue anglaise, que la petite Angèle apprenait depuis quinze jours.",
+        "Ce soir-là, après de longs essais inutiles sur la prononciation du mot « rumsteack », il fallut remporter le rôti, oublié au feu par Victoire, et dur comme des semelles de botte."
+      ],
+      "fait_ids": [
+        "c09-f009"
+      ]
+    },
+    {
+      "id": "c09-q068",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces affirmations sur le moment où Octave et Mme Hédouin s'installent dans le cabinet du fond, lesquelles sont exactes ?",
+      "choix": [
+        "Mme Hédouin refuse d'un signe de tête qu'il pousse le verrou",
+        "Ils doivent allumer le gaz malgré le clair soleil",
+        "Le cabinet ne reçoit qu'un jour livide par une cour intérieure",
+        "Gasparine est assise avec eux pour examiner les commandes",
+        "Octave pousse le verrou en murmurant que personne ne viendra les déranger"
+      ],
+      "bonnes_reponses": [
+        1,
+        2,
+        4
+      ],
+      "reponse_libre": "Malgré le clair soleil, ils doivent allumer le gaz, car le cabinet ne reçoit qu'un jour livide par une cour intérieure ; Octave pousse le verrou en murmurant : « Personne ne viendra nous déranger », et Mme Hédouin, étonnée, l'approuve de la tête.",
+      "elements_cles": [
+        "allumer le gaz malgré le soleil",
+        "un jour livide par une cour intérieure",
+        "Octave pousse le verrou",
+        "« Personne ne viendra nous déranger »"
+      ],
+      "extraits": [
+        "Malgré le clair soleil, ils durent allumer le gaz, car le cabinet ne recevait qu’un jour livide par une cour intérieure.",
+        "Comme il poussait le verrou et qu’elle le regardait, étonnée",
+        "Personne ne viendra nous déranger, murmura-t-il.",
+        "Elle l’approuva de la tête, ils se mirent au travail."
+      ],
+      "fait_ids": [
+        "c09-f055"
+      ]
+    },
+    {
+      "id": "c09-q069",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Que dit le chapitre des liens entre Mme Hédouin et le Bonheur des Dames ?",
+      "choix": [
+        "Elle y est entrée comme simple demoiselle de magasin",
+        "Elle l'a fondé avec son mari, M. Hédouin",
+        "Elle l'a racheté à M. Vabre",
+        "Elle y est née, et la maison a été fondée par son père et son oncle"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Mme Hédouin est née au Bonheur des Dames, fondé par son père et son oncle ; elle aime la maison et la voit en rêve s'élargir.",
+      "elements_cles": [
+        "née au Bonheur des Dames",
+        "fondé par son père et son oncle"
+      ],
+      "extraits": [
+        "Elle était née au Bonheur des Dames, fondé par son père et son oncle, elle aimait la maison, elle la voyait s’élargir, dévorer les maisons voisines, étaler une façade royale"
+      ],
+      "fait_ids": [
+        "c09-f060"
+      ]
+    },
+    {
+      "id": "c09-q070",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces détails sur Rose Campardon, lesquels sont exacts ?",
+      "choix": [
+        "Au premier dîner, elle porte un peignoir de soie crème garni de dentelles blanches",
+        "Elle roule en petits frisons ses cheveux noirs",
+        "Le soir où Octave a quitté le Bonheur des Dames, il l'aide à remettre un peignoir de satin bleu brodé d'argent",
+        "Elle porte une robe de laine noire très simple",
+        "Elle fait examiner à Octave une rougeur derrière l'oreille"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        4
+      ],
+      "reponse_libre": "Au premier dîner, Rose est en peignoir de soie crème garni de dentelles blanches ; le soir où Octave quitte le Bonheur des Dames, elle lui fait examiner une rougeur derrière l'oreille, puis il l'aide à remettre son peignoir de satin bleu brodé d'argent.",
+      "elements_cles": [
+        "peignoir de soie crème",
+        "peignoir de satin bleu brodé d'argent",
+        "rougeur derrière l'oreille"
+      ],
+      "extraits": [
+        "Deux jours plus tard, vers sept heures, comme Octave arrivait chez les Campardon pour le dîner, il trouva Rose seule, vêtue d’un peignoir de soie crème, garni de dentelles blanches.",
+        "Attentive devant la glace, elle roulait en petits frisons ses cheveux d’or.",
+        "Voyez donc cette rougeur, là, derrière l’oreille",
+        "quand il l’eut aidée à remettre son peignoir, tout de satin bleu et brodé d’argent, ce soir-là"
+      ],
+      "fait_ids": [
+        "c09-f001",
+        "c09-f080",
+        "c09-f082"
+      ],
+      "explication": "Rose a des cheveux d'or ; la robe de laine noire est celle de Gasparine."
+    },
+    {
+      "id": "c09-q071",
+      "type": "citation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Dans la rue, après son départ du Bonheur des Dames, Octave se fait des reproches. Complétez : « Ne pouvait-il donc faire son affaire d'argent dans la maison, sans exiger d'y trouver, tout à la fois, … ? »",
+      "choix": [
+        "le pain et le lit",
+        "la gloire et la fortune",
+        "un père et une mère",
+        "le repos et la paix"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il se reproche d'avoir voulu devenir l'amant de la patronne, au lieu de faire seulement son affaire d'argent dans la maison, sans exiger d'y trouver, tout à la fois, « le pain et le lit ».",
+      "elements_cles": [
+        "le pain et le lit"
+      ],
+      "extraits": [
+        "Ensuite, quelle idée jeune, d’avoir voulu quand même devenir l’amant de la patronne !",
+        "Ne pouvait-il donc faire son affaire d’argent dans la maison, sans exiger d’y trouver, tout à la fois, le pain et le lit ?"
+      ],
+      "fait_ids": [
+        "c09-f067"
+      ]
+    },
+    {
+      "id": "c09-q072",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Autrefois, à Plassans, quand Gasparine était déjà « femme à quinze ans », à quoi ressemblait Rose ?",
+      "choix": [
+        "Elle était grande et désirable, avec de beaux yeux",
+        "Elle était déjà fraîchement grasse, vêtue de soie",
+        "Elle était séchée par une vie de passion nerveuse",
+        "Elle avait le teint plombé et les membres grêles d'une fillette malade de sa croissance"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "À Plassans, Rose avait le teint plombé et les membres grêles d'une fillette malade de sa croissance, tandis que Gasparine était grande et désirable ; aujourd'hui, les deux cousines ne se reconnaissent plus.",
+      "elements_cles": [
+        "teint plombé",
+        "membres grêles",
+        "fillette malade de sa croissance"
+      ],
+      "extraits": [
+        "Rose alors avait le teint plombé, les membres grêles d’une fillette malade de sa croissance, tandis que Gasparine, femme à quinze ans, était grande et désirable, avec ses beaux yeux",
+        "elles se regardaient aujourd’hui, elles ne se reconnaissaient plus, l’une si fraîchement grasse dans sa chasteté forcée, l’autre séchée par la vie de passion nerveuse dont elle brûlait."
+      ],
+      "fait_ids": [
+        "c09-f099"
+      ],
+      "explication": "Grande et désirable, c'était Gasparine à Plassans ; aujourd'hui, Rose est grasse et Gasparine séchée."
+    },
+    {
+      "id": "c09-q073",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "vrai_faux",
+      "enonce": "Pour séduire Mme Hédouin, Octave prend une voix d'acteur et la chauffe de ses yeux noirs, que des femmes disaient irrésistibles.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : Octave prend une voix d'acteur, douce et chantante, et la chauffe de ses yeux couleur de vieil or, que des femmes disaient irrésistibles.",
+      "elements_cles": [
+        "yeux couleur de vieil or",
+        "voix d'acteur, douce et chantante"
+      ],
+      "extraits": [
+        "Alors, la voyant ébranlée, Octave prit sa voix de séduction, une voix d’acteur, douce et chantante.",
+        "Il la chauffait en même temps de ses yeux couleur de vieil or, que des femmes disaient irrésistibles."
+      ],
+      "fait_ids": [
+        "c09-f062"
+      ]
+    },
+    {
+      "id": "c09-q074",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Le soir de la réconciliation, Campardon, qui d'habitude s'endort en sortant de table, retrouve sa gaieté d'artiste. Que ressort-il ?",
+      "choix": [
+        "Les vieilles farces et les chansons raides de l'École des Beaux-Arts",
+        "Des cantiques appris à Saint-Roch",
+        "Des airs de l'Opéra-Comique",
+        "Les chansons de leur jeunesse à Plassans"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Campardon retrouve sa gaieté d'artiste, les vieilles farces et les chansons raides de l'École des Beaux-Arts, et la fin de la soirée est charmante.",
+      "elements_cles": [
+        "vieilles farces",
+        "chansons raides",
+        "École des Beaux-Arts"
+      ],
+      "extraits": [
+        "La fin de la soirée fut charmante.",
+        "Campardon, qui s’endormait d’habitude au sortir de table, s’il restait chez lui, retrouva sa gaieté d’artiste, les vieilles farces et les chansons raides de l’École des Beaux-Arts."
+      ],
+      "fait_ids": [
+        "c09-f021"
+      ]
+    },
+    {
+      "id": "c09-q075",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Revenu au salon après avoir accroché les gravures avec la cousine, Campardon présente sa joue à Rose. Comment se désigne-t-il en lui demandant de l'embrasser ?",
+      "choix": [
+        "« ton ours, qui a bien travaillé »",
+        "« ton architecte, qui a bien travaillé »",
+        "« ton artiste, qui a bien travaillé »",
+        "« ton loup, qui a bien travaillé »"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il dit à Rose : « C'est fini, ma cocotte… Embrasse ton loup, qui a bien travaillé. »",
+      "elements_cles": [
+        "ton loup",
+        "qui a bien travaillé"
+      ],
+      "extraits": [
+        "Emballée, Mignon aspirant au ciel ! cria la voix joyeuse de Campardon.",
+        "Mais déjà l’architecte rentrait dans le salon ; et il présenta sa joue échauffée à sa femme.",
+        "C’est fini, ma cocotte… Embrasse ton loup, qui a bien travaillé."
+      ],
+      "fait_ids": [
+        "c09-f100"
       ]
     }
   ]

@@ -854,10 +854,10 @@
     {
       "id": "c10-f035",
       "categorie": "culture",
-      "enonce": "Sur une fiche, Octave lit le nom d’Isidore Charbotel et ses envois aux Salons : Atalante en 1857, le Lion d’Androclès en 1859.",
+      "enonce": "Sur une fiche, Octave lit le nom d’Isidore Charbotel et ses envois aux Salons : Atalante en 1857, le Lion d’Androclès en 1859, un portrait de M. P*** en 1861.",
       "scene": "s3",
       "extraits": [
-        "Au moment où il lisait sur un de ces cartons : « Isidore Charbotel : Salon de 1857, Atalante ; Salon de 1859, le Lion d’Androclès"
+        "Au moment où il lisait sur un de ces cartons : « Isidore Charbotel : Salon de 1857, Atalante ; Salon de 1859, le Lion d’Androclès ; Salon de 1861, portrait de M. P***"
       ]
     },
     {
@@ -1613,6 +1613,45 @@
       "scene": "s9",
       "extraits": [
         "Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls."
+      ]
+    },
+    {
+      "id": "c10-f114",
+      "categorie": "objet_lieu",
+      "scene": "s4",
+      "enonce": "Les vins du dîner : madère vieux au potage, château-filhot 58 aux hors-d’œuvre, johannisberg et pichon-longueville aux relevés, château-lafite 48 aux entrées, sparling-moselle au rôti, roederer frappé au dessert.",
+      "extraits": [
+        "C’était simple et grand, élargi d’ailleurs par un choix de vins vraiment royal : madère vieux au potage, château-filhot 58 aux hors-d’œuvre, johannisberg et pichon-longueville aux relevés, château-lafite 48 aux entrées, sparling-moselle au rôti, roederer frappé au dessert."
+      ]
+    },
+    {
+      "id": "c10-f115",
+      "categorie": "comportement",
+      "scene": "s9",
+      "enonce": "Quand son mari l’embrasse, Clotilde, surprise de cette effusion inaccoutumée, recule ; après sa demande de pardon, elle ne répond rien et se dégage.",
+      "extraits": [
+        "Le conseiller ouvrit les bras, plein de gêne ; et il l’embrassa, en murmurant",
+        "Surprise de cette effusion inaccoutumée, elle recula.",
+        "Elle ne répondit rien, se dégagea."
+      ]
+    },
+    {
+      "id": "c10-f116",
+      "categorie": "parole",
+      "scene": "s6",
+      "enonce": "En apprenant que Clarisse a filé, Octave dit que cela ne l’étonne pas : « Elle avait des yeux et des cheveux si drôles ! »",
+      "extraits": [
+        "Mais non, le concierge m’a tranquillement regardé monter… Tiens ! elle a filé ! Ça ne m’étonne pas. Elle avait des yeux et des cheveux si drôles !"
+      ]
+    },
+    {
+      "id": "c10-f117",
+      "categorie": "parole",
+      "scene": "s4",
+      "enonce": "Gueulin raconte qu’un soir il a dû se défendre contre la veuve au coup de sabre, qui « voulait » : « On ne sait jamais où ça vous mène, des femmes pareilles ! »",
+      "extraits": [
+        "Eh bien ! j’ai dû me défendre, un soir, contre celle au coup de sabre. Elle voulait, mais moi pas si bête ! On ne sait jamais où ça vous mène, des femmes pareilles !",
+        "Et l’autre, la veuve du capitaine, rappelez-vous ! qui montrait sur son ventre un coup de sabre…"
       ]
     }
   ],
@@ -3312,6 +3351,440 @@
       ],
       "fait_ids": [
         "c10-f113"
+      ]
+    },
+    {
+      "id": "c10-q061",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Lors de l’attaque de M. Vabre, qui pense à envoyer chercher le Dr Juillerat ?",
+      "choix": [
+        "Clotilde",
+        "Octave",
+        "Julie",
+        "Clémence"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "C’est Octave qui conseille d’envoyer chercher le Dr Juillerat ; personne d’autre n’y songeait.",
+      "elements_cles": [
+        "Octave",
+        "personne n’y songeait"
+      ],
+      "extraits": [
+        "Octave l’interrompit pour lui conseiller d’envoyer chercher le Dr Juillerat. Personne n’y songeait.",
+        "Hippolyte partit tout de suite, heureux de prendre l’air."
+      ],
+      "fait_ids": [
+        "c10-f029"
+      ]
+    },
+    {
+      "id": "c10-q062",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : au troisième, Duveyrier, pris d’une faiblesse, ne trouve pas le trou de la serrure, et c’est Trublot qui ouvre la porte de l’appartement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : Duveyrier ne parvient pas à trouver le trou de la serrure, et Trublot lui rend le service d’ouvrir.",
+      "elements_cles": [
+        "Vrai",
+        "Duveyrier ne trouve pas la serrure",
+        "Trublot ouvre"
+      ],
+      "extraits": [
+        "Au troisième, il fut pris d’une faiblesse, jamais il ne put trouver le trou de la serrure. Trublot lui rendit le service d’ouvrir."
+      ],
+      "fait_ids": [
+        "c10-f075"
+      ]
+    },
+    {
+      "id": "c10-q063",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces actions, lesquelles sont celles de Trublot dans l’appartement vide de Clarisse et en le quittant ?",
+      "choix": [
+        "Il tient la bougie pendant la visite",
+        "Il s’assoit par terre contre un mur",
+        "Il raconte à Duveyrier les farces de Clarisse",
+        "Il fume le cigare trouvé sur la cheminée",
+        "Il rend la clef au concierge"
+      ],
+      "bonnes_reponses": [
+        1,
+        3,
+        4
+      ],
+      "reponse_libre": "Trublot, épuisé, se laisse glisser par terre contre un mur en fumant le cigare abandonné sur la cheminée ; en bas, c’est lui qui rend la clef au concierge, car Duveyrier a honte.",
+      "elements_cles": [
+        "s’assoit par terre",
+        "fume le cigare abandonné",
+        "rend la clef au concierge"
+      ],
+      "explication": "C’est Duveyrier qui tient la bougie et Bachelard qui raconte les farces de Clarisse.",
+      "extraits": [
+        "Il venait d’apercevoir sur la cheminée un faux col sale et un cigare détérioré.",
+        "Il l’alluma à la bougie que le conseiller tenait toujours ; et, se laissant glisser le long d’un mur",
+        "Tant pis ! je m’assois un peu par terre… J’ai les jambes qui me rentrent dans le corps.",
+        "mais, en bas, il fut pris d’une honte, Trublot dut rendre la clef au concierge."
+      ],
+      "fait_ids": [
+        "c10-f086",
+        "c10-f094",
+        "c10-f084"
+      ]
+    },
+    {
+      "id": "c10-q064",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Combien coûtent, par tête, les dîners fastueux que Bachelard offre quand un client lui arrive de l’Inde ou du Brésil ?",
+      "choix": [
+        "Cent francs",
+        "Dix louis",
+        "Trois cents francs",
+        "Mille francs"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Bachelard est connu sur les boulevards pour ses dîners à trois cents francs par tête.",
+      "elements_cles": [
+        "trois cents francs par tête"
+      ],
+      "extraits": [
+        "quand un client tombait chez lui du fond de l’Inde ou du Brésil, des dîners à trois cents francs par tête, dans lesquels il soutenait noblement l’honneur de la commission française."
+      ],
+      "fait_ids": [
+        "c10-f043"
+      ]
+    },
+    {
+      "id": "c10-q065",
+      "type": "citation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Dans l’air de Zémire et Azor que chante Octave, quel vers suit « Du moment qu’on aime » ?",
+      "choix": [
+        "« L’on devient si doux… »",
+        "« Plus tremblant que vous. »",
+        "« Et je suis moi-même »",
+        "« Comment peut-on ne pas aimer la musique ? »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Après « Du moment qu’on aime », Octave chante « L’on devient si doux… », puis « Et je suis moi-même / Plus tremblant que vous ».",
+      "elements_cles": [
+        "L’on devient si doux"
+      ],
+      "extraits": [
+        "Du moment qu’on aime,",
+        "L’on devient si doux…",
+        "Octave, très flatté, fila les deux autres vers."
+      ],
+      "fait_ids": [
+        "c10-f016"
+      ]
+    },
+    {
+      "id": "c10-q066",
+      "type": "motivation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel projet Mme Duveyrier a-t-elle pour un de ses premiers samedis de l’hiver suivant ?",
+      "choix": [
+        "Faire chanter à Octave tout Zémire et Azor",
+        "Donner une seconde audition de la Bénédiction des Poignards, avec deux ténors de plus",
+        "Donner la Bénédiction des Poignards pour la première fois, avec un seul ténor",
+        "Organiser un concert au Café anglais"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle veut donner une seconde audition de la Bénédiction des Poignards, avec deux ténors de plus, « quelque chose de très complet ».",
+      "elements_cles": [
+        "seconde audition",
+        "Bénédiction des Poignards",
+        "deux ténors de plus"
+      ],
+      "extraits": [
+        "Justement, elle voulait donner une seconde audition de la Bénédiction des Poignards, à un de ses premiers samedis de l’hiver suivant, mais avec deux ténors de plus, quelque chose de très complet."
+      ],
+      "fait_ids": [
+        "c10-f003"
+      ]
+    },
+    {
+      "id": "c10-q067",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : quand Octave veut défendre Duveyrier, Clotilde lui répond qu’elle est trop heureuse et que son mari « peut y rester ».",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : Clotilde lui dit de ne pas le défendre, qu’elle est trop heureuse et qu’il peut y rester, avant de s’écrier « si ce n’était pas pour mon pauvre père ! ».",
+      "elements_cles": [
+        "Vrai",
+        "trop heureuse",
+        "il peut y rester"
+      ],
+      "extraits": [
+        "Il voulut protester.",
+        "Ne le défendez donc pas ! reprit-elle. Je suis trop heureuse, il peut y rester… Ah ! mon Dieu ! si ce n’était pas pour mon pauvre père !"
+      ],
+      "fait_ids": [
+        "c10-f038"
+      ]
+    },
+    {
+      "id": "c10-q068",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Par quelle formule l’oncle Bachelard, paternel, console-t-il Duveyrier en pleurs dans l’appartement vide ?",
+      "choix": [
+        "« Un petit caveau de famille. »",
+        "« Quel nettoyage ! »",
+        "« Bah ! quand on est au bout de son rouleau ! »",
+        "« L’honneur est sauf, que diable ! »"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Bachelard lui répète : « Du courage, monsieur ! Ça m’est arrivé, et je n’en suis pas mort… L’honneur est sauf, que diable ! »",
+      "elements_cles": [
+        "L’honneur est sauf",
+        "ça m’est arrivé"
+      ],
+      "extraits": [
+        "L’oncle Bachelard se montra paternel.",
+        "Du courage, monsieur ! répétait-il. Ça m’est arrivé, et je n’en suis pas mort… L’honneur est sauf, que diable !"
+      ],
+      "fait_ids": [
+        "c10-f079"
+      ]
+    },
+    {
+      "id": "c10-q069",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Au dîner du Café anglais, quel vin est servi au dessert ?",
+      "choix": [
+        "Du roederer frappé",
+        "Du madère vieux",
+        "Du château-lafite 48",
+        "Du johannisberg"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Le roederer frappé est servi au dessert (le madère vieux au potage, le château-lafite 48 aux entrées, le johannisberg aux relevés).",
+      "elements_cles": [
+        "roederer frappé"
+      ],
+      "extraits": [
+        "C’était simple et grand, élargi d’ailleurs par un choix de vins vraiment royal : madère vieux au potage, château-filhot 58 aux hors-d’œuvre, johannisberg et pichon-longueville aux relevés, château-lafite 48 aux entrées, sparling-moselle au rôti, roederer frappé au dessert."
+      ],
+      "fait_ids": [
+        "c10-f114"
+      ]
+    },
+    {
+      "id": "c10-q070",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces rues, lesquelles les quatre hommes parcourent-ils à pied en se rendant chez Clarisse après le dîner ?",
+      "choix": [
+        "La rue de Provence",
+        "La rue de Rivoli",
+        "La rue Saint-Sulpice",
+        "La rue de Richelieu",
+        "La rue Godot-de-Mauroy"
+      ],
+      "bonnes_reponses": [
+        1,
+        3
+      ],
+      "reponse_libre": "Ils descendent la rue de Richelieu, puis suivent la rue de Rivoli, tout le long de laquelle Duveyrier ne tarit pas d’éloges sur Clarisse.",
+      "elements_cles": [
+        "rue de Richelieu",
+        "rue de Rivoli"
+      ],
+      "extraits": [
+        "Comme la soirée était superbe, ils décidèrent d’aller à pied, dans l’idée hygiénique de hâter leur digestion.",
+        "Alors, ils descendirent la rue de Richelieu, assez d’aplomb sur leurs jambes, mais si pleins, que les trottoirs leur semblaient trop étroits.",
+        "Et, tout le long de la rue de Rivoli, le conseiller ne tarissait pas"
+      ],
+      "fait_ids": [
+        "c10-f068",
+        "c10-f071",
+        "c10-f070"
+      ]
+    },
+    {
+      "id": "c10-q071",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces œuvres, lesquelles figurent sur la fiche d’Isidore Charbotel que lit Octave ?",
+      "choix": [
+        "Atalante",
+        "Zémire et Azor",
+        "Un portrait de M. P***",
+        "La Bénédiction des Poignards",
+        "Le Lion d’Androclès"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        4
+      ],
+      "reponse_libre": "La fiche mentionne Atalante (Salon de 1857), le Lion d’Androclès (Salon de 1859) et un portrait de M. P*** (Salon de 1861).",
+      "elements_cles": [
+        "Atalante",
+        "le Lion d’Androclès",
+        "portrait de M. P***"
+      ],
+      "extraits": [
+        "Au moment où il lisait sur un de ces cartons : « Isidore Charbotel : Salon de 1857, Atalante ; Salon de 1859, le Lion d’Androclès ; Salon de 1861, portrait de M. P***"
+      ],
+      "fait_ids": [
+        "c10-f035"
+      ]
+    },
+    {
+      "id": "c10-q072",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Comment Clotilde réagit-elle quand Duveyrier, de retour, l’embrasse et lui demande pardon ?",
+      "choix": [
+        "Elle lui pardonne aussitôt en pleurant dans ses bras",
+        "Elle lui reproche sa maîtresse devant Octave",
+        "Surprise, elle recule, puis se dégage sans rien répondre",
+        "Elle le renvoie rue de la Cerisaie"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Surprise de cette effusion inaccoutumée, elle recule ; puis, sans rien répondre, elle se dégage.",
+      "elements_cles": [
+        "recule, surprise",
+        "ne répond rien",
+        "se dégage"
+      ],
+      "extraits": [
+        "Surprise de cette effusion inaccoutumée, elle recula.",
+        "Elle ne répondit rien, se dégagea."
+      ],
+      "fait_ids": [
+        "c10-f115",
+        "c10-f103"
+      ]
+    },
+    {
+      "id": "c10-q073",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelle remarque Octave fait-il en apprenant que Clarisse a filé avec les meubles ?",
+      "choix": [
+        "« Quel nettoyage ! »",
+        "« Ça ne m’étonne pas. Elle avait des yeux et des cheveux si drôles ! »",
+        "« Ça sonne le creux. »",
+        "« Ne vous plaignez pas, elle vous a laissé un souvenir. »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Octave dit que cela ne l’étonne pas, car elle avait « des yeux et des cheveux si drôles ».",
+      "elements_cles": [
+        "ça ne l’étonne pas",
+        "des yeux et des cheveux si drôles"
+      ],
+      "extraits": [
+        "Mais non, le concierge m’a tranquillement regardé monter… Tiens ! elle a filé ! Ça ne m’étonne pas. Elle avait des yeux et des cheveux si drôles !"
+      ],
+      "fait_ids": [
+        "c10-f116"
+      ]
+    },
+    {
+      "id": "c10-q074",
+      "type": "chronologie",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces indications de durée sur l’état de M. Vabre, lesquelles sont données dans le chapitre ?",
+      "choix": [
+        "Selon Julie, le vieux râle depuis deux heures",
+        "Selon le Dr Juillerat, il peut vivre encore plusieurs semaines",
+        "Selon le Dr Juillerat, il peut traîner jusqu’au lendemain",
+        "Selon Julie, il râle depuis la veille"
+      ],
+      "bonnes_reponses": [
+        0,
+        2
+      ],
+      "reponse_libre": "Julie dit que le vieux râle depuis deux heures ; le Dr Juillerat annonce qu’il peut traîner jusqu’au lendemain, mais sans aucune espérance.",
+      "elements_cles": [
+        "depuis deux heures (Julie)",
+        "jusqu’au lendemain (le docteur)"
+      ],
+      "extraits": [
+        "depuis deux heures qu’il râlait là-haut, le vieux aurait pu avaler vingt fois sa langue",
+        "C’était une attaque d’apoplexie séreuse ; le malade pouvait traîner jusqu’au lendemain ; mais il n’y avait plus aucune espérance."
+      ],
+      "fait_ids": [
+        "c10-f108",
+        "c10-f100"
+      ]
+    },
+    {
+      "id": "c10-q075",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Contre quelle femme Gueulin raconte-t-il avoir dû se défendre, un soir ?",
+      "choix": [
+        "La grande de Passy, celle au magasin de bonbons",
+        "La petite dame au commerce de modes des Ternes",
+        "Celle en chambre, avec ses trousseaux pour les orphelins",
+        "La veuve du capitaine, au coup de sabre"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Gueulin dit qu’un soir il a dû se défendre contre la veuve du capitaine, « celle au coup de sabre », qui voulait de lui.",
+      "elements_cles": [
+        "la veuve du capitaine",
+        "au coup de sabre"
+      ],
+      "extraits": [
+        "Et l’autre, la veuve du capitaine, rappelez-vous ! qui montrait sur son ventre un coup de sabre…",
+        "Eh bien ! j’ai dû me défendre, un soir, contre celle au coup de sabre. Elle voulait, mais moi pas si bête ! On ne sait jamais où ça vous mène, des femmes pareilles !"
+      ],
+      "fait_ids": [
+        "c10-f117",
+        "c10-f060"
       ]
     }
   ]

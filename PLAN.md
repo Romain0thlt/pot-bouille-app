@@ -37,15 +37,15 @@ Règle : toute décision prise dans le chat est reportée ici ou dans `CLAUDE.md
 **Condition de passage :** Romain compare le début et la fin de 3 chapitres avec l'édition du frère.
 
 ## Phase 3 — Schéma et prompts (chat puis Claude Code, ~2 h)
-- [ ] Schéma JSON finalisé dans le chat, puis écrit dans `schema/chapitre.schema.json`
-- [ ] `prompts/generation.md` rédigé dans le chat. Il prévoit :
+- [x] Schéma JSON finalisé dans le chat, puis écrit dans `schema/chapitre.schema.json`
+- [x] `prompts/generation.md` rédigé dans le chat (la version finale fait foi : inventaire de faits, scènes, `extraits`). Plan initial :
   - un résumé court (5 lignes) et un résumé détaillé scène par scène (lieu, moment, personnages, actions, dialogues marquants) ;
   - les personnages du chapitre, avec leur rôle dans le chapitre et le marqueur `premiere_apparition` ;
   - les lieux et les citations clés ;
   - un quiz de 30 à 50 questions, réparties en types : détail factuel, dialogue (« qui dit quoi à qui »), présence et regroupement (« qui est avec qui »), motivations, chronologie, vrai/faux piège ;
   - pour chaque question : choix, réponse, `extrait_justificatif`, difficulté de 1 à 3.
-- [ ] `prompts/verification.md` : relire chaque question face au texte, contrôler l'extrait (citation exacte ?), la réponse et l'absence de spoiler, puis produire une liste de corrections.
-- [ ] `scripts/valider.py` (ou `npm run validate`) : validation de schéma et contrôle que chaque extrait est bien présent mot pour mot dans le `.txt` du chapitre.
+- [x] `prompts/verification.md` : relire chaque question face au texte, contrôler l'extrait (citation exacte ?), la réponse et l'absence de spoiler, puis produire une liste de corrections (rapport dans `data/verif/NN.verif.json`).
+- [x] `scripts/valider.py NN` : validation de schéma et contrôle que chaque extrait est bien présent mot pour mot dans le `.txt` du chapitre, plus cohérence des ids et couverture des faits (≥ 85 %). Testé sur un faux chapitre.
 
 **Condition de passage :** schéma et prompts validés dans le chat.
 
@@ -114,3 +114,4 @@ Processus par lot de 2 chapitres, à finir au moins **5 jours avant** le contrô
 | 2026-10-19 | Génération par Claude Code (sous-agents), pas par script API | Chat |
 | 2026-10-19 | Extraction PDF avec pypdfium2 (pypdf casse les mots) ; paragraphes reconstruits via les alinéas | Claude Code, validé par Romain |
 | 2026-10-19 | `source/`, `data/chapitres/`, `data/controles_passes.md` jamais versionnés | Romain |
+| 2026-10-19 | Schéma v1 : inventaire de faits + quiz relié aux faits (`fait_ids`), 1 à 3 `extraits` exacts par fait, question et regroupement ; validation par `python scripts/valider.py NN` (pas npm), couverture des faits ≥ 85 % ; rapports de vérification dans `data/verif/` | Chat |

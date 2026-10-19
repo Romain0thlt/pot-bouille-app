@@ -7,17 +7,18 @@ Le texte est dans le domaine public. La feuille de route est dans `PLAN.md` : li
 
 ## Règles de contenu (non négociables)
 1. **Tout vient du texte du chapitre**, situé dans `data/chapitres/XX.txt`. N'utilise jamais tes connaissances préalables du roman pour un fait, un nom ou une réponse.
-2. **Chaque réponse de quiz a un `extrait_justificatif`** : une citation exacte copiée du chapitre. Si aucun extrait ne prouve la réponse, la question est supprimée.
+2. **Chaque fait et chaque question citent des extraits exacts copiés du chapitre** (champ `extraits`). Si aucun extrait ne prouve un élément, il est supprimé.
 3. **Pas de spoiler.** Le contenu du chapitre N ne mentionne rien qui se passe après le chapitre N. Cela vaut aussi pour les fiches personnages.
 4. **Langue** : français, niveau lycée, clair.
 5. **Génération et vérification sont deux passes séparées.** La vérification est faite par un sous-agent qui n'a pas vu la génération.
-6. Chaque JSON produit doit passer `npm run validate`, qui contrôle le schéma.
+6. Chaque JSON produit doit passer `python scripts/valider.py NN` (schéma, extraits mot pour mot, cohérence, couverture des faits).
 
 ## Structure du repo
 ```
 source/                 ebook original (ne jamais modifier)
 data/chapitres/XX.txt   texte brut découpé par chapitre
 data/json/XX.json       contenu généré et validé (résumés, personnages, quiz)
+data/verif/XX.verif.json rapports de vérification (sous-agent indépendant)
 data/personnages.json   fiches personnages cumulatives, par chapitre
 prompts/generation.md   prompt de génération d'un chapitre
 prompts/verification.md prompt de vérification d'un chapitre

@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Contenu d'étude d'un chapitre de Pot-Bouille",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version_schema", "chapitre", "resume_court", "scenes", "personnages", "faits", "citations_cles", "quiz"],
+  "properties": {
+    "version_schema": { "const": 1 },
+    "chapitre": { "type": "integer", "minimum": 1, "maximum": 18 },
+    "resume_court": { "type": "string", "minLength": 300, "maxLength": 900 },
+    "scenes": { "type": "array", "minItems": 2, "maxItems": 14, "items": { "$ref": "#/$defs/scene" } },
+    "personnages": { "type": "array", "minItems": 3, "items": { "$ref": "#/$defs/personnage" } },
+    "faits": { "type": "array", "minItems": 40, "items": { "$ref": "#/$defs/fait" } },
+    "citations_cles": { "type": "array", "minItems": 3, "maxItems": 8, "items": { "$ref": "#/$defs/citation" } },
+    "quiz": { "type": "array", "minItems": 30, "maxItems": 60, "items": { "$ref": "#/$defs/question" } }
+  },
+  "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "id_scene": { "type": "string", "pattern": "^s[0-9]{1,2}$" },
+    "extrait": { "type": "string", "minLength": 10, "maxLength": 400 },
+    "extraits": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": { "$ref": "#/$defs/extrait" }
+    },
+    "regroupement": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["personnages", "action", "extraits"],
+      "properties": {
+        "personnages": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/slug" } },
+        "action": { "type": "string", "minLength": 15, "maxLength": 300 },
+        "extraits": { "$ref": "#/$defs/extraits" }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "titre", "lieu", "moment", "personnages_presents", "deroule", "enjeu", "regroupements", "phrase_finale"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id_scene" },
+        "titre": { "type": "string", "minLength": 5, "maxLength": 100 },
+        "lieu": { "type": "string", "minLength": 3, "maxLength": 120 },
+        "moment": { "type": "string", "minLength": 3, "maxLength": 120 },
+        "personnages_presents": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/slug" } },
+        "deroule": { "type": "string", "minLength": 300, "maxLength": 2500 },
+        "enjeu": { "type": "string", "minLength": 30, "maxLength": 500 },
+        "regroupements": { "type": "array", "items": { "$ref": "#/$defs/regroupement" } },
+        "phrase_finale": { "$ref": "#/$defs/extrait" }
+      }
+    },
+    "personnage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "nom", "presence", "identite", "role_dans_chapitre", "scenes"],
+      "properties": {
+        "id": { "$ref": "#/$defs/slug" },
+        "nom": { "type": "string", "minLength": 2, "maxLength": 80 },
+        "presence": { "enum": ["acteur", "present_silencieux", "evoque"] },
+        "identite": { "type": "string", "minLength": 5, "maxLength": 300 },
+        "role_dans_chapitre": { "type": "string", "minLength": 15, "maxLength": 400 },
+        "scenes": { "type": "array", "uniqueItems": true, "items": { "$ref": "#/$defs/id_scene" } }
+      }
+    },
+    "fait": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "categorie", "enonce", "scene", "extraits"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^c[0-9]{2}-f[0-9]{3}$" },
+        "categorie": {
+          "enum": ["identite", "comportement", "chiffre", "duree_date", "objet_lieu", "culture", "courrier", "parole", "action", "relation", "but_moyen", "opinion", "argent"]
+        },
+        "enonce": { "type": "string", "minLength": 15, "maxLength": 300 },
+        "scene": { "$ref": "#/$defs/id_scene" },
+        "extraits": { "$ref": "#/$defs/extraits" }
+      }
+    },
+    "citation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["texte", "locuteur", "contexte"],
+      "properties": {
+        "texte": { "$ref": "#/$defs/extrait" },
+        "locuteur": { "type": "string", "minLength": 2, "maxLength": 80 },
+        "contexte": { "type": "string", "minLength": 15, "maxLength": 250 }
+      }
+    },
+    "question": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "difficulte", "format", "enonce", "choix", "bonnes_reponses", "reponse_libre", "elements_cles", "extraits", "fait_ids"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^c[0-9]{2}-q[0-9]{3}$" },
+        "type": { "enum": ["fait", "personnage", "dialogue", "scene", "motivation", "citation", "chronologie"] },
+        "difficulte": { "type": "integer", "minimum": 1, "maximum": 3 },
+        "format": { "enum": ["qcm", "multi", "vrai_faux"] },
+        "enonce": { "type": "string", "minLength": 10, "maxLength": 400 },
+        "choix": { "type": "array", "minItems": 2, "maxItems": 6, "uniqueItems": true, "items": { "type": "string", "minLength": 1, "maxLength": 200 } },
+        "bonnes_reponses": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "integer", "minimum": 0, "maximum": 5 } },
+        "reponse_libre": { "type": "string", "minLength": 5, "maxLength": 400 },
+        "elements_cles": { "type": "array", "minItems": 1, "maxItems": 5, "items": { "type": "string", "minLength": 2, "maxLength": 150 } },
+        "explication": { "type": "string", "maxLength": 400 },
+        "extraits": { "$ref": "#/$defs/extraits" },
+        "fait_ids": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "pattern": "^c[0-9]{2}-f[0-9]{3}$" } }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "format": { "const": "qcm" } }, "required": ["format"] },
+          "then": { "properties": { "choix": { "minItems": 4, "maxItems": 4 }, "bonnes_reponses": { "maxItems": 1 } } }
+        },
+        {
+          "if": { "properties": { "format": { "const": "multi" } }, "required": ["format"] },
+          "then": { "properties": { "choix": { "minItems": 4, "maxItems": 6 }, "bonnes_reponses": { "minItems": 2 } } }
+        },
+        {
+          "if": { "properties": { "format": { "const": "vrai_faux" } }, "required": ["format"] },
+          "then": { "properties": { "choix": { "const": ["Vrai", "Faux"] }, "bonnes_reponses": { "maxItems": 1 } } }
+        }
+      ]
+    }
+  }
+}

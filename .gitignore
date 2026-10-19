@@ -1,0 +1,11 @@
+# Ne jamais versionner : ebook source, texte découpé, questions des contrôles
+source/
+data/chapitres/
+data/controles_passes.md
+
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+app/dist/
+.DS_Store

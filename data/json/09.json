@@ -1,0 +1,3312 @@
+{
+  "version_schema": 1,
+  "chapitre": 9,
+  "resume_court": "Chez les Campardon, Rose obtient la réconciliation avec sa cousine Gasparine, demoiselle au Bonheur des Dames, puis l'installe chez eux par surprise pendant un voyage de son mari à Évreux. Octave, de trop, décide de manger ailleurs. Chez les Pichon, il apprend que Marie est enceinte de cinq mois et offre au ménage un dîner au Bœuf à la mode, rendant ainsi Marie à Jules. Le lendemain, il tente le grand coup auprès de Mme Hédouin en lui proposant d'agrandir le magasin, mais elle le repousse calmement ; vexé, il quitte la maison. Après une visite du chantier du Calvaire avec l'abbé Mauduit, il surprend Campardon et Gasparine s'embrassant. Le soir, seul et blessé, il accepte l'offre de Berthe et d'Auguste d'entrer chez eux.",
+  "scenes": [
+    {
+      "id": "s1",
+      "titre": "Le retour de Gasparine chez les Campardon",
+      "lieu": "Appartement des Campardon (salle à manger, puis salon)",
+      "moment": "Deux jours plus tard, de sept heures à onze heures du soir",
+      "personnages_presents": [
+        "octave-mouret",
+        "rose-campardon",
+        "achille-campardon",
+        "angele",
+        "lisa",
+        "gasparine"
+      ],
+      "deroule": "Deux jours plus tard, vers sept heures, Octave arrive chez les Campardon pour dîner et trouve Rose seule, en peignoir de soie crème. Rose lui demande s'il ne trouve pas Achille triste ; Octave le croit préoccupé par les travaux de Saint-Roch. Campardon arrive en retard, accusant un imbécile de l'avoir retenu, et assure tout bas à Rose qu'« elle » va venir. Au dîner, on parle de l'anglais qu'Angèle apprend depuis quinze jours, et le rôti, oublié au feu par Victoire, est immangeable. Au dessert, Lisa annonce la cousine de madame : Gasparine entre, en robe de laine noire, et Rose l'embrasse en lui proposant de tout oublier. Angèle embrasse sa cousine d'un air maussade puis suit Lisa, qui lance : « ça va devenir drôle, ici ! ». Au salon, Campardon assure à Octave, devant la fenêtre, que c'est Rose qui a voulu la réconciliation, tandis que les deux cousines évoquent Plassans sur le canapé. Rose pleure sur sa santé, Gasparine la console, et Campardon les embrasse toutes deux : « il n'y a encore que la famille ! ». Vers onze heures, Rose raccompagne Gasparine et lui crie de revenir souvent.",
+      "enjeu": "Rose veut se réconcilier avec sa cousine Gasparine et a obtenu que Campardon aille la chercher ; Campardon, gêné, se défend d'en avoir eu l'idée. La soirée finit dans l'attendrissement.",
+      "regroupements": [
+        {
+          "personnages": [
+            "achille-campardon",
+            "rose-campardon"
+          ],
+          "action": "Octave s'écarte ; Campardon et Rose échangent à voix basse quelques mots sur la venue d'une femme qu'il lui avait promise.",
+          "extraits": [
+            "Octave s’était écarté, et il les entendit échanger quelques mots à voix basse.",
+            "Tu m’avais juré qu’elle viendrait."
+          ]
+        },
+        {
+          "personnages": [
+            "angele",
+            "lisa"
+          ],
+          "action": "Au moment de passer au salon, Angèle préfère suivre Lisa, qui ferme violemment la porte en disant que ça va devenir drôle.",
+          "extraits": [
+            "elle préféra suivre Lisa, qui fermait violemment la porte, en disant, sans même craindre d’être entendue",
+            "Ah bien ! ça va devenir drôle, ici !"
+          ]
+        },
+        {
+          "personnages": [
+            "achille-campardon",
+            "octave-mouret"
+          ],
+          "action": "Campardon emmène Octave devant la fenêtre pour le convaincre que la réconciliation vient de Rose et qu'il a peur des histoires.",
+          "extraits": [
+            "Et, comme s’il eût senti le besoin de convaincre Octave, il l’emmena devant la fenêtre."
+          ]
+        },
+        {
+          "personnages": [
+            "rose-campardon",
+            "gasparine"
+          ],
+          "action": "Rose et Gasparine s'assoient côte à côte sur le canapé et parlent du passé à Plassans, chez le père Domergue, puis de la santé de Rose.",
+          "extraits": [
+            "Cependant, Rose et Gasparine s’étaient assises côte à côte sur le canapé.",
+            "Elles parlaient du passé, des jours vécus à Plassans, chez le bon père Domergue."
+          ]
+        }
+      ],
+      "phrase_finale": "Reviens souvent ! cria-t-elle."
+    },
+    {
+      "id": "s2",
+      "titre": "Au Bonheur des Dames : Octave piétine",
+      "lieu": "Le Bonheur des Dames",
+      "moment": "Le lendemain et les semaines suivantes",
+      "personnages_presents": [
+        "octave-mouret",
+        "gasparine",
+        "mme-hedouin"
+      ],
+      "deroule": "Le lendemain, au Bonheur des Dames, Octave essaie de faire parler Gasparine pendant un arrivage de lingerie, mais elle lui répond d'une voix brève, fâchée qu'il ait été témoin de la veille. Elle a compris depuis longtemps qu'il fait la cour à Mme Hédouin et le surveille avec des regards noirs. Octave s'était donné six mois pour conquérir la patronne ; quatre à peine sont passés et il s'impatiente. Mme Hédouin l'estime pour ses idées de grands comptoirs modernes et le consulte le matin, ce qui crée entre eux une intimité commerciale. Sa tactique est de la vaincre au milieu de l'émotion d'une vente inespérée, et il cherche un coup étonnant. M. Hédouin, malade, part aux eaux de Vichy ; mais sa femme, loin de s'attendrir, se montre plus active que jamais, la plume à l'oreille. En attendant, Octave garde Marie, tout en songeant à la rendre à Jules pour rompre sans brutalité.",
+      "enjeu": "Octave veut devenir l'amant de Mme Hédouin en la touchant par le commerce, mais elle reste froide et Gasparine le surveille ; il prépare en même temps sa rupture avec Marie.",
+      "regroupements": [
+        {
+          "personnages": [
+            "mme-hedouin",
+            "octave-mouret"
+          ],
+          "action": "Le matin, quand son mari n'est pas là, Mme Hédouin retient Octave pour ouvrir la correspondance avec lui et le consulter.",
+          "extraits": [
+            "Souvent, lorsque son mari n’était pas là et qu’elle ouvrait la correspondance avec le jeune homme, le matin, elle le retenait, le consultait, se trouvait bien de ses avis"
+          ]
+        }
+      ],
+      "phrase_finale": "Pourtant, il attendait, il ne voulait pas se trouver sans femme."
+    },
+    {
+      "id": "s3",
+      "titre": "Gasparine s'installe chez les Campardon",
+      "lieu": "Appartement des Campardon",
+      "moment": "Trois semaines plus tard, au retour d'Évreux de Campardon (déjeuner et après-midi)",
+      "personnages_presents": [
+        "octave-mouret",
+        "rose-campardon",
+        "achille-campardon",
+        "gasparine",
+        "angele",
+        "lisa"
+      ],
+      "deroule": "Depuis trois semaines, Gasparine prend de plus en plus d'autorité chez les Campardon : elle vient chaque soir, puis au déjeuner, et se charge de l'éducation d'Angèle et des provisions. Rose répète qu'elle voudrait la loger chez eux, mais Campardon refuse, rougissant de scrupule : il faudrait lui donner son cabinet. Il répète à Octave : « Quand on est bien, on a tort de vouloir être mieux. » Campardon part deux jours à Évreux, inquiet des travaux de l'archevêché et du prix de la chaire. Il rentre plus tôt que prévu, en plein déjeuner, et trouve un air de mystère : Lisa ferme la porte du salon, Gasparine cache des papiers du pied. Rose, tremblante, lui montre un lit d'acajou installé à la place de sa table à dessiner : c'était une surprise. Gasparine propose de s'en aller, mais Campardon déclare que tout ce que Rose fait est bien fait, et tout le monde s'embrasse. Octave remarque la prévenance de Lisa envers Gasparine. L'après-midi, Campardon organise joyeusement la chambre de la cousine ; Octave, se sentant de trop, décide de ne plus prendre ses repas chez eux.",
+      "enjeu": "Rose veut que Gasparine vienne loger chez eux et met Campardon devant le fait accompli ; il accepte avec une joie qui gêne Octave, lequel décide de partir.",
+      "regroupements": [
+        {
+          "personnages": [
+            "octave-mouret"
+          ],
+          "action": "Octave s'écarte, trouvant qu'on finit par être trop tendre dans cette maison, et observe Lisa.",
+          "extraits": [
+            "Octave s’était écarté, en trouvant qu’on finissait par être trop tendre, dans cette maison."
+          ]
+        },
+        {
+          "personnages": [
+            "achille-campardon",
+            "gasparine",
+            "rose-campardon"
+          ],
+          "action": "L'après-midi, Campardon et Gasparine installent ensemble la chambre de la cousine, tandis que Rose, assise, leur donne des conseils.",
+          "extraits": [
+            "Celle-ci l’aidait, poussait les meubles avec lui, déballait le linge, secouait les vêtements",
+            "pendant que Rose, assise de peur de se fatiguer, leur donnait des conseils"
+          ]
+        }
+      ],
+      "phrase_finale": "D’ailleurs, il était décidé : le lendemain, il remercierait Mme Campardon de sa bonne hospitalité, en inventant une histoire."
+    },
+    {
+      "id": "s4",
+      "titre": "Chez les Pichon : la grossesse de Marie",
+      "lieu": "Logement des Pichon, puis le restaurant du Bœuf à la mode",
+      "moment": "Le même jour, de cinq heures à onze heures du soir",
+      "personnages_presents": [
+        "octave-mouret",
+        "jules-pichon",
+        "marie-pichon",
+        "mme-vuillaume",
+        "m-vuillaume",
+        "lilitte"
+      ],
+      "deroule": "Vers cinq heures, faute de trouver Trublot, Octave va demander à dîner aux Pichon. Il tombe sur une scène de famille : les Vuillaume, indignés, reprochent à leur gendre d'avoir manqué à sa parole et à leur fille de le défendre. Mme Vuillaume s'en va avec son mari en refusant d'être raccompagnée : « Qu'ils mangent leur dîner, et que ça leur profite, car ils n'en auront pas toujours ! » Marie reproche à Jules de les avoir prévenus trop tôt, puis annonce à Octave qu'elle est enceinte. Jules se révolte : il se dit plus attrapé que ses beaux-parents. Octave compte les mois (cinq mois, de fin décembre à fin mai) et se sent ému. Comme le ménage se querelle, il les emmène, avec Lilitte, au Bœuf à la mode, dans un cabinet, et commande du champagne. À onze heures, il les ramène en voiture, embrasse Marie au front comme un père qui cède sa fille à un gendre, et les couche. Seul dans son lit, il se dit que cela lui a coûté cinquante francs et décide de tenter le grand coup le lendemain soir.",
+      "enjeu": "Les Vuillaume reprochent aux Pichon cette grossesse ; Octave, ému en comptant les mois, veut faire plaisir au ménage et en profite pour rendre Marie à Jules.",
+      "regroupements": [
+        {
+          "personnages": [
+            "mme-vuillaume",
+            "m-vuillaume"
+          ],
+          "action": "Les Vuillaume partent ensemble prendre l'omnibus, en refusant que leur gendre les raccompagne.",
+          "extraits": [
+            "Inutile, nous trouverons bien l’omnibus sans vous",
+            "Passez devant, monsieur Vuillaume."
+          ]
+        },
+        {
+          "personnages": [
+            "octave-mouret",
+            "jules-pichon",
+            "marie-pichon",
+            "lilitte"
+          ],
+          "action": "Octave emmène les Pichon et Lilitte dîner au Bœuf à la mode, dans un cabinet, pour être plus libre.",
+          "extraits": [
+            "Octave les avait menés au Bœuf à la mode, dans un cabinet, pour être plus libre, disait-il."
+          ]
+        }
+      ],
+      "phrase_finale": "Et, attendri de son bon cœur, il résolut, avant de s’endormir, de tenter le grand coup, le lendemain soir."
+    },
+    {
+      "id": "s5",
+      "titre": "Le grand coup manqué auprès de Mme Hédouin",
+      "lieu": "Cabinet du fond, au Bonheur des Dames",
+      "moment": "Le lendemain, un lundi, vers trois heures",
+      "personnages_presents": [
+        "octave-mouret",
+        "mme-hedouin",
+        "gasparine"
+      ],
+      "deroule": "Chaque lundi après le dîner, Octave aide Mme Hédouin à examiner les commandes dans l'étroit cabinet du fond ; ce lundi-là, comme les Duveyrier l'emmènent à l'Opéra-Comique, elle l'appelle vers trois heures. Octave pousse le verrou. Comme elle regrette le manque de place, il lui expose son idée : acheter la maison voisine, rue Neuve-Saint-Augustin, agrandir les magasins, ruiner la soierie de M. Vabre et profiter de la future rue du Dix-Décembre. Mme Hédouin, née dans la maison, est ébranlée, mais objecte l'oncle Deleuze et la maladie de son mari. Octave prend alors sa voix de séduction et la pousse sur le canapé ; elle se dégage tristement : « Mon Dieu ! c'était pour ça ! » Elle lui répond avec calme qu'elle le croyait plus intelligent, qu'elle n'est pas une femme ici et n'en a aucune envie. Gasparine frappe pour une question de chemises et sourit d'un air moqueur. Exaspéré, Octave annonce qu'il quitte la maison le soir même ; Mme Hédouin, sereine, le règle en disant qu'il était un bon commis.",
+      "enjeu": "Octave veut séduire Mme Hédouin en l'enflammant pour un projet d'agrandissement ; elle le repousse calmement, et par dépit il quitte la maison.",
+      "regroupements": [
+        {
+          "personnages": [
+            "octave-mouret",
+            "mme-hedouin"
+          ],
+          "action": "Octave et Mme Hédouin se retirent dans le cabinet du fond pour examiner les commandes, et Octave pousse le verrou.",
+          "extraits": [
+            "Pour cette besogne, tous deux se retiraient dans le cabinet du fond, une étroite pièce où il y avait seulement une caisse, un bureau, deux chaises et un canapé.",
+            "Comme il poussait le verrou et qu’elle le regardait, étonnée"
+          ]
+        }
+      ],
+      "phrase_finale": "N’importe, la maison vous regrettera, car vous étiez un bon commis."
+    },
+    {
+      "id": "s6",
+      "titre": "La visite du chantier du Calvaire à Saint-Roch",
+      "lieu": "Rue Saint-Roch, église Saint-Roch et cour du presbytère",
+      "moment": "Le même jour, à partir de quatre heures",
+      "personnages_presents": [
+        "octave-mouret",
+        "abbe-mauduit"
+      ],
+      "deroule": "À quatre heures, dans la rue, Octave comprend qu'il s'est conduit comme un sot et se reproche d'avoir voulu trouver dans la maison à la fois le pain et le lit. Il pense retourner s'excuser, mais sa vanité l'en empêche, et il va chercher Campardon à Saint-Roch pour prendre un madère. L'abbé Mauduit le reconnaît et, l'architecte étant absent, lui fait visiter les travaux du Calvaire : chapelle de la Vierge, chapelle de l'Adoration perpétuelle aux sept lampes d'or, puis le chantier derrière des cloisons de planches. Il explique son idée d'un jour pris dans la coupole pour éclairer le Christ en croix, la Vierge et Madeleine, dans un décor de pierre nue. Il fait déplacer la statue de la Vierge par des ouvriers et sort tout plâtreux. Octave, pour lui faire plaisir, dit que les plus sceptiques seront remués. L'abbé fait l'éloge de Campardon, lui montre la maison du clergé où il habite et annonce qu'il viendra voir l'architecte le soir. Calmé, Octave regarde les boutiques de la maison des prêtres et envie la paisible vie des vieilles servantes des curés.",
+      "enjeu": "Octave, humilié par son échec, cherche à se distraire ; l'abbé Mauduit, passionné par sa mise en scène du Calvaire, l'apaise sans le savoir.",
+      "regroupements": [
+        {
+          "personnages": [
+            "abbe-mauduit",
+            "octave-mouret"
+          ],
+          "action": "L'abbé Mauduit emmène Octave derrière le chœur pour lui faire visiter les travaux du Calvaire, puis le retient dans la cour du presbytère.",
+          "extraits": [
+            "Il le mena derrière le chœur, lui montra d’abord la chapelle de la Vierge, aux murs de marbre blanc",
+            "il le retint encore un instant dans la cour du presbytère, où l’on voit le chevet de l’église, noyé sous des constructions voisines."
+          ]
+        }
+      ],
+      "phrase_finale": "Octave, disposé par son insuccès aux renoncements de ce monde, regretta la tranquille existence que les vieilles servantes des curés devaient mener là-haut, dans ces chambres garnies de verveines et de pois de senteur."
+    },
+    {
+      "id": "s7",
+      "titre": "Soirée chez les Campardon et visite de l'abbé Mauduit",
+      "lieu": "Appartement des Campardon (antichambre, chambre de Rose, salle à manger, salon)",
+      "moment": "Le même soir, à partir de six heures et demie",
+      "personnages_presents": [
+        "octave-mouret",
+        "achille-campardon",
+        "gasparine",
+        "rose-campardon",
+        "angele",
+        "lisa",
+        "abbe-mauduit"
+      ],
+      "deroule": "À six heures et demie, entrant sans sonner, Octave surprend Campardon et Gasparine s'embrassant à pleine bouche dans l'antichambre ; Campardon balbutie que sa femme se donne un coup de peigne. Rose, devant sa glace, roule ses cheveux d'or en frisons : c'est sa seule distraction. Octave lui raconte son départ du Bonheur des Dames en inventant une autre situation, pour justifier qu'il mangera ailleurs. Au dîner, Campardon et Gasparine accablent Rose de prévenances ; au dessert, Gasparine tance Lisa pour un morceau de fromage. Rose voudrait que Gasparine quitte le magasin pour s'occuper d'Angèle, mais Campardon et Gasparine disent qu'il faut attendre. Au salon, Campardon accroche avec la cousine les gravures de sa chambre, tandis que Rose, seule avec Octave, se réjouit que son mari ne sorte plus le soir depuis quinze jours. Campardon découpe une croix d'honneur en papier et confisque à Angèle la Gazette de France. L'abbé Mauduit arrive, voit la croix, approuve Gasparine d'être venue vivre en famille et semble bénir cette union. En partant, Octave entend Angèle et Lisa se moquer de Gasparine dans la salle à manger obscure.",
+      "enjeu": "Campardon et Gasparine cachent leur liaison sous une apparence d'harmonie familiale que Rose savoure ; l'abbé Mauduit couvre la situation, et Octave comprend qu'il est de trop.",
+      "regroupements": [
+        {
+          "personnages": [
+            "achille-campardon",
+            "gasparine"
+          ],
+          "action": "Campardon appelle la cousine pour l'éclairer et accroche avec elle les gravures dans sa chambre ; on entend un silence, puis un petit rire.",
+          "extraits": [
+            "Il appela la cousine pour l’éclairer, on l’entendit enfoncer des clous, monté sur une chaise.",
+            "Il y eut un silence, puis un petit rire."
+          ]
+        },
+        {
+          "personnages": [
+            "octave-mouret",
+            "rose-campardon"
+          ],
+          "action": "Resté seul avec Rose, Octave lui explique qu'à la fin du mois il prendra pension ailleurs.",
+          "extraits": [
+            "Alors, Octave, se trouvant seul avec Rose, reprit son histoire, expliqua qu’à la fin du mois il serait forcé de prendre pension ailleurs."
+          ]
+        },
+        {
+          "personnages": [
+            "achille-campardon",
+            "octave-mouret"
+          ],
+          "action": "Après avoir confisqué la Gazette de France à Angèle, Campardon se plaint tout bas à Octave de la démoralisation de la presse.",
+          "extraits": [
+            "Il ne lui en enleva pas moins le numéro, en se plaignant tout bas à Octave de la démoralisation de la presse."
+          ]
+        },
+        {
+          "personnages": [
+            "angele",
+            "lisa"
+          ],
+          "action": "Angèle et Lisa, échappées dans la salle à manger toute noire, se moquent de Gasparine.",
+          "extraits": [
+            "C’est pour le beurre qu’elle criait ? demandait-elle.",
+            "Bien sûr, répondait une autre voix, celle de Lisa. Elle est méchante comme une gale."
+          ]
+        }
+      ],
+      "phrase_finale": "Oui, oui… Et, après, tant pire ! c’est toi que j’aime !"
+    },
+    {
+      "id": "s8",
+      "titre": "Sur le trottoir : l'offre de Berthe et d'Auguste",
+      "lieu": "Sur le trottoir, devant le magasin de soierie",
+      "moment": "Le même soir, vers dix heures",
+      "personnages_presents": [
+        "octave-mouret",
+        "berthe",
+        "auguste"
+      ],
+      "deroule": "Octave, qui montait se coucher, redescend vers dix heures pour prendre l'air jusqu'au Palais-Royal. Il se retrouve sans femme : ni Valérie ni Mme Hédouin n'ont voulu de son cœur, il a trop vite rendu Marie à Jules, et même Mme Campardon le laisse partir sans larmes. Se rappelant ses succès de Marseille, il voit dans ses échecs un mauvais présage et se demande si Paris va se refuser. Sur le trottoir, Berthe l'appelle depuis le seuil du magasin de soierie et lui demande s'il a vraiment quitté le Bonheur des Dames. Elle appelle son mari, Auguste, qui, la mine maussade, offre aussitôt à Octave d'entrer chez eux. Octave hésite, jugeant la maison peu importante, mais le sourire de Berthe le décide : il accepte résolument.",
+      "enjeu": "Octave, blessé par ses échecs, veut prendre sa revanche ; Berthe et Auguste lui proposent d'entrer chez eux, et le sourire de Berthe le pousse à accepter.",
+      "regroupements": [
+        {
+          "personnages": [
+            "berthe",
+            "auguste"
+          ],
+          "action": "Berthe appelle son mari Auguste pour qu'il parle tout de suite à Octave, au lieu de monter le voir le lendemain.",
+          "extraits": [
+            "La jeune femme avait appelé son mari.",
+            "Puisqu’il voulait monter le lendemain, pour causer avec M. Mouret, il pouvait bien lui parler tout de suite."
+          ]
+        }
+      ],
+      "phrase_finale": "Eh bien ! oui, dit-il résolument."
+    }
+  ],
+  "personnages": [
+    {
+      "id": "octave-mouret",
+      "nom": "Octave Mouret",
+      "presence": "acteur",
+      "identite": "Jeune homme, commis au Bonheur des Dames jusqu'à son départ ; mange chez les Campardon depuis près de neuf mois ; Berthe l'appelle « monsieur Mouret » ; il a connu des succès à Marseille.",
+      "role_dans_chapitre": "Il échoue à séduire Mme Hédouin et quitte le Bonheur des Dames, rend Marie à Jules et renonce à la table des Campardon ; le soir, il accepte l'offre de Berthe et d'Auguste.",
+      "scenes": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "id": "rose-campardon",
+      "nom": "Rose Campardon (Mme Campardon)",
+      "presence": "acteur",
+      "identite": "Femme de l'architecte Campardon et cousine de Gasparine ; de santé fragile (« ça ne se remettra jamais »), elle a du mal à marcher et passe des heures à sa toilette.",
+      "role_dans_chapitre": "Elle obtient la réconciliation avec Gasparine puis l'installe chez eux par surprise ; elle se réjouit que son mari ne sorte plus le soir.",
+      "scenes": [
+        "s1",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "id": "achille-campardon",
+      "nom": "Achille Campardon",
+      "presence": "acteur",
+      "identite": "Architecte, mari de Rose et père d'Angèle ; il travaille au Calvaire de Saint-Roch et à l'archevêché d'Évreux ; barbe jaune ; on lui a promis la décoration.",
+      "role_dans_chapitre": "D'abord gêné par la réconciliation, il accepte avec joie l'installation de Gasparine ; Octave le surprend en train de l'embrasser à pleine bouche.",
+      "scenes": [
+        "s1",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "id": "gasparine",
+      "nom": "Gasparine",
+      "presence": "acteur",
+      "identite": "Cousine de Rose, demoiselle de magasin au Bonheur des Dames ; maigre, sèche, vêtue de noir ; à Plassans, elle était déjà femme à quinze ans.",
+      "role_dans_chapitre": "Réconciliée avec Rose, elle s'installe chez les Campardon et prend en main le ménage ; Octave la surprend embrassant Campardon. Au magasin, elle est hostile à Octave.",
+      "scenes": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "id": "angele",
+      "nom": "Angèle",
+      "presence": "acteur",
+      "identite": "Fille de Campardon ; elle apprend l'anglais depuis quinze jours et étudie l'histoire sainte ; air énigmatique de fille bien élevée.",
+      "role_dans_chapitre": "Elle accueille Gasparine d'un air maussade, lit en cachette la Gazette de France et se moque de la cousine avec Lisa.",
+      "scenes": [
+        "s1",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "id": "lisa",
+      "nom": "Lisa",
+      "presence": "acteur",
+      "identite": "Femme de chambre des Campardon, sortie de chez une actrice revenue de Londres ; Octave la voit comme une « coureuse aux paupières bleues ».",
+      "role_dans_chapitre": "Hostile à l'arrivée de Gasparine, elle se montre ensuite respectueuse avec elle, mais s'en moque en secret avec Angèle.",
+      "scenes": [
+        "s1",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "id": "victoire",
+      "nom": "Victoire",
+      "presence": "evoque",
+      "identite": "Domestique des Campardon, qui fait la cuisine.",
+      "role_dans_chapitre": "Elle laisse le rôti trop longtemps au feu ; plus tard, Gasparine la fait trembler devant ses casseroles.",
+      "scenes": []
+    },
+    {
+      "id": "mme-hedouin",
+      "nom": "Mme Hédouin",
+      "presence": "acteur",
+      "identite": "Patronne du Bonheur des Dames, née dans la maison fondée par son père et son oncle ; belle femme froide, en cravate d'homme et corsage noir.",
+      "role_dans_chapitre": "Elle repousse calmement les avances d'Octave et accepte sans émotion son départ, en reconnaissant qu'il était un bon commis.",
+      "scenes": [
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "id": "m-hedouin",
+      "nom": "M. Hédouin",
+      "presence": "evoque",
+      "identite": "Mari de Mme Hédouin, malade.",
+      "role_dans_chapitre": "Il part faire une saison aux eaux de Vichy ; sa femme invoque sa santé pour écarter le projet d'Octave.",
+      "scenes": []
+    },
+    {
+      "id": "marie-pichon",
+      "nom": "Marie Pichon",
+      "presence": "acteur",
+      "identite": "Femme de Jules, fille des Vuillaume et mère de Lilitte ; voisine et maîtresse d'Octave ; enceinte de cinq mois.",
+      "role_dans_chapitre": "Elle annonce sa grossesse ; Octave la rend à son mari au cours d'une soirée au restaurant.",
+      "scenes": [
+        "s4"
+      ]
+    },
+    {
+      "id": "jules-pichon",
+      "nom": "Jules Pichon",
+      "presence": "acteur",
+      "identite": "Mari de Marie et gendre des Vuillaume ; voisin d'Octave.",
+      "role_dans_chapitre": "Accablé par la colère de ses beaux-parents, il se révolte, puis retrouve sa femme lors du dîner offert par Octave.",
+      "scenes": [
+        "s4"
+      ]
+    },
+    {
+      "id": "lilitte",
+      "nom": "Lilitte",
+      "presence": "present_silencieux",
+      "identite": "La fille de Marie, encore petite (« la petite »).",
+      "role_dans_chapitre": "Elle accompagne ses parents au restaurant et s'endort sur le divan.",
+      "scenes": [
+        "s4"
+      ]
+    },
+    {
+      "id": "mme-vuillaume",
+      "nom": "Mme Vuillaume",
+      "presence": "acteur",
+      "identite": "Mère de Marie, qui ne pardonne jamais la désobéissance.",
+      "role_dans_chapitre": "Indignée par la grossesse de sa fille, elle accuse son gendre d'avoir manqué à sa parole et s'en va solennellement.",
+      "scenes": [
+        "s4"
+      ]
+    },
+    {
+      "id": "m-vuillaume",
+      "nom": "M. Vuillaume",
+      "presence": "acteur",
+      "identite": "Père de Marie.",
+      "role_dans_chapitre": "Il accuse sa fille d'être aussi coupable que son mari et part avec sa femme.",
+      "scenes": [
+        "s4"
+      ]
+    },
+    {
+      "id": "abbe-mauduit",
+      "nom": "L'abbé Mauduit",
+      "presence": "acteur",
+      "identite": "Prêtre de Saint-Roch, logé au second étage de la maison du clergé ; il s'occupe de faire décorer Campardon.",
+      "role_dans_chapitre": "Il fait visiter à Octave le chantier du Calvaire, puis vient chez les Campardon et approuve l'installation de Gasparine.",
+      "scenes": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "berthe",
+      "nom": "Berthe",
+      "presence": "acteur",
+      "identite": "Jeune femme du magasin de soierie, épouse d'Auguste ; Octave a croisé son regard le jour de son arrivée et le jour des noces.",
+      "role_dans_chapitre": "Elle interpelle Octave sur son départ du Bonheur des Dames et appelle son mari.",
+      "scenes": [
+        "s8"
+      ]
+    },
+    {
+      "id": "auguste",
+      "nom": "Auguste",
+      "presence": "acteur",
+      "identite": "Mari de Berthe, au magasin de soierie.",
+      "role_dans_chapitre": "La mine maussade, il offre à Octave d'entrer chez eux.",
+      "scenes": [
+        "s8"
+      ]
+    },
+    {
+      "id": "m-vabre",
+      "nom": "M. Vabre",
+      "presence": "evoque",
+      "identite": "Propriétaire d'une maison de soierie qui fait du tort au Bonheur des Dames.",
+      "role_dans_chapitre": "Octave prétend qu'on pourrait réduire sa maison à la faillite avant cinq ans.",
+      "scenes": []
+    },
+    {
+      "id": "oncle-deleuze",
+      "nom": "L'oncle Deleuze",
+      "presence": "evoque",
+      "identite": "« L'oncle Deleuze », cité par Mme Hédouin.",
+      "role_dans_chapitre": "Selon Mme Hédouin, il ne voudra jamais du projet d'agrandissement d'Octave.",
+      "scenes": []
+    },
+    {
+      "id": "duveyrier",
+      "nom": "Les Duveyrier",
+      "presence": "evoque",
+      "identite": "Non précisé dans ce chapitre.",
+      "role_dans_chapitre": "Ils emmènent Mme Hédouin à l'Opéra-Comique, ce qui avance à trois heures l'examen des commandes.",
+      "scenes": []
+    },
+    {
+      "id": "trublot",
+      "nom": "Trublot",
+      "presence": "evoque",
+      "identite": "Non précisé dans ce chapitre.",
+      "role_dans_chapitre": "Octave regrette de ne savoir où le trouver et va donc dîner chez les Pichon.",
+      "scenes": []
+    },
+    {
+      "id": "valerie",
+      "nom": "Valérie",
+      "presence": "evoque",
+      "identite": "Non précisé dans ce chapitre.",
+      "role_dans_chapitre": "Octave constate qu'elle, comme Mme Hédouin, n'a pas voulu de son cœur.",
+      "scenes": []
+    },
+    {
+      "id": "pere-domergue",
+      "nom": "Le père Domergue",
+      "presence": "evoque",
+      "identite": "Le « bon père Domergue », à Plassans.",
+      "role_dans_chapitre": "Rose et Gasparine évoquent les jours vécus chez lui à Plassans.",
+      "scenes": []
+    },
+    {
+      "id": "monseigneur",
+      "nom": "Monseigneur",
+      "presence": "evoque",
+      "identite": "Prélat de l'archevêché d'Évreux, où Campardon dirige des travaux.",
+      "role_dans_chapitre": "Campardon a cédé à son désir sans crédit ouvert et veut s'entendre avec lui.",
+      "scenes": []
+    }
+  ],
+  "faits": [
+    {
+      "id": "c09-f001",
+      "categorie": "parole",
+      "enonce": "Deux jours plus tard, vers sept heures, Octave trouve Rose seule, en peignoir de soie crème ; elle lui demande s'il ne trouve pas Achille triste, et il répond que les travaux de Saint-Roch lui donnent du souci.",
+      "scene": "s1",
+      "extraits": [
+        "Deux jours plus tard, vers sept heures, comme Octave arrivait chez les Campardon pour le dîner, il trouva Rose seule, vêtue d’un peignoir de soie crème, garni de dentelles blanches.",
+        "Vous ne le trouvez pas triste depuis quelque temps ? dit-elle d’une voix tendrement effrayée.",
+        "Les travaux de Saint-Roch lui donnent du souci."
+      ]
+    },
+    {
+      "id": "c09-f002",
+      "categorie": "comportement",
+      "enonce": "Campardon n'est jamais là à l'heure des repas et file tous les soirs, en inventant des prétextes : rendez-vous dans des cafés, réunions lointaines.",
+      "scene": "s1",
+      "extraits": [
+        "L’architecte se dérangeait, n’était jamais là pour l’heure des repas, arrivait très rouge, l’air effaré, en maudissant les affaires.",
+        "Puis, il filait tous les soirs, il épuisait les prétextes, parlant de rendez-vous dans des cafés, inventant des réunions lointaines."
+      ]
+    },
+    {
+      "id": "c09-f003",
+      "categorie": "but_moyen",
+      "enonce": "Octave a compris que Campardon le garde comme pensionnaire pour occuper sa femme ; il tient souvent compagnie à Rose jusqu'à onze heures.",
+      "scene": "s1",
+      "extraits": [
+        "Souvent alors, Octave tenait compagnie à Rose jusqu’à onze heures, car il avait compris que le mari le gardait comme pensionnaire, pour occuper sa femme"
+      ]
+    },
+    {
+      "id": "c09-f004",
+      "categorie": "duree_date",
+      "enonce": "Octave mange chez les Campardon depuis près de neuf mois, et Rose le traite en enfant de la maison.",
+      "scene": "s1",
+      "extraits": [
+        "Depuis près de neuf mois qu’il mangeait chez eux, elle le traitait ainsi en enfant de la maison."
+      ]
+    },
+    {
+      "id": "c09-f005",
+      "categorie": "parole",
+      "enonce": "En arrivant, Campardon salue Rose (« mon chat », « ma cocotte ») et explique qu'un imbécile l'a retenu une heure sur un trottoir.",
+      "scene": "s1",
+      "extraits": [
+        "Bonsoir, mon chat, bonsoir, ma cocotte, dit-il, en la baisant de son air passionné de bon mari.",
+        "Encore un imbécile, qui m’a retenu une heure sur un trottoir !"
+      ]
+    },
+    {
+      "id": "c09-f006",
+      "categorie": "parole",
+      "enonce": "Octave s'écarte et entend Campardon et Rose parler à voix basse d'une femme qui doit venir ; Campardon dit l'avoir fait pour Rose.",
+      "scene": "s1",
+      "extraits": [
+        "Octave s’était écarté, et il les entendit échanger quelques mots à voix basse.",
+        "Eh bien ! oui, elle va venir. Es-tu contente ? C’est bien pour toi que je l’ai fait."
+      ]
+    },
+    {
+      "id": "c09-f007",
+      "categorie": "duree_date",
+      "enonce": "Pendant le dîner, on parle de la langue anglaise, qu'Angèle apprend depuis quinze jours, Campardon ayant soutenu qu'elle est nécessaire à une demoiselle.",
+      "scene": "s1",
+      "extraits": [
+        "Pendant tout le dîner, il fut question de la langue anglaise, que la petite Angèle apprenait depuis quinze jours.",
+        "Campardon avait brusquement soutenu la nécessité de l’anglais pour une demoiselle"
+      ]
+    },
+    {
+      "id": "c09-f008",
+      "categorie": "identite",
+      "enonce": "Lisa sort de chez une actrice qui revenait de Londres ; à chaque repas, on discute des noms des plats qu'elle apporte.",
+      "scene": "s1",
+      "extraits": [
+        "comme Lisa sortait de chez une actrice qui revenait de Londres, chaque repas était employé à discuter les noms des plats qu’elle apportait."
+      ]
+    },
+    {
+      "id": "c09-f009",
+      "categorie": "objet_lieu",
+      "enonce": "Après de longs essais sur la prononciation du mot « rumsteack », il faut remporter le rôti, oublié au feu par Victoire et dur comme des semelles de botte.",
+      "scene": "s1",
+      "extraits": [
+        "Ce soir-là, après de longs essais inutiles sur la prononciation du mot « rumsteack », il fallut remporter le rôti, oublié au feu par Victoire, et dur comme des semelles de botte."
+      ]
+    },
+    {
+      "id": "c09-f010",
+      "categorie": "parole",
+      "enonce": "Au dessert, un coup de timbre fait tressaillir Mme Campardon ; Lisa annonce, vexée, « la cousine de madame ».",
+      "scene": "s1",
+      "extraits": [
+        "On était au dessert, lorsqu’un coup de timbre fit tressaillir Mme Campardon.",
+        "C’est la cousine de madame, revint dire Lisa, du ton blessé d’une domestique qu’on a négligé de mettre dans une confidence de famille."
+      ]
+    },
+    {
+      "id": "c09-f011",
+      "categorie": "identite",
+      "enonce": "Gasparine arrive en robe de laine noire très simple, avec un visage maigre et un air pauvre de fille de magasin.",
+      "scene": "s1",
+      "extraits": [
+        "Elle était en robe de laine noire, très simple, avec son visage maigre et son air pauvre de fille de magasin."
+      ]
+    },
+    {
+      "id": "c09-f012",
+      "categorie": "action",
+      "enonce": "Rose, très émue, embrasse Gasparine de deux gros baisers et lui propose de tout oublier ; Octave veut partir par discrétion, mais on le retient : il est de la famille.",
+      "scene": "s1",
+      "extraits": [
+        "Elle l’avait prise entre les bras, elle lui donna deux gros baisers.",
+        "Oublions tout, n’est-ce pas ?",
+        "Octave, par discrétion, voulut partir. Mais on se fâcha : il pouvait rester, il était de la famille."
+      ]
+    },
+    {
+      "id": "c09-f013",
+      "categorie": "action",
+      "enonce": "Sur l'ordre de son père, Angèle embrasse sa cousine d'un air maussade ; Gasparine lui pose des questions sur son âge et son éducation.",
+      "scene": "s1",
+      "extraits": [
+        "C’est ta cousine, dit enfin l’architecte à sa fille.",
+        "Elle l’embrassa de son air maussade, inquiète du regard d’institutrice dont Gasparine la déshabillait, après avoir posé des questions sur son âge et sur son éducation."
+      ]
+    },
+    {
+      "id": "c09-f014",
+      "categorie": "parole",
+      "enonce": "Lisa, qui échangeait des coups d'œil avec Angèle, ferme violemment la porte en disant « Ah bien ! ça va devenir drôle, ici ! » ; Angèle préfère la suivre.",
+      "scene": "s1",
+      "extraits": [
+        "tandis que Lisa, qui enlevait le couvert d’une main brutale, échangeait des coups d’œil avec Angèle étonnée.",
+        "elle préféra suivre Lisa, qui fermait violemment la porte, en disant, sans même craindre d’être entendue",
+        "Ah bien ! ça va devenir drôle, ici !"
+      ]
+    },
+    {
+      "id": "c09-f015",
+      "categorie": "parole",
+      "enonce": "Campardon se défend : c'est Rose qui a voulu se réconcilier ; depuis plus de huit jours, elle lui répétait chaque matin d'aller chercher Gasparine.",
+      "scene": "s1",
+      "extraits": [
+        "C’est Rose qui a voulu se réconcilier. Tous les matins, voici plus de huit jours, elle me répétait : Va donc la chercher"
+      ]
+    },
+    {
+      "id": "c09-f016",
+      "categorie": "parole",
+      "enonce": "Campardon emmène Octave devant la fenêtre pour le convaincre : il a peur des histoires, et c'est maintenant aux deux femmes d'arranger sa vie.",
+      "scene": "s1",
+      "extraits": [
+        "Et, comme s’il eût senti le besoin de convaincre Octave, il l’emmena devant la fenêtre.",
+        "L’une à droite, l’autre à gauche, il n’y avait pas de tamponnement possible",
+        "Ça dépend d’elles deux, maintenant, d’arranger ma vie."
+      ]
+    },
+    {
+      "id": "c09-f017",
+      "categorie": "relation",
+      "enonce": "Sur le canapé, Rose et Gasparine parlent du passé à Plassans, chez le père Domergue ; Gasparine était alors, à quinze ans, une femme grande et désirable.",
+      "scene": "s1",
+      "extraits": [
+        "Elles parlaient du passé, des jours vécus à Plassans, chez le bon père Domergue.",
+        "tandis que Gasparine, femme à quinze ans, était grande et désirable, avec ses beaux yeux"
+      ]
+    },
+    {
+      "id": "c09-f018",
+      "categorie": "comportement",
+      "enonce": "Devant Rose vêtue de soie, Gasparine souffre de son teint jaune, mais dompte sa jalousie et accepte une situation de parente pauvre.",
+      "scene": "s1",
+      "extraits": [
+        "Gasparine, un instant, souffrit de son teint jaune et de sa robe étriquée, en face de Rose vêtue de soie",
+        "Mais elle dompta ce frisson de jalousie, elle accepta tout de suite une situation de parente pauvre, à genoux devant les toilettes et les grâces de sa cousine."
+      ]
+    },
+    {
+      "id": "c09-f019",
+      "categorie": "identite",
+      "enonce": "Rose dit que sa santé ne va pas mieux : elle mange et a l'air très bien, mais cela ne se remettra jamais ; Gasparine la console avec maternité.",
+      "scene": "s1",
+      "extraits": [
+        "Non, non, répondit Rose, mélancolique. Tu vois, je mange, j’ai l’air très bien",
+        "Pourquoi pleures-tu ? disait-elle avec maternité. Le principal est que tu ne souffres pas"
+      ]
+    },
+    {
+      "id": "c09-f020",
+      "categorie": "parole",
+      "enonce": "Campardon serre les deux femmes dans une même étreinte, puis dit à Octave qu'il n'y a encore que la famille.",
+      "scene": "s1",
+      "extraits": [
+        "Alors, l’architecte, emporté par l’attendrissement, les saisit toutes les deux dans une même étreinte, leur donna des baisers, en balbutiant :",
+        "Ah ! mon cher, on a beau dire, il n’y a encore que la famille !"
+      ]
+    },
+    {
+      "id": "c09-f021",
+      "categorie": "comportement",
+      "enonce": "Campardon, qui d'habitude s'endort après le repas, retrouve sa gaieté d'artiste et les chansons de l'École des Beaux-Arts.",
+      "scene": "s1",
+      "extraits": [
+        "Campardon, qui s’endormait d’habitude au sortir de table, s’il restait chez lui, retrouva sa gaieté d’artiste, les vieilles farces et les chansons raides de l’École des Beaux-Arts."
+      ]
+    },
+    {
+      "id": "c09-f022",
+      "categorie": "parole",
+      "enonce": "Vers onze heures, Rose raccompagne Gasparine malgré sa difficulté à marcher et lui crie, penchée sur la rampe : « Reviens souvent ! »",
+      "scene": "s1",
+      "extraits": [
+        "Lorsque, vers onze heures, Gasparine se retira, Rose voulut l’accompagner, malgré la difficulté qu’elle éprouvait à marcher, ce jour-là",
+        "Reviens souvent ! cria-t-elle."
+      ]
+    },
+    {
+      "id": "c09-f023",
+      "categorie": "comportement",
+      "enonce": "Au Bonheur des Dames, Gasparine répond à Octave d'une voix brève et hostile ; elle a compris qu'il fait la cour à la patronne et le surveille d'un regard dur.",
+      "scene": "s2",
+      "extraits": [
+        "Mais elle répondit d’une voix brève, il la sentit hostile, fâchée de l’avoir eu pour témoin, la veille.",
+        "Depuis longtemps, elle comprenait son jeu auprès de la patronne, et elle assistait à sa cour assidue, avec des regards noirs, une moue méprisante des lèvres",
+        "Il était très gêné, d’ailleurs, par les yeux de Mlle Gasparine, dont il trouvait toujours, à ces moments-là, le regard dur fixé sur eux."
+      ]
+    },
+    {
+      "id": "c09-f024",
+      "categorie": "duree_date",
+      "enonce": "Octave s'est donné six mois pour conquérir Mme Hédouin ; quatre à peine se sont écoulés.",
+      "scene": "s2",
+      "extraits": [
+        "Cependant, Octave s’était donné six mois. Quatre à peine venaient de s’écouler, et des impatiences le prenaient."
+      ]
+    },
+    {
+      "id": "c09-f025",
+      "categorie": "opinion",
+      "enonce": "Mme Hédouin estime Octave pour ses idées larges et ses rêves de grands comptoirs modernes ; elle le consulte le matin en ouvrant la correspondance.",
+      "scene": "s2",
+      "extraits": [
+        "Elle avait fini pourtant par lui témoigner une véritable estime, gagnée à ses idées larges, à ses rêves de grands comptoirs modernes, déballant des millions de marchandises sur les trottoirs de Paris.",
+        "Souvent, lorsque son mari n’était pas là et qu’elle ouvrait la correspondance avec le jeune homme, le matin, elle le retenait, le consultait, se trouvait bien de ses avis"
+      ]
+    },
+    {
+      "id": "c09-f026",
+      "categorie": "but_moyen",
+      "enonce": "La tactique d'Octave : toucher Mme Hédouin dans sa nature de bonne commerçante et la vaincre dans l'émotion d'une vente inespérée ; il cherche un coup étonnant.",
+      "scene": "s2",
+      "extraits": [
+        "sa tactique avait fini par être de la toucher dans sa nature de bonne commerçante et de la vaincre, un jour de faiblesse, au milieu de la grosse émotion de quelque vente inespérée.",
+        "Aussi cherchait-il un coup étonnant, qui la lui livrerait."
+      ]
+    },
+    {
+      "id": "c09-f027",
+      "categorie": "objet_lieu",
+      "enonce": "Mme Hédouin dirige la maison avec froideur ; elle porte une petite cravate d'homme et un corsage éternellement noir.",
+      "scene": "s2",
+      "extraits": [
+        "portant une petite cravate d’homme sur sa gorge de statue antique, sanglée dans la sévérité d’un corsage éternellement noir."
+      ]
+    },
+    {
+      "id": "c09-f028",
+      "categorie": "objet_lieu",
+      "enonce": "M. Hédouin, tombé malade, part faire une saison aux eaux de Vichy, ce dont Octave se réjouit.",
+      "scene": "s2",
+      "extraits": [
+        "Vers cette époque, M. Hédouin, étant tombé malade, alla faire une saison aux eaux de Vichy. Octave, franchement, s’en réjouissait."
+      ]
+    },
+    {
+      "id": "c09-f029",
+      "categorie": "comportement",
+      "enonce": "En l'absence de son mari, Mme Hédouin est plus active que jamais : levée avec le jour, elle reçoit les marchandises au sous-sol, la plume à l'oreille, et passe sans remarquer Octave qui se range contre elle.",
+      "scene": "s2",
+      "extraits": [
+        "Levée avec le jour, elle recevait elle-même les marchandises dans le sous-sol, la plume à l’oreille, de l’air affairé d’un commis.",
+        "On la voyait partout, en bas et en haut, aux rayons de la soierie et du blanc, veillant à l’étalage et à la vente",
+        "Octave se rangeait maladroitement, pour l’avoir une seconde à lui, sur sa poitrine ; mais elle passait si occupée, qu’il sentait à peine l’effleurement de sa robe."
+      ]
+    },
+    {
+      "id": "c09-f030",
+      "categorie": "relation",
+      "enonce": "Octave a gardé Marie pour patienter : elle ne lui coûte rien, mais pourrait devenir gênante avec sa fidélité de chien battu.",
+      "scene": "s2",
+      "extraits": [
+        "Il avait gardé Marie, afin de patienter ; seulement, si elle était commode et si elle ne lui coûtait rien, elle pouvait devenir gênante peut-être, avec sa fidélité de chien battu."
+      ]
+    },
+    {
+      "id": "c09-f031",
+      "categorie": "but_moyen",
+      "enonce": "Pour rompre sans brutalité, Octave a l'idée de rendre Marie à Jules, en les mettant aux bras l'un de l'autre.",
+      "scene": "s2",
+      "extraits": [
+        "La lâcher brutalement lui semblait maladroit.",
+        "l’idée lui était enfin venue, de rendre Marie à Jules, de les mettre aux bras l’un de l’autre, si amoureux qu’il pourrait se retirer, la conscience tranquille."
+      ]
+    },
+    {
+      "id": "c09-f032",
+      "categorie": "duree_date",
+      "enonce": "Depuis trois semaines, Gasparine s'installe chez les Campardon et commence à se charger de l'éducation d'Angèle et des provisions du ménage.",
+      "scene": "s3",
+      "extraits": [
+        "Depuis trois semaines, Gasparine s’installait dans la maison, avec une autorité de plus en plus large.",
+        "elle commençait à se charger de tout, de l’éducation d’Angèle et des provisions du ménage."
+      ]
+    },
+    {
+      "id": "c09-f033",
+      "categorie": "parole",
+      "enonce": "Rose répète « Ah ! si Gasparine logeait avec nous ! » ; Campardon refuse, car il faudrait donner son cabinet à la cousine et mettre sa table et ses plans au salon.",
+      "scene": "s3",
+      "extraits": [
+        "Ah ! si Gasparine logeait avec nous !",
+        "D’ailleurs, où la coucherais-tu ?",
+        "Et il expliquait qu’il faudrait donner à la cousine son cabinet comme chambre, tandis que lui transporterait sa table et ses plans dans le salon."
+      ]
+    },
+    {
+      "id": "c09-f034",
+      "categorie": "parole",
+      "enonce": "Campardon répète à Octave : « Quand on est bien, on a tort de vouloir être mieux. »",
+      "scene": "s3",
+      "extraits": [
+        "Quand on est bien, répétait-il à Octave, on a tort de vouloir être mieux."
+      ]
+    },
+    {
+      "id": "c09-f035",
+      "categorie": "duree_date",
+      "enonce": "Campardon doit aller passer deux jours à Évreux, car les travaux de l'archevêché l'inquiètent.",
+      "scene": "s3",
+      "extraits": [
+        "Vers ce temps-là, il fut obligé d’aller à Évreux passer deux jours. Les travaux de l’archevêché l’inquiétaient."
+      ]
+    },
+    {
+      "id": "c09-f036",
+      "categorie": "argent",
+      "enonce": "À Évreux, Campardon a cédé à un désir de monseigneur sans crédit ouvert ; la chaire, pour laquelle on a accordé trois mille francs, montera à dix mille au moins.",
+      "scene": "s3",
+      "extraits": [
+        "Il avait cédé à un désir de monseigneur, sans qu’il y eût de crédit ouvert",
+        "D’autre part, la chaire, pour laquelle on avait accordé trois mille francs, monterait à dix mille au moins."
+      ]
+    },
+    {
+      "id": "c09-f037",
+      "categorie": "action",
+      "enonce": "Rose n'attend Campardon que le dimanche soir ; il arrive en plein déjeuner, alors que Gasparine est à table entre Octave et Angèle.",
+      "scene": "s3",
+      "extraits": [
+        "Rose l’attendait seulement le dimanche soir. Il tomba au milieu du déjeuner, et son entrée brusque causa un effarement.",
+        "Gasparine se trouvait à table, entre Octave et Angèle."
+      ]
+    },
+    {
+      "id": "c09-f038",
+      "categorie": "objet_lieu",
+      "enonce": "Un lit d'acajou, apporté le matin, a pris la place de la table à dessiner de Campardon ; la Vierge au cœur saignant gît contre le mur. Rose dit que c'était une surprise.",
+      "scene": "s3",
+      "extraits": [
+        "Un lit d’acajou, apporté le matin par un marchand de meubles, occupait la place de la table à dessiner, qu’on avait transportée au milieu de la pièce voisine",
+        "la Vierge au cœur saignant gisait contre le mur, calée par une cuvette neuve.",
+        "C’était une surprise, murmura Mme Campardon, le cœur gros, en se cachant la face dans le gilet de son mari."
+      ]
+    },
+    {
+      "id": "c09-f039",
+      "categorie": "parole",
+      "enonce": "Gasparine dit que c'est Rose qui l'a persécutée et propose de s'en aller ; Campardon répond que tout ce que Rose fait est bien fait.",
+      "scene": "s3",
+      "extraits": [
+        "C’est Rose qui m’a persécutée. Mais si vous croyez que je suis de trop, je puis encore m’en aller.",
+        "Tout ce que Rose fait est bien fait."
+      ]
+    },
+    {
+      "id": "c09-f040",
+      "categorie": "comportement",
+      "enonce": "Octave remarque avec étonnement l'attitude respectueuse de Lisa envers Gasparine et la juge intelligente, « cette coureuse aux paupières bleues ».",
+      "scene": "s3",
+      "extraits": [
+        "Il avait remarqué avec étonnement l’attitude respectueuse, la prévenance souriante de Lisa auprès de Gasparine.",
+        "Une fille intelligente décidément, cette coureuse aux paupières bleues !"
+      ]
+    },
+    {
+      "id": "c09-f041",
+      "categorie": "action",
+      "enonce": "Campardon, en manches de chemise, passe l'après-midi à organiser la chambre de Gasparine avec elle, tandis que Rose, assise, donne des conseils.",
+      "scene": "s3",
+      "extraits": [
+        "Cependant, l’architecte s’était mis en manches de chemise, et sifflant, chantant, pris d’une gaieté de gamin, il employa l’après-midi à organiser la chambre de la cousine.",
+        "pendant que Rose, assise de peur de se fatiguer, leur donnait des conseils"
+      ]
+    },
+    {
+      "id": "c09-f042",
+      "categorie": "but_moyen",
+      "enonce": "Se sentant de trop, Octave annonce qu'il dîne dehors et décide de remercier Mme Campardon le lendemain en inventant une histoire.",
+      "scene": "s3",
+      "extraits": [
+        "Alors, Octave comprit qu’il gênait leur expansion ; il se sentait de trop dans un ménage si uni, il les avertit que, le soir, il dînait dehors.",
+        "D’ailleurs, il était décidé : le lendemain, il remercierait Mme Campardon de sa bonne hospitalité, en inventant une histoire."
+      ]
+    },
+    {
+      "id": "c09-f043",
+      "categorie": "but_moyen",
+      "enonce": "Vers cinq heures, ne sachant où trouver Trublot, Octave décide d'aller demander à dîner aux Pichon pour ne pas rester seul.",
+      "scene": "s4",
+      "extraits": [
+        "Vers cinq heures, comme il regrettait de ne savoir où rencontrer Trublot, l’idée lui vint de demander à dîner aux Pichon, pour ne point passer la soirée seul."
+      ]
+    },
+    {
+      "id": "c09-f044",
+      "categorie": "parole",
+      "enonce": "Chez les Pichon, les Vuillaume sont indignés : la mère reproche à son gendre d'avoir manqué à sa parole d'honneur, le père accuse sa fille et demande s'ils veulent mourir de faim.",
+      "scene": "s4",
+      "extraits": [
+        "Les Vuillaume étaient là, indignés, frémissants.",
+        "C’est une indignité, monsieur ! disait la mère, debout, le bras tendu vers son gendre, écrasé sur une chaise. Vous m’aviez donné votre parole d’honneur.",
+        "Vous voulez donc mourir de faim ?"
+      ]
+    },
+    {
+      "id": "c09-f045",
+      "categorie": "parole",
+      "enonce": "Mme Vuillaume s'en va en refusant d'être raccompagnée (ils prendront l'omnibus) et lance : « Qu'ils mangent leur dîner, et que ça leur profite, car ils n'en auront pas toujours ! »",
+      "scene": "s4",
+      "extraits": [
+        "Inutile, nous trouverons bien l’omnibus sans vous",
+        "Qu’ils mangent leur dîner, et que ça leur profite, car ils n’en auront pas toujours !"
+      ]
+    },
+    {
+      "id": "c09-f046",
+      "categorie": "parole",
+      "enonce": "Marie reproche à Jules d'avoir prévenu ses parents trop tôt, puis annonce crûment à Octave qu'elle est enceinte ; Jules dit avoir cru honnête de les prévenir.",
+      "scene": "s4",
+      "extraits": [
+        "Je t’avais prévenu. Tu aurais dû attendre, pour leur couler la chose en douceur. Rien ne pressait, ça ne se voit pas encore.",
+        "Je suis enceinte.",
+        "J’ai cru honnête de les prévenir tout de suite de cet ennui"
+      ]
+    },
+    {
+      "id": "c09-f047",
+      "categorie": "chiffre",
+      "enonce": "Octave compte les mois : Marie est enceinte de cinq mois, de fin décembre à fin mai ; ému, il ressent le besoin de faire quelque chose de gentil pour les Pichon.",
+      "scene": "s4",
+      "extraits": [
+        "Elle était enceinte de cinq mois, et de fin décembre à fin mai, le compte s’y trouvait.",
+        "il éprouvait le besoin violent de faire quelque chose de gentil pour les Pichon"
+      ]
+    },
+    {
+      "id": "c09-f048",
+      "categorie": "comportement",
+      "enonce": "Marie, d'ordinaire si douce, se fâche et donne raison à sa mère ; le ménage se querelle, chacun accusant l'autre d'avoir fait l'enfant.",
+      "scene": "s4",
+      "extraits": [
+        "De son côté, Marie, d’ordinaire si douce, se fâchait, finissait par donner raison à sa mère, qui ne pardonnait jamais la désobéissance.",
+        "Et le ménage en arrivait à une querelle, se jetant le petit au visage, s’accusant l’un l’autre de l’avoir fait, lorsque Octave intervint gaiement."
+      ]
+    },
+    {
+      "id": "c09-f049",
+      "categorie": "action",
+      "enonce": "Octave propose de les emmener au restaurant ; Marie rougit, car dîner au restaurant est sa joie, et Lilitte est de la partie.",
+      "scene": "s4",
+      "extraits": [
+        "Je vous emmène au restaurant, voulez-vous ?",
+        "La jeune femme rougit. Dîner au restaurant était sa joie.",
+        "Mais il fut décidé que, cette fois, Lilitte serait de la partie."
+      ]
+    },
+    {
+      "id": "c09-f050",
+      "categorie": "objet_lieu",
+      "enonce": "Octave les mène au Bœuf à la mode, dans un cabinet ; au dessert, Lilitte allongée entre deux oreillers du divan, il demande du champagne.",
+      "scene": "s4",
+      "extraits": [
+        "Octave les avait menés au Bœuf à la mode, dans un cabinet, pour être plus libre, disait-il.",
+        "Même, au dessert, quand on eut allongé Lilitte entre deux oreillers du divan, il demanda du champagne"
+      ]
+    },
+    {
+      "id": "c09-f051",
+      "categorie": "action",
+      "enonce": "À onze heures, Octave prend une voiture malgré la proximité de la rue de Choiseul ; en haut, il pose sur le front de Marie le baiser d'un père qui cède sa fille à un gendre.",
+      "scene": "s4",
+      "extraits": [
+        "Alors, comme la petite, tombant de sommeil, refusait de marcher, Octave, pour bien faire les choses jusqu’au bout, voulut absolument prendre une voiture, malgré le voisinage de la rue de Choiseul.",
+        "il posa un baiser sur le front de la jeune femme, le baiser d’adieu d’un père qui cède sa fille à un gendre."
+      ]
+    },
+    {
+      "id": "c09-f052",
+      "categorie": "argent",
+      "enonce": "Au lit, Octave se dit que la soirée lui a coûté cinquante francs, mais qu'il le leur devait bien.",
+      "scene": "s4",
+      "extraits": [
+        "Ma foi, pensait-il en se fourrant tout seul dans son lit, ça m’a coûté cinquante francs, mais je leur devais bien ça"
+      ]
+    },
+    {
+      "id": "c09-f053",
+      "categorie": "but_moyen",
+      "enonce": "Attendri de son bon cœur, Octave décide avant de s'endormir de tenter le grand coup le lendemain soir.",
+      "scene": "s4",
+      "extraits": [
+        "Et, attendri de son bon cœur, il résolut, avant de s’endormir, de tenter le grand coup, le lendemain soir."
+      ]
+    },
+    {
+      "id": "c09-f054",
+      "categorie": "objet_lieu",
+      "enonce": "Chaque lundi, Octave et Mme Hédouin examinent les commandes dans le cabinet du fond (une caisse, un bureau, deux chaises, un canapé) ; ce lundi-là, comme les Duveyrier la mènent à l'Opéra-Comique, ils s'y mettent vers trois heures.",
+      "scene": "s5",
+      "extraits": [
+        "Pour cette besogne, tous deux se retiraient dans le cabinet du fond, une étroite pièce où il y avait seulement une caisse, un bureau, deux chaises et un canapé.",
+        "Mais, ce lundi-là, les Duveyrier menaient justement Mme Hédouin à l’Opéra-Comique. Aussi, vers trois heures, appela-t-elle le jeune homme."
+      ]
+    },
+    {
+      "id": "c09-f055",
+      "categorie": "action",
+      "enonce": "Il faut allumer le gaz malgré le soleil ; Octave pousse le verrou en murmurant que personne ne viendra les déranger.",
+      "scene": "s5",
+      "extraits": [
+        "Malgré le clair soleil, ils durent allumer le gaz, car le cabinet ne recevait qu’un jour livide par une cour intérieure.",
+        "Personne ne viendra nous déranger, murmura-t-il."
+      ]
+    },
+    {
+      "id": "c09-f056",
+      "categorie": "but_moyen",
+      "enonce": "Comme Mme Hédouin regrette le manque de place, Octave propose d'acheter la maison voisine, rue Neuve-Saint-Augustin, de congédier un marchand d'ombrelles et un bimbelotier, et d'agrandir les magasins.",
+      "scene": "s5",
+      "extraits": [
+        "Ah ! si nous avions de la place !",
+        "Il s’agissait d’acheter la maison voisine, sur la rue Neuve-Saint-Augustin, de donner congé à un marchand d’ombrelles et à un bimbelotier, puis d’agrandir les magasins, où l’on pourrait créer de vastes rayons."
+      ]
+    },
+    {
+      "id": "c09-f057",
+      "categorie": "opinion",
+      "enonce": "Octave montre son mépris pour l'ancien commerce des boutiques noires et rêve d'un commerce nouveau, entassant le luxe de la femme dans des palais de cristal.",
+      "scene": "s5",
+      "extraits": [
+        "Et il s’échauffait, se montrait plein de mépris pour l’ancien commerce, au fond de boutiques humides, noires, sans étalage",
+        "entassant tout le luxe de la femme dans des palais de cristal"
+      ]
+    },
+    {
+      "id": "c09-f058",
+      "categorie": "chiffre",
+      "enonce": "Octave affirme qu'avec un rayon spécial, Mme Hédouin réduira à la faillite avant cinq ans la maison de soierie de M. Vabre.",
+      "scene": "s5",
+      "extraits": [
+        "Ainsi, la maison de soierie de M. Vabre vous fait du tort aujourd’hui ; développez vos vitrines sur la rue, créez un rayon spécial, et vous le réduisez à la faillite avant cinq ans"
+      ]
+    },
+    {
+      "id": "c09-f059",
+      "categorie": "objet_lieu",
+      "enonce": "Octave évoque l'ouverture de la rue du Dix-Décembre, du nouvel Opéra à la Bourse, dont Campardon lui parle, et qui peut décupler les affaires du quartier.",
+      "scene": "s5",
+      "extraits": [
+        "Enfin, il est toujours question d’ouvrir cette rue du Dix-Décembre, qui doit aller du nouvel Opéra à la Bourse.",
+        "Cela peut décupler le mouvement d’affaires du quartier."
+      ]
+    },
+    {
+      "id": "c09-f060",
+      "categorie": "identite",
+      "enonce": "Mme Hédouin est née au Bonheur des Dames, fondé par son père et son oncle.",
+      "scene": "s5",
+      "extraits": [
+        "Elle était née au Bonheur des Dames, fondé par son père et son oncle, elle aimait la maison"
+      ]
+    },
+    {
+      "id": "c09-f061",
+      "categorie": "parole",
+      "enonce": "Ébranlée, Mme Hédouin objecte que l'oncle Deleuze ne voudra jamais et que son mari est trop souffrant.",
+      "scene": "s5",
+      "extraits": [
+        "Jamais l’oncle Deleuze ne voudra, murmura-t-elle. Puis, mon mari est trop souffrant."
+      ]
+    },
+    {
+      "id": "c09-f062",
+      "categorie": "action",
+      "enonce": "Octave prend une voix d'acteur et la chauffe de ses yeux couleur de vieil or ; il la pousse sur le canapé, mais elle se dégage : « Mon Dieu ! c'était pour ça ! »",
+      "scene": "s5",
+      "extraits": [
+        "Il la chauffait en même temps de ses yeux couleur de vieil or, que des femmes disaient irrésistibles.",
+        "Il la poussait sur le canapé, croyant qu’elle cédait enfin.",
+        "Mon Dieu ! c’était pour ça ! dit-elle avec un accent de tristesse, en se débarrassant de lui comme d’un enfant importun."
+      ]
+    },
+    {
+      "id": "c09-f063",
+      "categorie": "parole",
+      "enonce": "Mme Hédouin répond calmement qu'elle le croyait plus intelligent que les autres, qu'elle n'est pas une femme ici car elle a trop d'affaires, et qu'elle n'en a pas la moindre envie.",
+      "scene": "s5",
+      "extraits": [
+        "Mais je vous croyais plus intelligent que les autres, monsieur Octave.",
+        "Je ne suis pas une femme ici, j’ai trop d’affaires",
+        "jamais je ne ferai ça, parce que c’est bête d’abord, inutile ensuite, et que, heureusement pour moi, je n’en ai pas la moindre envie !"
+      ]
+    },
+    {
+      "id": "c09-f064",
+      "categorie": "parole",
+      "enonce": "Quand Octave dit « Voyez ce que je souffre », Mme Hédouin répond qu'il ne souffre pas et qu'en tout cas il guérira.",
+      "scene": "s5",
+      "extraits": [
+        "Ayez pitié, madame, balbutia-t-il encore. Voyez ce que je souffre.",
+        "Non, vous ne souffrez pas. En tout cas, vous guérirez"
+      ]
+    },
+    {
+      "id": "c09-f065",
+      "categorie": "action",
+      "enonce": "Gasparine frappe pour savoir si l'on attend des chemises à entre-deux ; elle a un mince sourire moqueur, et Octave l'accuse d'avoir fait manquer le coup.",
+      "scene": "s5",
+      "extraits": [
+        "C’était Mlle Gasparine qui désirait savoir si l’on attendait des chemises à entre-deux.",
+        "elle eut un mince sourire moqueur, en regardant ce dernier. Il en fut exaspéré, il l’accusa d’avoir fait manquer le coup."
+      ]
+    },
+    {
+      "id": "c09-f066",
+      "categorie": "parole",
+      "enonce": "Octave annonce qu'il quitte la maison le soir même ; Mme Hédouin répond qu'elle ne le renvoie pas, qu'elle n'a pas peur, puis le règle en disant qu'il était un bon commis.",
+      "scene": "s5",
+      "extraits": [
+        "Madame, déclara-t-il brusquement, lorsque la demoiselle de magasin fut partie, je quitte la maison ce soir.",
+        "Oh ! ça ne change rien, je n’ai pas peur.",
+        "N’importe, la maison vous regrettera, car vous étiez un bon commis."
+      ]
+    },
+    {
+      "id": "c09-f067",
+      "categorie": "but_moyen",
+      "enonce": "À quatre heures, place Gaillon, Octave se reproche sa sottise (il voulait trouver « le pain et le lit » dans la maison), puis va voir si Campardon est à Saint-Roch pour l'emmener prendre un madère.",
+      "scene": "s6",
+      "extraits": [
+        "Quatre heures sonnaient, le gai soleil printanier jaunissait tout un angle de la place Gaillon.",
+        "Ne pouvait-il donc faire son affaire d’argent dans la maison, sans exiger d’y trouver, tout à la fois, le pain et le lit ?",
+        "Il allait voir si Campardon n’était pas dans l’église, pour l’emmener au café prendre un madère."
+      ]
+    },
+    {
+      "id": "c09-f068",
+      "categorie": "action",
+      "enonce": "L'abbé Mauduit reconnaît Octave et, l'architecte étant absent, tient à lui faire visiter les travaux du Calvaire, qui le passionnent.",
+      "scene": "s6",
+      "extraits": [
+        "C’était l’abbé Mauduit, qui venait de le reconnaître. L’architecte étant absent, il voulut absolument faire visiter au jeune homme les travaux du Calvaire, pour lesquels il se passionnait."
+      ]
+    },
+    {
+      "id": "c09-f069",
+      "categorie": "culture",
+      "enonce": "L'abbé montre la chapelle de la Vierge, aux murs de marbre blanc, avec le groupe de la Crèche, puis la chapelle de l'Adoration perpétuelle, aux sept lampes d'or.",
+      "scene": "s6",
+      "extraits": [
+        "lui montra d’abord la chapelle de la Vierge, aux murs de marbre blanc, et dont l’autel est surmonté du groupe de la Crèche",
+        "puis, derrière encore, il lui fit traverser la chapelle de l’Adoration perpétuelle, aux sept lampes d’or, aux candélabres d’or"
+      ]
+    },
+    {
+      "id": "c09-f070",
+      "categorie": "chiffre",
+      "enonce": "Sur le chantier, on voit la dixième station à gauche et la douzième à droite ; le groupe de la onzième station, Jésus sur la croix, a été enlevé.",
+      "scene": "s6",
+      "extraits": [
+        "On voyait encore, à gauche, la dixième station, Jésus cloué sur la croix, et à droite, la douzième, les saintes femmes autour de Jésus.",
+        "Mais, au milieu, le groupe de la onzième station, Jésus sur la croix, avait été enlevé puis déposé contre un mur"
+      ]
+    },
+    {
+      "id": "c09-f071",
+      "categorie": "but_moyen",
+      "enonce": "L'abbé Mauduit a eu l'idée d'éclairer le groupe central du Calvaire par un jour d'en haut, pris dans la coupole ; il parle comme un machiniste en chef.",
+      "scene": "s6",
+      "extraits": [
+        "J’ai eu l’idée d’éclairer par un jour d’en haut, pris dans la coupole, le groupe central du Calvaire",
+        "L’abbé Mauduit, la voix haute, avait un air de machiniste en chef indiquant la plantation de quelque grand décor."
+      ]
+    },
+    {
+      "id": "c09-f072",
+      "categorie": "culture",
+      "enonce": "L'abbé veut la plus sévère nudité, et un Christ en croix avec la Vierge et Madeleine à ses pieds, éclairés comme d'un rayon invisible qui les anime d'une vie surnaturelle.",
+      "scene": "s6",
+      "extraits": [
+        "Naturellement, la plus sévère nudité, rien que des murs de pierre, sans un bout de peinture, sans le moindre filet d’or.",
+        "Mais le gros effet est le Christ en croix, ayant à ses pieds la Vierge et Madeleine.",
+        "et c’est alors que mon jour de coupole les éclaire comme d’un rayon invisible, d’une clarté vive qui les fait venir en avant, qui les anime d’une vie surnaturelle"
+      ]
+    },
+    {
+      "id": "c09-f073",
+      "categorie": "action",
+      "enonce": "L'abbé crie à un ouvrier d'enlever la Vierge avant de lui casser la cuisse, puis aide à la porter et sort tout plâtreux.",
+      "scene": "s6",
+      "extraits": [
+        "Enlevez donc la Vierge, vous allez finir par lui casser la cuisse.",
+        "Il leur donna un coup de main, saisit Marie par le dos et sortit tout plâtreux de cet embrassement."
+      ]
+    },
+    {
+      "id": "c09-f074",
+      "categorie": "parole",
+      "enonce": "Pour faire plaisir à l'abbé, Octave dit que les plus sceptiques seront remués.",
+      "scene": "s6",
+      "extraits": [
+        "Les plus sceptiques seront remués, dit Octave pour lui faire plaisir."
+      ]
+    },
+    {
+      "id": "c09-f075",
+      "categorie": "opinion",
+      "enonce": "L'abbé fait les plus grands éloges de Campardon, qui aurait eu au Moyen Âge un sens religieux très remarquable.",
+      "scene": "s6",
+      "extraits": [
+        "il parlait de Campardon avec les plus grands éloges ; un garçon qui, au Moyen Âge, disait-il, aurait eu un sens religieux très remarquable."
+      ]
+    },
+    {
+      "id": "c09-f076",
+      "categorie": "objet_lieu",
+      "enonce": "L'abbé Mauduit demeure au second étage d'une grande maison à façade rouillée, occupée tout entière par le clergé de Saint-Roch.",
+      "scene": "s6",
+      "extraits": [
+        "C’était là qu’il demeurait, au second étage d’une grande maison à façade rouillée, occupée tout entière par le clergé de Saint-Roch."
+      ]
+    },
+    {
+      "id": "c09-f077",
+      "categorie": "parole",
+      "enonce": "L'abbé annonce qu'il ira voir Campardon le soir et charge Octave de le prier de l'attendre, pour causer d'une amélioration.",
+      "scene": "s6",
+      "extraits": [
+        "J’irai voir M. Campardon ce soir, dit enfin l’abbé Mauduit. Priez-le de m’attendre",
+        "Je veux causer à l’aise d’une amélioration."
+      ]
+    },
+    {
+      "id": "c09-f078",
+      "categorie": "comportement",
+      "enonce": "Devant la maison du clergé et ses petites boutiques, Octave, disposé au renoncement par son échec, envie la tranquille existence des vieilles servantes des curés.",
+      "scene": "s6",
+      "extraits": [
+        "s’ouvraient d’étroites boutiques dont le clergé tirait profit, un savetier, un horloger, une brodeuse, même un marchand de vin, rendez-vous des croque-morts, les jours d’enterrement.",
+        "Octave, disposé par son insuccès aux renoncements de ce monde, regretta la tranquille existence que les vieilles servantes des curés devaient mener là-haut, dans ces chambres garnies de verveines et de pois de senteur."
+      ]
+    },
+    {
+      "id": "c09-f079",
+      "categorie": "action",
+      "enonce": "À six heures et demie, entrant sans sonner, Octave surprend Campardon et Gasparine qui s'embrassent à pleine bouche dans l'antichambre ; Campardon balbutie que sa femme se donne un coup de peigne.",
+      "scene": "s7",
+      "extraits": [
+        "Le soir, à six heures et demie, comme il entrait sans sonner chez les Campardon, il tomba net sur l’architecte et sur Gasparine, en train de se baiser à pleine bouche dans l’antichambre.",
+        "Ma femme se donne un coup de peigne, balbutia Campardon pour dire quelque chose. Voyez-la donc."
+      ]
+    },
+    {
+      "id": "c09-f080",
+      "categorie": "comportement",
+      "enonce": "Rose passe des heures à sa toilette et roule ses cheveux d'or en petits frisons : c'est, dit-elle, sa seule distraction.",
+      "scene": "s7",
+      "extraits": [
+        "Attentive devant la glace, elle roulait en petits frisons ses cheveux d’or.",
+        "Mon Dieu ! puisque je n’ai que cette distraction, répondit-elle. Ça m’amuse"
+      ]
+    },
+    {
+      "id": "c09-f081",
+      "categorie": "but_moyen",
+      "enonce": "Octave raconte son départ du Bonheur des Dames en inventant une autre situation, pour avoir un prétexte de prendre ses repas ailleurs.",
+      "scene": "s7",
+      "extraits": [
+        "il conta son départ du Bonheur des Dames, il inventa une histoire, une autre situation guettée par lui depuis longtemps ; et il se réservait ainsi un prétexte, pour expliquer sa résolution de prendre ses repas ailleurs."
+      ]
+    },
+    {
+      "id": "c09-f082",
+      "categorie": "parole",
+      "enonce": "Rose fait examiner à Octave une rougeur derrière l'oreille ; il répond qu'elle se sera débarbouillée trop fort, puis l'aide à remettre son peignoir de satin bleu brodé d'argent.",
+      "scene": "s7",
+      "extraits": [
+        "Voyez donc cette rougeur, là, derrière l’oreille",
+        "Ce n’est rien, dit-il. Vous vous serez débarbouillée trop fort.",
+        "quand il l’eut aidée à remettre son peignoir, tout de satin bleu et brodé d’argent, ce soir-là"
+      ]
+    },
+    {
+      "id": "c09-f083",
+      "categorie": "comportement",
+      "enonce": "Au dîner, Campardon et Gasparine accablent Rose de prévenances : il lui verse à boire, elle lui choisit le meilleur morceau.",
+      "scene": "s7",
+      "extraits": [
+        "Campardon lui versait à boire, Gasparine choisissait à son intention le meilleur morceau du plat."
+      ]
+    },
+    {
+      "id": "c09-f084",
+      "categorie": "action",
+      "enonce": "Au dessert, Gasparine tance Lisa au sujet d'un morceau de fromage égaré ; elle a déjà dompté les bonnes et fait trembler Victoire.",
+      "scene": "s7",
+      "extraits": [
+        "Au dessert, Gasparine tança vertement Lisa qui répondait mal à madame, au sujet d’un morceau de fromage égaré.",
+        "d’un mot, elle faisait trembler Victoire elle-même devant ses casseroles."
+      ]
+    },
+    {
+      "id": "c09-f085",
+      "categorie": "but_moyen",
+      "enonce": "Rose rêve de faire quitter le Bonheur des Dames à Gasparine pour lui confier l'éducation d'Angèle ; Campardon et Gasparine répondent qu'il faut attendre.",
+      "scene": "s7",
+      "extraits": [
+        "son rêve était de lui faire quitter, à elle aussi, le Bonheur des Dames, pour la charger de l’éducation d’Angèle.",
+        "Mais Campardon et Gasparine restèrent graves : non, non, il fallait attendre, on ne se lâchait point ainsi des pieds dans la vie, sans se tenir des mains."
+      ]
+    },
+    {
+      "id": "c09-f086",
+      "categorie": "culture",
+      "enonce": "Campardon accroche dans la chambre de Gasparine des gravures revenues de l'encadreur : Mignon aspirant au ciel, une vue de la fontaine de Vaucluse.",
+      "scene": "s7",
+      "extraits": [
+        "il devait accrocher, dans la chambre de Gasparine, des gravures, qui revenaient de l’encadreur : Mignon aspirant au ciel, une vue de la fontaine de Vaucluse, d’autres encore.",
+        "Emballée, Mignon aspirant au ciel ! cria la voix joyeuse de Campardon."
+      ]
+    },
+    {
+      "id": "c09-f087",
+      "categorie": "action",
+      "enonce": "Seul avec Rose, Octave lui explique qu'à la fin du mois il prendra pension ailleurs ; elle, occupée de son mari et de la cousine, éprouve comme un soulagement.",
+      "scene": "s7",
+      "extraits": [
+        "Alors, Octave, se trouvant seul avec Rose, reprit son histoire, expliqua qu’à la fin du mois il serait forcé de prendre pension ailleurs.",
+        "et elle-même éprouvait comme un soulagement de son départ, n’ayant plus d’ailleurs besoin de lui, pour tuer ses soirées."
+      ]
+    },
+    {
+      "id": "c09-f088",
+      "categorie": "duree_date",
+      "enonce": "Rose se réjouit : voici quinze jours qu'Achille ne la quitte plus le soir, plus de café ni de rendez-vous.",
+      "scene": "s7",
+      "extraits": [
+        "Achille ne se dérange plus, voici quinze jours qu’il ne me quitte pas, le soir ; non, plus de café, plus de réunions d’affaires, plus de rendez-vous",
+        "Ah ! c’est aujourd’hui pour moi une bien grande tranquillité ! Je le garde, au moins."
+      ]
+    },
+    {
+      "id": "c09-f089",
+      "categorie": "relation",
+      "enonce": "Campardon découpe une croix d'honneur dorée sur une étiquette ; quelqu'un lui a promis la décoration, et c'est l'abbé Mauduit, dont on cachait le nom.",
+      "scene": "s7",
+      "extraits": [
+        "Campardon s’était mis à découper en plaisantant une croix d’honneur dorée, trouvée sur une étiquette",
+        "on en faisait un mystère, quelqu’un lui avait promis la décoration.",
+        "Justement, l’abbé était la personne dont on cachait le nom et qui s’occupait de l’affaire."
+      ]
+    },
+    {
+      "id": "c09-f090",
+      "categorie": "culture",
+      "enonce": "Campardon surprend Angèle lisant dans la Gazette de France un article qu'il avait barré au crayon rouge ; elle répond qu'elle lisait à côté.",
+      "scene": "s7",
+      "extraits": [
+        "Il venait de s’apercevoir que la petite, par-dessus son histoire sainte, lisait la Gazette de France, traînant sur la table.",
+        "Ce matin, j’ai barré l’article au crayon rouge.",
+        "Papa, je lisais à côté, répondit la jeune fille."
+      ]
+    },
+    {
+      "id": "c09-f091",
+      "categorie": "opinion",
+      "enonce": "L'abbé approuve Gasparine de s'être fixée près de sa famille, car les demoiselles seules à Paris courent des risques ; il semble venu bénir l'union de la famille et sauver une situation délicate.",
+      "scene": "s7",
+      "extraits": [
+        "approuva beaucoup Gasparine de s’être fixée auprès d’une personne de sa famille. Les demoiselles seules, à Paris, couraient tant de risques !",
+        "Et il semblait être venu pour bénir la bonne union de la famille et sauver ainsi une situation délicate, dont on pouvait causer dans le quartier."
+      ]
+    },
+    {
+      "id": "c09-f092",
+      "categorie": "parole",
+      "enonce": "Dans la salle à manger noire, Angèle demande à Lisa si Gasparine criait pour le beurre ; Lisa la dit « méchante comme une gale » et conseille d'avoir l'air d'obéir.",
+      "scene": "s7",
+      "extraits": [
+        "C’est pour le beurre qu’elle criait ? demandait-elle.",
+        "Bien sûr, répondait une autre voix, celle de Lisa. Elle est méchante comme une gale.",
+        "Faut avoir l’air d’obéir, avec une particulière de cette espèce, et ça n’empêche pas, on rigole tout de même !"
+      ]
+    },
+    {
+      "id": "c09-f093",
+      "categorie": "parole",
+      "enonce": "Angèle se jette au cou de Lisa et lui dit que c'est elle qu'elle aime.",
+      "scene": "s7",
+      "extraits": [
+        "Alors, Angèle dut se jeter au cou de Lisa, car sa voix s’étouffa dans le cou de la bonne.",
+        "Et, après, tant pire ! c’est toi que j’aime !"
+      ]
+    },
+    {
+      "id": "c09-f094",
+      "categorie": "relation",
+      "enonce": "Vers dix heures, Octave se retrouve garçon : ni Valérie ni Mme Hédouin n'ont voulu de son cœur, et il a trop vite rendu Marie à Jules ; il se rappelle ses succès de Marseille et se demande si Paris va se refuser.",
+      "scene": "s8",
+      "extraits": [
+        "Maintenant, il se retrouvait garçon : pas de femme, ni Valérie ni Mme Hédouin n’avaient voulu de son cœur, et il s’était trop pressé de rendre à Jules Marie, la seule qu’il eût conquise, encore sans avoir rien fait pour ça.",
+        "il se rappelait avec amertume ses succès de Marseille et voyait un mauvais présage, une véritable atteinte à sa fortune, dans la déroute de ses séductions.",
+        "Est-ce que Paris allait se refuser ?"
+      ]
+    },
+    {
+      "id": "c09-f095",
+      "categorie": "parole",
+      "enonce": "Sur le trottoir, Berthe, sur le seuil du magasin de soierie, demande à Octave s'il est vrai qu'il a quitté le Bonheur des Dames.",
+      "scene": "s8",
+      "extraits": [
+        "Comme il posait le pied sur le trottoir, une voix de femme l’appela ; et il reconnut Berthe, sur le seuil du magasin de soierie, dont un garçon mettait les volets.",
+        "Est-ce vrai ? monsieur Mouret, demanda-t-elle, vous avez donc quitté le Bonheur des Dames ?"
+      ]
+    },
+    {
+      "id": "c09-f096",
+      "categorie": "action",
+      "enonce": "Berthe appelle son mari ; Auguste, la mine maussade, offre à Octave d'entrer chez eux.",
+      "scene": "s8",
+      "extraits": [
+        "La jeune femme avait appelé son mari.",
+        "Et Auguste, la mine maussade, sans transition, offrit à Octave d’entrer chez eux."
+      ]
+    },
+    {
+      "id": "c09-f097",
+      "categorie": "comportement",
+      "enonce": "Octave hésite à cause du peu d'importance de la maison, mais le sourire de Berthe, déjà rencontré le jour de son arrivée et le jour des noces, le décide.",
+      "scene": "s8",
+      "extraits": [
+        "Ce dernier, pris à l’improviste, hésitait, était sur le point de refuser, en songeant au peu d’importance de la maison.",
+        "avec le gai regard qu’il avait déjà rencontré deux fois, le jour de son arrivée et le jour des noces."
+      ]
+    },
+    {
+      "id": "c09-f098",
+      "categorie": "parole",
+      "enonce": "Octave accepte résolument : « Eh bien ! oui », dernière phrase du chapitre.",
+      "scene": "s8",
+      "extraits": [
+        "Eh bien ! oui, dit-il résolument."
+      ]
+    }
+  ],
+  "citations_cles": [
+    {
+      "texte": "Ah ! mon cher, on a beau dire, il n’y a encore que la famille !",
+      "locuteur": "Achille Campardon",
+      "contexte": "À Octave, après avoir serré dans ses bras Rose et Gasparine réconciliées."
+    },
+    {
+      "texte": "Ah bien ! ça va devenir drôle, ici !",
+      "locuteur": "Lisa",
+      "contexte": "En fermant violemment la porte, à l'arrivée de Gasparine chez les Campardon."
+    },
+    {
+      "texte": "Quand on est bien, répétait-il à Octave, on a tort de vouloir être mieux.",
+      "locuteur": "Achille Campardon",
+      "contexte": "Pour refuser que Gasparine vienne loger chez eux."
+    },
+    {
+      "texte": "Je suis enceinte.",
+      "locuteur": "Marie Pichon",
+      "contexte": "À Octave, juste après le départ furieux des Vuillaume."
+    },
+    {
+      "texte": "Mais je vous croyais plus intelligent que les autres, monsieur Octave.",
+      "locuteur": "Mme Hédouin",
+      "contexte": "Après avoir repoussé les avances d'Octave dans le cabinet du fond."
+    },
+    {
+      "texte": "N’importe, la maison vous regrettera, car vous étiez un bon commis.",
+      "locuteur": "Mme Hédouin",
+      "contexte": "En acceptant sereinement la démission d'Octave."
+    },
+    {
+      "texte": "Est-ce que Paris allait se refuser ?",
+      "locuteur": "Octave Mouret (pensée)",
+      "contexte": "Octave, seul le soir, fait le bilan de ses échecs amoureux."
+    },
+    {
+      "texte": "Eh bien ! oui, dit-il résolument.",
+      "locuteur": "Octave Mouret",
+      "contexte": "Dernière phrase : il accepte l'offre d'Auguste et de Berthe."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c09-q001",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Depuis combien de temps environ Octave prend-il ses repas chez les Campardon au début du chapitre ?",
+      "choix": [
+        "Depuis près de quatre mois",
+        "Depuis quinze jours",
+        "Depuis près de neuf mois",
+        "Depuis trois semaines"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il mange chez les Campardon depuis près de neuf mois, et Rose le traite en enfant de la maison.",
+      "elements_cles": [
+        "près de neuf mois"
+      ],
+      "extraits": [
+        "Depuis près de neuf mois qu’il mangeait chez eux, elle le traitait ainsi en enfant de la maison."
+      ],
+      "fait_ids": [
+        "c09-f004"
+      ]
+    },
+    {
+      "id": "c09-q002",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces affirmations sur le dîner chez les Campardon, au début du chapitre, lesquelles sont exactes ?",
+      "choix": [
+        "On parle de la langue anglaise, qu'Angèle apprend depuis quinze jours",
+        "Campardon arrive à l'heure, de très bonne humeur",
+        "Lisa sortait de chez une actrice qui revenait de Londres",
+        "Le rôti, oublié au feu par Victoire, est dur comme des semelles de botte",
+        "Gasparine est à table dès le début du repas"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "On parle de l'anglais qu'Angèle apprend depuis quinze jours, car Lisa sortait de chez une actrice revenue de Londres ; le rôti, oublié au feu par Victoire, est immangeable.",
+      "elements_cles": [
+        "l'anglais appris par Angèle depuis quinze jours",
+        "Lisa venait de chez une actrice revenue de Londres",
+        "le rôti brûlé par Victoire"
+      ],
+      "extraits": [
+        "Pendant tout le dîner, il fut question de la langue anglaise, que la petite Angèle apprenait depuis quinze jours.",
+        "comme Lisa sortait de chez une actrice qui revenait de Londres, chaque repas était employé à discuter les noms des plats qu’elle apportait.",
+        "Ce soir-là, après de longs essais inutiles sur la prononciation du mot « rumsteack », il fallut remporter le rôti, oublié au feu par Victoire, et dur comme des semelles de botte."
+      ],
+      "fait_ids": [
+        "c09-f007",
+        "c09-f008",
+        "c09-f009"
+      ],
+      "explication": "Campardon arrive en retard (« Enfin, l'architecte parut ») et Gasparine n'arrive qu'au dessert."
+    },
+    {
+      "id": "c09-q003",
+      "type": "motivation",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "D'après ce qu'Octave a compris, pourquoi Campardon le garde-t-il comme pensionnaire ?",
+      "choix": [
+        "Pour qu'il paie une partie du loyer",
+        "Pour qu'il apprenne l'anglais à Angèle",
+        "Pour qu'il surveille Lisa",
+        "Pour occuper sa femme, pendant que lui-même sort tous les soirs"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Campardon le garde pour occuper sa femme : lui-même file tous les soirs en inventant des prétextes, et Octave tient compagnie à Rose jusqu'à onze heures.",
+      "elements_cles": [
+        "pour occuper sa femme",
+        "Campardon sort tous les soirs"
+      ],
+      "extraits": [
+        "Souvent alors, Octave tenait compagnie à Rose jusqu’à onze heures, car il avait compris que le mari le gardait comme pensionnaire, pour occuper sa femme",
+        "Puis, il filait tous les soirs, il épuisait les prétextes, parlant de rendez-vous dans des cafés, inventant des réunions lointaines."
+      ],
+      "fait_ids": [
+        "c09-f003",
+        "c09-f002"
+      ]
+    },
+    {
+      "id": "c09-q004",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Juste avant le dîner, pendant que Campardon et Rose échangent quelques mots à voix basse, Octave s'est écarté, mais il les entend.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : il s'est écarté, mais il les entend parler d'une femme qui doit venir ; Campardon dit l'avoir fait pour Rose.",
+      "elements_cles": [
+        "il s'est écarté",
+        "il entend leur conversation"
+      ],
+      "extraits": [
+        "Octave s’était écarté, et il les entendit échanger quelques mots à voix basse.",
+        "Eh bien ! oui, elle va venir. Es-tu contente ? C’est bien pour toi que je l’ai fait."
+      ],
+      "fait_ids": [
+        "c09-f006"
+      ]
+    },
+    {
+      "id": "c09-q005",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces personnes, lesquelles sont présentes chez les Campardon quand Gasparine arrive, au dessert ?",
+      "choix": [
+        "Octave",
+        "Angèle",
+        "L'abbé Mauduit",
+        "Lisa",
+        "Marie Pichon"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        3
+      ],
+      "reponse_libre": "Octave (qu'on retient parce qu'il est de la famille), Angèle, qui doit embrasser sa cousine, et Lisa, qui annonce Gasparine, sont présents.",
+      "elements_cles": [
+        "Octave",
+        "Angèle",
+        "Lisa"
+      ],
+      "extraits": [
+        "C’est la cousine de madame, revint dire Lisa, du ton blessé d’une domestique qu’on a négligé de mettre dans une confidence de famille.",
+        "Octave, par discrétion, voulut partir. Mais on se fâcha : il pouvait rester, il était de la famille.",
+        "Elle l’embrassa de son air maussade, inquiète du regard d’institutrice dont Gasparine la déshabillait, après avoir posé des questions sur son âge et sur son éducation."
+      ],
+      "fait_ids": [
+        "c09-f010",
+        "c09-f012",
+        "c09-f013"
+      ]
+    },
+    {
+      "id": "c09-q006",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Comment Gasparine est-elle habillée lorsqu'elle arrive chez les Campardon ?",
+      "choix": [
+        "En robe de laine noire, très simple",
+        "En peignoir de soie crème garni de dentelles",
+        "En satin bleu brodé d'argent",
+        "En robe de soie grise"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle porte une robe de laine noire très simple, avec un visage maigre et un air pauvre de fille de magasin.",
+      "elements_cles": [
+        "robe de laine noire",
+        "très simple"
+      ],
+      "extraits": [
+        "Elle était en robe de laine noire, très simple, avec son visage maigre et son air pauvre de fille de magasin."
+      ],
+      "fait_ids": [
+        "c09-f011"
+      ]
+    },
+    {
+      "id": "c09-q007",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Qui dit, en fermant violemment la porte : « Ah bien ! ça va devenir drôle, ici ! » ?",
+      "choix": [
+        "Angèle",
+        "Victoire",
+        "Gasparine",
+        "Lisa"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "C'est Lisa, la femme de chambre, que suit Angèle au moment de passer au salon.",
+      "elements_cles": [
+        "Lisa"
+      ],
+      "extraits": [
+        "elle préféra suivre Lisa, qui fermait violemment la porte, en disant, sans même craindre d’être entendue",
+        "Ah bien ! ça va devenir drôle, ici !"
+      ],
+      "fait_ids": [
+        "c09-f014"
+      ]
+    },
+    {
+      "id": "c09-q008",
+      "type": "dialogue",
+      "difficulte": 1,
+      "format": "vrai_faux",
+      "enonce": "Selon Campardon, c'est lui qui a eu l'idée de se réconcilier avec Gasparine.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : selon lui, c'est Rose : depuis plus de huit jours, elle lui répétait chaque matin d'aller chercher Gasparine.",
+      "elements_cles": [
+        "Rose",
+        "depuis plus de huit jours"
+      ],
+      "extraits": [
+        "C’est Rose qui a voulu se réconcilier. Tous les matins, voici plus de huit jours, elle me répétait : Va donc la chercher"
+      ],
+      "fait_ids": [
+        "c09-f015"
+      ]
+    },
+    {
+      "id": "c09-q009",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Pour le convaincre que la réconciliation ne vient pas de lui, Campardon emmène Octave au café.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : il l'emmène devant la fenêtre du salon.",
+      "elements_cles": [
+        "devant la fenêtre"
+      ],
+      "extraits": [
+        "Et, comme s’il eût senti le besoin de convaincre Octave, il l’emmena devant la fenêtre."
+      ],
+      "fait_ids": [
+        "c09-f016"
+      ]
+    },
+    {
+      "id": "c09-q010",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Rose et Gasparine évoquent leurs jours à Plassans, chez le père Domergue. Comment Gasparine réagit-elle en se comparant à sa cousine vêtue de soie ?",
+      "choix": [
+        "Elle se moque des toilettes de Rose",
+        "Elle dompte sa jalousie et accepte une situation de parente pauvre",
+        "Elle refuse de s'asseoir à côté d'elle",
+        "Elle lui reproche de l'avoir oubliée"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle souffre un instant de son teint jaune et de sa robe étriquée, puis dompte sa jalousie et accepte une situation de parente pauvre.",
+      "elements_cles": [
+        "elle dompte sa jalousie",
+        "situation de parente pauvre"
+      ],
+      "extraits": [
+        "Elles parlaient du passé, des jours vécus à Plassans, chez le bon père Domergue.",
+        "Mais elle dompta ce frisson de jalousie, elle accepta tout de suite une situation de parente pauvre, à genoux devant les toilettes et les grâces de sa cousine."
+      ],
+      "fait_ids": [
+        "c09-f017",
+        "c09-f018"
+      ]
+    },
+    {
+      "id": "c09-q011",
+      "type": "citation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que crie Rose, penchée sur la rampe, quand Gasparine s'en va vers onze heures ?",
+      "choix": [
+        "« Oublions tout ! »",
+        "« Reste avec nous ! »",
+        "« À demain, ma chère ! »",
+        "« Reviens souvent ! »"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Elle lui crie : « Reviens souvent ! », malgré sa difficulté à marcher ce jour-là.",
+      "elements_cles": [
+        "Reviens souvent"
+      ],
+      "extraits": [
+        "Lorsque, vers onze heures, Gasparine se retira, Rose voulut l’accompagner, malgré la difficulté qu’elle éprouvait à marcher, ce jour-là",
+        "Reviens souvent ! cria-t-elle."
+      ],
+      "fait_ids": [
+        "c09-f022"
+      ]
+    },
+    {
+      "id": "c09-q012",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Combien de temps Octave s'était-il donné pour conquérir Mme Hédouin, et combien de temps s'est-il déjà écoulé ?",
+      "choix": [
+        "Quatre mois ; six se sont écoulés",
+        "Six mois ; quatre à peine se sont écoulés",
+        "Un an ; six mois se sont écoulés",
+        "Trois mois ; deux se sont écoulés"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il s'était donné six mois, et quatre à peine se sont écoulés.",
+      "elements_cles": [
+        "six mois",
+        "quatre à peine"
+      ],
+      "extraits": [
+        "Cependant, Octave s’était donné six mois. Quatre à peine venaient de s’écouler, et des impatiences le prenaient."
+      ],
+      "fait_ids": [
+        "c09-f024"
+      ]
+    },
+    {
+      "id": "c09-q013",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "M. Hédouin, tombé malade, part faire une saison aux eaux d'Évreux.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : il part faire une saison aux eaux de Vichy (c'est Campardon qui va à Évreux).",
+      "elements_cles": [
+        "Vichy"
+      ],
+      "extraits": [
+        "Vers cette époque, M. Hédouin, étant tombé malade, alla faire une saison aux eaux de Vichy. Octave, franchement, s’en réjouissait."
+      ],
+      "fait_ids": [
+        "c09-f028"
+      ]
+    },
+    {
+      "id": "c09-q014",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel détail de tenue distingue Mme Hédouin quand elle dirige le magasin ?",
+      "choix": [
+        "Un peignoir de satin bleu",
+        "Un chapeau à plumes",
+        "Une petite cravate d'homme et un corsage éternellement noir",
+        "Une robe de laine grise"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle porte une petite cravate d'homme et un corsage éternellement noir.",
+      "elements_cles": [
+        "cravate d'homme",
+        "corsage noir"
+      ],
+      "extraits": [
+        "portant une petite cravate d’homme sur sa gorge de statue antique, sanglée dans la sévérité d’un corsage éternellement noir."
+      ],
+      "fait_ids": [
+        "c09-f027"
+      ]
+    },
+    {
+      "id": "c09-q015",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces comportements, lesquels sont ceux de Mme Hédouin pendant que son mari est à Vichy ?",
+      "choix": [
+        "Elle se lève avec le jour",
+        "Elle reçoit elle-même les marchandises au sous-sol, la plume à l'oreille",
+        "Elle s'attendrit et s'alanguit",
+        "Elle veille à l'étalage et à la vente",
+        "Elle confie la direction du magasin à Octave"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        3
+      ],
+      "reponse_libre": "Plus active que jamais, elle se lève avec le jour, reçoit les marchandises au sous-sol la plume à l'oreille et veille partout à l'étalage et à la vente.",
+      "elements_cles": [
+        "levée avec le jour",
+        "reçoit les marchandises, plume à l'oreille",
+        "veille à l'étalage et à la vente"
+      ],
+      "extraits": [
+        "Levée avec le jour, elle recevait elle-même les marchandises dans le sous-sol, la plume à l’oreille, de l’air affairé d’un commis.",
+        "On la voyait partout, en bas et en haut, aux rayons de la soierie et du blanc, veillant à l’étalage et à la vente",
+        "Mais il attendit inutilement un frisson, un alanguissement de désir."
+      ],
+      "fait_ids": [
+        "c09-f029"
+      ]
+    },
+    {
+      "id": "c09-q016",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quelle tactique Octave a-t-il adoptée pour séduire Mme Hédouin ?",
+      "choix": [
+        "La rendre jalouse en courtisant Gasparine",
+        "Lui écrire des lettres pendant l'absence de son mari",
+        "La toucher dans sa nature de bonne commerçante et la vaincre dans l'émotion d'une vente inespérée",
+        "Se faire inviter par les Duveyrier à l'Opéra-Comique"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Profitant de l'estime qu'elle a pour ses idées commerciales, il veut la toucher dans sa nature de bonne commerçante et la vaincre au milieu de l'émotion d'une vente inespérée.",
+      "elements_cles": [
+        "nature de bonne commerçante",
+        "émotion d'une vente inespérée"
+      ],
+      "extraits": [
+        "sa tactique avait fini par être de la toucher dans sa nature de bonne commerçante et de la vaincre, un jour de faiblesse, au milieu de la grosse émotion de quelque vente inespérée.",
+        "Elle avait fini pourtant par lui témoigner une véritable estime, gagnée à ses idées larges, à ses rêves de grands comptoirs modernes, déballant des millions de marchandises sur les trottoirs de Paris."
+      ],
+      "fait_ids": [
+        "c09-f026",
+        "c09-f025"
+      ]
+    },
+    {
+      "id": "c09-q017",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Comment Octave compte-t-il rompre avec Marie sans brutalité ?",
+      "choix": [
+        "En déménageant de la maison",
+        "En la rendant à Jules, en les mettant aux bras l'un de l'autre",
+        "En la présentant à Trublot",
+        "En avouant tout à Jules"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il veut rendre Marie à Jules en les mettant aux bras l'un de l'autre, pour se retirer la conscience tranquille.",
+      "elements_cles": [
+        "rendre Marie à Jules",
+        "les mettre aux bras l'un de l'autre"
+      ],
+      "extraits": [
+        "l’idée lui était enfin venue, de rendre Marie à Jules, de les mettre aux bras l’un de l’autre, si amoureux qu’il pourrait se retirer, la conscience tranquille.",
+        "Il avait gardé Marie, afin de patienter ; seulement, si elle était commode et si elle ne lui coûtait rien, elle pouvait devenir gênante peut-être, avec sa fidélité de chien battu."
+      ],
+      "fait_ids": [
+        "c09-f031",
+        "c09-f030"
+      ]
+    },
+    {
+      "id": "c09-q018",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Depuis combien de temps Gasparine s'installe-t-elle chez les Campardon, et de quoi commence-t-elle à se charger ?",
+      "choix": [
+        "Depuis neuf mois ; de la cuisine, à la place de Victoire",
+        "Depuis quinze jours ; des comptes de l'architecte",
+        "Depuis huit jours ; du linge de Rose",
+        "Depuis trois semaines ; de l'éducation d'Angèle et des provisions du ménage"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Depuis trois semaines, elle s'installe avec une autorité croissante et se charge de l'éducation d'Angèle et des provisions du ménage.",
+      "elements_cles": [
+        "trois semaines",
+        "éducation d'Angèle",
+        "provisions du ménage"
+      ],
+      "extraits": [
+        "Depuis trois semaines, Gasparine s’installait dans la maison, avec une autorité de plus en plus large.",
+        "elle commençait à se charger de tout, de l’éducation d’Angèle et des provisions du ménage."
+      ],
+      "fait_ids": [
+        "c09-f032"
+      ]
+    },
+    {
+      "id": "c09-q019",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quelle phrase Campardon répète-t-il à Octave pour s'opposer à ce que Gasparine loge chez eux ?",
+      "choix": [
+        "« Il n'y a encore que la famille ! »",
+        "« Les femmes sont les femmes. »",
+        "« Quand on est bien, on a tort de vouloir être mieux. »",
+        "« Tout ce que Rose fait est bien fait. »"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il répète : « Quand on est bien, on a tort de vouloir être mieux », car il faudrait donner son cabinet à la cousine.",
+      "elements_cles": [
+        "Quand on est bien, on a tort de vouloir être mieux"
+      ],
+      "extraits": [
+        "Quand on est bien, répétait-il à Octave, on a tort de vouloir être mieux.",
+        "Et il expliquait qu’il faudrait donner à la cousine son cabinet comme chambre, tandis que lui transporterait sa table et ses plans dans le salon."
+      ],
+      "fait_ids": [
+        "c09-f034",
+        "c09-f033"
+      ]
+    },
+    {
+      "id": "c09-q020",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Campardon part deux jours à Évreux. Pour la chaire de l'archevêché, on avait accordé trois mille francs : à combien pense-t-il qu'elle montera ?",
+      "choix": [
+        "À cinq mille francs",
+        "À dix mille francs au moins",
+        "À cinquante mille francs",
+        "À six mille francs"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "La chaire, pour laquelle on avait accordé trois mille francs, montera à dix mille au moins.",
+      "elements_cles": [
+        "dix mille francs au moins"
+      ],
+      "extraits": [
+        "Vers ce temps-là, il fut obligé d’aller à Évreux passer deux jours. Les travaux de l’archevêché l’inquiétaient.",
+        "D’autre part, la chaire, pour laquelle on avait accordé trois mille francs, monterait à dix mille au moins."
+      ],
+      "fait_ids": [
+        "c09-f035",
+        "c09-f036"
+      ]
+    },
+    {
+      "id": "c09-q021",
+      "type": "scene",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quand Campardon revient d'Évreux plus tôt que prévu, en plein déjeuner, où Gasparine est-elle assise ?",
+      "choix": [
+        "Entre Rose et Campardon",
+        "En face de Rose",
+        "À côté de Lisa",
+        "Entre Octave et Angèle"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Elle est à table entre Octave et Angèle.",
+      "elements_cles": [
+        "entre Octave et Angèle"
+      ],
+      "extraits": [
+        "Rose l’attendait seulement le dimanche soir. Il tomba au milieu du déjeuner, et son entrée brusque causa un effarement.",
+        "Gasparine se trouvait à table, entre Octave et Angèle."
+      ],
+      "fait_ids": [
+        "c09-f037"
+      ]
+    },
+    {
+      "id": "c09-q022",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Que dit Gasparine à Campardon quand il découvre la chambre préparée pour elle ?",
+      "choix": [
+        "« Oublions tout, n'est-ce pas ? »",
+        "« C'est Rose qui m'a persécutée. Mais si vous croyez que je suis de trop, je puis encore m'en aller. »",
+        "« C'était une surprise. »",
+        "« Tu as été dur. Embrasse-la aussi. »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle dit que c'est Rose qui l'a persécutée et propose de s'en aller ; Campardon répond que tout ce que Rose fait est bien fait.",
+      "elements_cles": [
+        "c'est Rose qui l'a persécutée",
+        "elle peut encore s'en aller"
+      ],
+      "extraits": [
+        "C’est Rose qui m’a persécutée. Mais si vous croyez que je suis de trop, je puis encore m’en aller.",
+        "C’était une surprise, murmura Mme Campardon, le cœur gros, en se cachant la face dans le gilet de son mari."
+      ],
+      "fait_ids": [
+        "c09-f039",
+        "c09-f038"
+      ],
+      "explication": "« Oublions tout » et « C'était une surprise » sont des paroles de Rose."
+    },
+    {
+      "id": "c09-q023",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quel jugement Octave porte-t-il sur Lisa en la voyant si prévenante envers Gasparine ?",
+      "choix": [
+        "« Une fille intelligente décidément, cette coureuse aux paupières bleues ! »",
+        "Une sotte qui ne comprend rien",
+        "Une domestique fidèle et honnête",
+        "Une fille méchante comme une gale"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il la juge intelligente : « cette coureuse aux paupières bleues ».",
+      "elements_cles": [
+        "fille intelligente",
+        "coureuse aux paupières bleues"
+      ],
+      "extraits": [
+        "Il avait remarqué avec étonnement l’attitude respectueuse, la prévenance souriante de Lisa auprès de Gasparine.",
+        "Une fille intelligente décidément, cette coureuse aux paupières bleues !"
+      ],
+      "fait_ids": [
+        "c09-f040"
+      ]
+    },
+    {
+      "id": "c09-q024",
+      "type": "motivation",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Pourquoi Octave décide-t-il de ne plus prendre ses repas chez les Campardon ?",
+      "choix": [
+        "Il n'a plus d'argent pour payer sa pension",
+        "Rose lui demande de partir",
+        "Il se sent de trop dans ce ménage depuis l'installation de Gasparine",
+        "Il part travailler à Évreux"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Voyant Campardon et Gasparine installer joyeusement la chambre de la cousine, il se sent de trop et décide de remercier Mme Campardon en inventant une histoire.",
+      "elements_cles": [
+        "il se sent de trop",
+        "installation de Gasparine"
+      ],
+      "extraits": [
+        "Alors, Octave comprit qu’il gênait leur expansion ; il se sentait de trop dans un ménage si uni, il les avertit que, le soir, il dînait dehors.",
+        "D’ailleurs, il était décidé : le lendemain, il remercierait Mme Campardon de sa bonne hospitalité, en inventant une histoire.",
+        "Cependant, l’architecte s’était mis en manches de chemise, et sifflant, chantant, pris d’une gaieté de gamin, il employa l’après-midi à organiser la chambre de la cousine."
+      ],
+      "fait_ids": [
+        "c09-f042",
+        "c09-f041"
+      ]
+    },
+    {
+      "id": "c09-q025",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quand Octave arrive chez les Pichon, que reproche Mme Vuillaume à son gendre ?",
+      "choix": [
+        "De ne pas avoir payé le loyer",
+        "D'avoir manqué à la parole d'honneur qu'il lui avait donnée",
+        "D'avoir invité Octave",
+        "D'avoir perdu sa place"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle lui reproche une indignité : il lui avait donné sa parole d'honneur.",
+      "elements_cles": [
+        "parole d'honneur",
+        "indignité"
+      ],
+      "extraits": [
+        "Les Vuillaume étaient là, indignés, frémissants.",
+        "C’est une indignité, monsieur ! disait la mère, debout, le bras tendu vers son gendre, écrasé sur une chaise. Vous m’aviez donné votre parole d’honneur."
+      ],
+      "fait_ids": [
+        "c09-f044"
+      ]
+    },
+    {
+      "id": "c09-q026",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Que lance Mme Vuillaume en partant, à propos du dîner des Pichon ?",
+      "choix": [
+        "« Vous voulez donc mourir de faim ? »",
+        "« Qu'ils mangent leur dîner, et que ça leur profite, car ils n'en auront pas toujours ! »",
+        "« Ils m'embêtent à la fin ! »",
+        "« C'est une indignité, monsieur ! »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle lance : « Qu'ils mangent leur dîner, et que ça leur profite, car ils n'en auront pas toujours ! »",
+      "elements_cles": [
+        "ils n'en auront pas toujours"
+      ],
+      "extraits": [
+        "Inutile, nous trouverons bien l’omnibus sans vous",
+        "Qu’ils mangent leur dîner, et que ça leur profite, car ils n’en auront pas toujours !"
+      ],
+      "fait_ids": [
+        "c09-f045"
+      ],
+      "explication": "« Vous voulez donc mourir de faim ? » est dit par M. Vuillaume, au début de la scène."
+    },
+    {
+      "id": "c09-q027",
+      "type": "dialogue",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Après le départ des Vuillaume, que reproche Marie à Jules ?",
+      "choix": [
+        "D'avoir prévenu ses parents trop tôt, au lieu d'attendre pour leur couler la chose en douceur",
+        "D'avoir dépensé trop d'argent",
+        "D'avoir invité Octave à dîner",
+        "D'avoir oublié l'anniversaire de sa mère"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle lui reproche de ne pas avoir attendu pour annoncer en douceur à ses parents qu'elle est enceinte, puisque ça ne se voit pas encore.",
+      "elements_cles": [
+        "prévenu trop tôt",
+        "elle est enceinte"
+      ],
+      "extraits": [
+        "Je t’avais prévenu. Tu aurais dû attendre, pour leur couler la chose en douceur. Rien ne pressait, ça ne se voit pas encore.",
+        "Je suis enceinte.",
+        "J’ai cru honnête de les prévenir tout de suite de cet ennui"
+      ],
+      "fait_ids": [
+        "c09-f046"
+      ]
+    },
+    {
+      "id": "c09-q028",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "De combien de mois Marie est-elle enceinte, d'après le calcul d'Octave ?",
+      "choix": [
+        "Trois mois",
+        "Quatre mois",
+        "Six mois",
+        "Cinq mois"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Elle est enceinte de cinq mois : de fin décembre à fin mai, le compte s'y trouve.",
+      "elements_cles": [
+        "cinq mois",
+        "de fin décembre à fin mai"
+      ],
+      "extraits": [
+        "Elle était enceinte de cinq mois, et de fin décembre à fin mai, le compte s’y trouvait."
+      ],
+      "fait_ids": [
+        "c09-f047"
+      ]
+    },
+    {
+      "id": "c09-q029",
+      "type": "scene",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Que fait Octave quand le ménage Pichon se querelle, chacun accusant l'autre d'avoir fait l'enfant ?",
+      "choix": [
+        "Il s'en va sans rien dire",
+        "Il rappelle les Vuillaume",
+        "Il intervient gaiement et propose de les emmener au restaurant",
+        "Il prend le parti de Jules"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il intervient gaiement et les emmène au restaurant, avec Lilitte ; Marie rougit, car dîner au restaurant est sa joie.",
+      "elements_cles": [
+        "il propose le restaurant"
+      ],
+      "extraits": [
+        "Et le ménage en arrivait à une querelle, se jetant le petit au visage, s’accusant l’un l’autre de l’avoir fait, lorsque Octave intervint gaiement.",
+        "Je vous emmène au restaurant, voulez-vous ?",
+        "La jeune femme rougit. Dîner au restaurant était sa joie."
+      ],
+      "fait_ids": [
+        "c09-f048",
+        "c09-f049"
+      ]
+    },
+    {
+      "id": "c09-q030",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces détails, lesquels concernent la soirée d'Octave avec les Pichon ?",
+      "choix": [
+        "Ils dînent au Bœuf à la mode, dans un cabinet",
+        "Octave demande du champagne au dessert",
+        "Octave prend une voiture pour rentrer, malgré le voisinage de la rue de Choiseul",
+        "La soirée coûte cinquante francs à Octave",
+        "Les Vuillaume les rejoignent au dessert",
+        "Lilitte est confiée à une voisine"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "reponse_libre": "Octave les mène au Bœuf à la mode, dans un cabinet, demande du champagne, les ramène en voiture et calcule que cela lui a coûté cinquante francs.",
+      "elements_cles": [
+        "Bœuf à la mode",
+        "champagne",
+        "voiture",
+        "cinquante francs"
+      ],
+      "extraits": [
+        "Même, au dessert, quand on eut allongé Lilitte entre deux oreillers du divan, il demanda du champagne",
+        "Alors, comme la petite, tombant de sommeil, refusait de marcher, Octave, pour bien faire les choses jusqu’au bout, voulut absolument prendre une voiture, malgré le voisinage de la rue de Choiseul.",
+        "Ma foi, pensait-il en se fourrant tout seul dans son lit, ça m’a coûté cinquante francs, mais je leur devais bien ça"
+      ],
+      "fait_ids": [
+        "c09-f050",
+        "c09-f051",
+        "c09-f052"
+      ],
+      "explication": "Lilitte est « de la partie » et s'endort sur le divan ; les Vuillaume sont partis fâchés."
+    },
+    {
+      "id": "c09-q031",
+      "type": "chronologie",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quand Octave décide-t-il de « tenter le grand coup » auprès de Mme Hédouin ?",
+      "choix": [
+        "Après la visite de Saint-Roch",
+        "Le soir de l'arrivée de Gasparine chez les Campardon",
+        "Le soir du dîner avec les Pichon, avant de s'endormir",
+        "Le jour du départ de M. Hédouin pour Vichy"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il le décide le soir du dîner au restaurant avec les Pichon, avant de s'endormir, pour le lendemain soir.",
+      "elements_cles": [
+        "après le dîner avec les Pichon",
+        "avant de s'endormir"
+      ],
+      "extraits": [
+        "Et, attendri de son bon cœur, il résolut, avant de s’endormir, de tenter le grand coup, le lendemain soir."
+      ],
+      "fait_ids": [
+        "c09-f053"
+      ]
+    },
+    {
+      "id": "c09-q032",
+      "type": "chronologie",
+      "difficulte": 3,
+      "format": "vrai_faux",
+      "enonce": "Octave emmène les Pichon au restaurant le jour même où Campardon revient d'Évreux et installe la chambre de Gasparine.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : l'après-midi, Campardon organise la chambre de la cousine ; vers cinq heures, Octave va demander à dîner aux Pichon.",
+      "elements_cles": [
+        "le même jour",
+        "vers cinq heures"
+      ],
+      "extraits": [
+        "Cependant, l’architecte s’était mis en manches de chemise, et sifflant, chantant, pris d’une gaieté de gamin, il employa l’après-midi à organiser la chambre de la cousine.",
+        "Vers cinq heures, comme il regrettait de ne savoir où rencontrer Trublot, l’idée lui vint de demander à dîner aux Pichon, pour ne point passer la soirée seul."
+      ],
+      "fait_ids": [
+        "c09-f041",
+        "c09-f043"
+      ]
+    },
+    {
+      "id": "c09-q033",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces meubles, lesquels se trouvent dans le cabinet du fond où Octave et Mme Hédouin examinent les commandes ?",
+      "choix": [
+        "Une caisse",
+        "Un piano",
+        "Un bureau",
+        "Un canapé",
+        "Une bibliothèque"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Il n'y a qu'une caisse, un bureau, deux chaises et un canapé.",
+      "elements_cles": [
+        "caisse",
+        "bureau",
+        "deux chaises",
+        "canapé"
+      ],
+      "extraits": [
+        "Pour cette besogne, tous deux se retiraient dans le cabinet du fond, une étroite pièce où il y avait seulement une caisse, un bureau, deux chaises et un canapé."
+      ],
+      "fait_ids": [
+        "c09-f054"
+      ]
+    },
+    {
+      "id": "c09-q034",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces commerçants, lesquels Octave propose-t-il de congédier en achetant la maison voisine ?",
+      "choix": [
+        "Un marchand d'ombrelles",
+        "Un savetier",
+        "Un bimbelotier",
+        "Un horloger",
+        "Un marchand de vin"
+      ],
+      "bonnes_reponses": [
+        0,
+        2
+      ],
+      "reponse_libre": "Il propose de donner congé à un marchand d'ombrelles et à un bimbelotier, dans la maison voisine de la rue Neuve-Saint-Augustin.",
+      "elements_cles": [
+        "marchand d'ombrelles",
+        "bimbelotier",
+        "rue Neuve-Saint-Augustin"
+      ],
+      "extraits": [
+        "Il s’agissait d’acheter la maison voisine, sur la rue Neuve-Saint-Augustin, de donner congé à un marchand d’ombrelles et à un bimbelotier, puis d’agrandir les magasins, où l’on pourrait créer de vastes rayons."
+      ],
+      "fait_ids": [
+        "c09-f056"
+      ],
+      "explication": "Le savetier, l'horloger et le marchand de vin occupent les boutiques de la maison du clergé de Saint-Roch."
+    },
+    {
+      "id": "c09-q035",
+      "type": "motivation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel argument Octave avance-t-il à propos de la maison de soierie de M. Vabre ?",
+      "choix": [
+        "Qu'il faut s'associer avec elle",
+        "Qu'elle vendra bientôt ses locaux",
+        "Qu'avec un rayon spécial, on la réduira à la faillite avant cinq ans",
+        "Qu'elle n'a aucune importance"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il affirme qu'en développant les vitrines et en créant un rayon spécial, on réduira la maison Vabre à la faillite avant cinq ans.",
+      "elements_cles": [
+        "rayon spécial",
+        "faillite avant cinq ans"
+      ],
+      "extraits": [
+        "Ainsi, la maison de soierie de M. Vabre vous fait du tort aujourd’hui ; développez vos vitrines sur la rue, créez un rayon spécial, et vous le réduisez à la faillite avant cinq ans",
+        "Et il s’échauffait, se montrait plein de mépris pour l’ancien commerce, au fond de boutiques humides, noires, sans étalage"
+      ],
+      "fait_ids": [
+        "c09-f058",
+        "c09-f057"
+      ]
+    },
+    {
+      "id": "c09-q036",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Selon Octave, quelle rue doit être ouverte du nouvel Opéra à la Bourse ?",
+      "choix": [
+        "La rue du Dix-Décembre",
+        "La rue Neuve-Saint-Augustin",
+        "La rue Saint-Roch",
+        "La rue de Choiseul"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il s'agit de la rue du Dix-Décembre, dont Campardon lui parle et qui peut décupler les affaires du quartier.",
+      "elements_cles": [
+        "rue du Dix-Décembre"
+      ],
+      "extraits": [
+        "Enfin, il est toujours question d’ouvrir cette rue du Dix-Décembre, qui doit aller du nouvel Opéra à la Bourse.",
+        "Cela peut décupler le mouvement d’affaires du quartier."
+      ],
+      "fait_ids": [
+        "c09-f059"
+      ]
+    },
+    {
+      "id": "c09-q037",
+      "type": "motivation",
+      "difficulte": 1,
+      "format": "multi",
+      "enonce": "Parmi ces raisons, lesquelles Mme Hédouin donne-t-elle pour écarter le projet ou les avances d'Octave ?",
+      "choix": [
+        "Jamais l'oncle Deleuze ne voudra",
+        "Son mari est trop souffrant",
+        "Elle n'est pas une femme ici, elle a trop d'affaires",
+        "Elle aime un autre homme",
+        "Octave est trop jeune pour être associé"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        2
+      ],
+      "reponse_libre": "Elle objecte que l'oncle Deleuze ne voudra jamais et que son mari est trop souffrant ; puis elle dit qu'elle n'est pas une femme ici, qu'elle a trop d'affaires.",
+      "elements_cles": [
+        "l'oncle Deleuze",
+        "mari trop souffrant",
+        "trop d'affaires"
+      ],
+      "extraits": [
+        "Jamais l’oncle Deleuze ne voudra, murmura-t-elle. Puis, mon mari est trop souffrant.",
+        "Je ne suis pas une femme ici, j’ai trop d’affaires"
+      ],
+      "fait_ids": [
+        "c09-f061",
+        "c09-f063"
+      ]
+    },
+    {
+      "id": "c09-q038",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Que répond Mme Hédouin quand Octave balbutie : « Voyez ce que je souffre » ?",
+      "choix": [
+        "« Je vous renvoie. »",
+        "« Je le dirai à mon mari. »",
+        "« Ayez pitié de moi. »",
+        "« Non, vous ne souffrez pas. En tout cas, vous guérirez. »"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Elle répond : « Non, vous ne souffrez pas. En tout cas, vous guérirez », puis lui dit d'ouvrir la porte.",
+      "elements_cles": [
+        "vous ne souffrez pas",
+        "vous guérirez"
+      ],
+      "extraits": [
+        "Ayez pitié, madame, balbutia-t-il encore. Voyez ce que je souffre.",
+        "Non, vous ne souffrez pas. En tout cas, vous guérirez"
+      ],
+      "fait_ids": [
+        "c09-f064"
+      ]
+    },
+    {
+      "id": "c09-q039",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que dit Mme Hédouin en se dégageant des bras d'Octave, qui la poussait sur le canapé ?",
+      "choix": [
+        "« Mon Dieu ! c'était pour ça ! »",
+        "« Personne ne viendra nous déranger. »",
+        "« Ah ! si nous avions de la place ! »",
+        "« Je n'ai pas peur. »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle dit avec tristesse : « Mon Dieu ! c'était pour ça ! », en se débarrassant de lui comme d'un enfant importun.",
+      "elements_cles": [
+        "Mon Dieu ! c'était pour ça !"
+      ],
+      "extraits": [
+        "Il la poussait sur le canapé, croyant qu’elle cédait enfin.",
+        "Mon Dieu ! c’était pour ça ! dit-elle avec un accent de tristesse, en se débarrassant de lui comme d’un enfant importun."
+      ],
+      "fait_ids": [
+        "c09-f062"
+      ]
+    },
+    {
+      "id": "c09-q040",
+      "type": "scene",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Au magasin, Gasparine surveille toujours d'un regard dur Octave et la patronne. Pour quelle raison frappe-t-elle à la porte du cabinet où ils sont enfermés ?",
+      "choix": [
+        "Pour annoncer le retour de M. Hédouin",
+        "Pour porter un message de Rose",
+        "Pour savoir si l'on attendait des chemises à entre-deux",
+        "Pour signaler une livraison de petits lainages"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle veut savoir si l'on attend des chemises à entre-deux ; voyant l'air glacé de Mme Hédouin, elle a un mince sourire moqueur, et Octave l'accuse d'avoir fait manquer le coup.",
+      "elements_cles": [
+        "chemises à entre-deux"
+      ],
+      "extraits": [
+        "C’était Mlle Gasparine qui désirait savoir si l’on attendait des chemises à entre-deux.",
+        "elle eut un mince sourire moqueur, en regardant ce dernier. Il en fut exaspéré, il l’accusa d’avoir fait manquer le coup.",
+        "Il était très gêné, d’ailleurs, par les yeux de Mlle Gasparine, dont il trouvait toujours, à ces moments-là, le regard dur fixé sur eux."
+      ],
+      "fait_ids": [
+        "c09-f065",
+        "c09-f023"
+      ]
+    },
+    {
+      "id": "c09-q041",
+      "type": "citation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Complétez la réplique de Mme Hédouin, qui termine la scène du cabinet : « N'importe, la maison vous regrettera, car… »",
+      "choix": [
+        "vous aviez de grandes idées",
+        "vous étiez de la famille",
+        "vous étiez un bon commis",
+        "vous connaissiez la soierie"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle conclut : « N'importe, la maison vous regrettera, car vous étiez un bon commis. »",
+      "elements_cles": [
+        "vous étiez un bon commis"
+      ],
+      "extraits": [
+        "Madame, déclara-t-il brusquement, lorsque la demoiselle de magasin fut partie, je quitte la maison ce soir.",
+        "N’importe, la maison vous regrettera, car vous étiez un bon commis."
+      ],
+      "fait_ids": [
+        "c09-f066"
+      ]
+    },
+    {
+      "id": "c09-q042",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Pourquoi Octave entre-t-il dans l'église Saint-Roch après avoir quitté le Bonheur des Dames ?",
+      "choix": [
+        "Pour se confesser à l'abbé Mauduit",
+        "Pour voir si Campardon y est et l'emmener au café prendre un madère",
+        "Pour admirer la chapelle de la Vierge",
+        "Pour y retrouver Gasparine"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il veut voir si Campardon est dans l'église, pour l'emmener au café prendre un madère et se distraire.",
+      "elements_cles": [
+        "chercher Campardon",
+        "prendre un madère"
+      ],
+      "extraits": [
+        "Il allait voir si Campardon n’était pas dans l’église, pour l’emmener au café prendre un madère."
+      ],
+      "fait_ids": [
+        "c09-f067"
+      ]
+    },
+    {
+      "id": "c09-q043",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Combien de lampes d'or compte la chapelle de l'Adoration perpétuelle que traverse Octave ?",
+      "choix": [
+        "Sept",
+        "Trois",
+        "Douze",
+        "Dix"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle compte sept lampes d'or.",
+      "elements_cles": [
+        "sept lampes d'or"
+      ],
+      "extraits": [
+        "puis, derrière encore, il lui fit traverser la chapelle de l’Adoration perpétuelle, aux sept lampes d’or, aux candélabres d’or"
+      ],
+      "fait_ids": [
+        "c09-f069"
+      ]
+    },
+    {
+      "id": "c09-q044",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelles stations du chemin de croix restent visibles de part et d'autre du chantier, à Saint-Roch ?",
+      "choix": [
+        "La dixième à gauche et la douzième à droite",
+        "La onzième à gauche et la douzième à droite",
+        "La première et la quatorzième",
+        "La septième et la huitième"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "On voit la dixième station à gauche et la douzième à droite ; le groupe de la onzième a été enlevé.",
+      "elements_cles": [
+        "dixième à gauche",
+        "douzième à droite",
+        "onzième enlevée"
+      ],
+      "extraits": [
+        "On voyait encore, à gauche, la dixième station, Jésus cloué sur la croix, et à droite, la douzième, les saintes femmes autour de Jésus.",
+        "Mais, au milieu, le groupe de la onzième station, Jésus sur la croix, avait été enlevé puis déposé contre un mur"
+      ],
+      "fait_ids": [
+        "c09-f070"
+      ]
+    },
+    {
+      "id": "c09-q045",
+      "type": "motivation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel effet l'abbé Mauduit veut-il obtenir avec son « jour d'en haut », pris dans la coupole ?",
+      "choix": [
+        "Économiser l'éclairage au gaz",
+        "Faire sécher plus vite le plâtre",
+        "Éclairer surtout la chapelle de l'Adoration perpétuelle",
+        "Éclairer le Christ en croix, la Vierge et Madeleine comme d'un rayon invisible qui les anime d'une vie surnaturelle"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il veut éclairer le groupe central du Calvaire, le Christ en croix avec la Vierge et Madeleine, comme d'un rayon invisible qui les anime d'une vie surnaturelle, dans un décor de pierre nue.",
+      "elements_cles": [
+        "groupe central du Calvaire",
+        "rayon invisible",
+        "vie surnaturelle"
+      ],
+      "extraits": [
+        "J’ai eu l’idée d’éclairer par un jour d’en haut, pris dans la coupole, le groupe central du Calvaire",
+        "Mais le gros effet est le Christ en croix, ayant à ses pieds la Vierge et Madeleine.",
+        "et c’est alors que mon jour de coupole les éclaire comme d’un rayon invisible, d’une clarté vive qui les fait venir en avant, qui les anime d’une vie surnaturelle"
+      ],
+      "fait_ids": [
+        "c09-f071",
+        "c09-f072"
+      ]
+    },
+    {
+      "id": "c09-q046",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces traits, lesquels décrivent l'abbé Mauduit pendant la visite du chantier ?",
+      "choix": [
+        "Il se passionne pour les travaux du Calvaire",
+        "Il aide les ouvriers à déplacer la Vierge et sort tout plâtreux",
+        "Il fait les plus grands éloges de Campardon",
+        "Il reproche à Octave d'avoir quitté le Bonheur des Dames",
+        "Il parle à voix basse, gêné par le bruit"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        2
+      ],
+      "reponse_libre": "Passionné par le Calvaire, il aide les ouvriers à porter la Vierge et sort tout plâtreux ; il fait aussi les plus grands éloges de Campardon.",
+      "elements_cles": [
+        "passionné par le Calvaire",
+        "tout plâtreux",
+        "éloges de Campardon"
+      ],
+      "extraits": [
+        "C’était l’abbé Mauduit, qui venait de le reconnaître. L’architecte étant absent, il voulut absolument faire visiter au jeune homme les travaux du Calvaire, pour lesquels il se passionnait.",
+        "Il leur donna un coup de main, saisit Marie par le dos et sortit tout plâtreux de cet embrassement.",
+        "il parlait de Campardon avec les plus grands éloges ; un garçon qui, au Moyen Âge, disait-il, aurait eu un sens religieux très remarquable."
+      ],
+      "fait_ids": [
+        "c09-f068",
+        "c09-f073",
+        "c09-f075"
+      ],
+      "explication": "Il garde au contraire « sa voix haute » ; il ne parle pas du départ d'Octave."
+    },
+    {
+      "id": "c09-q047",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "En quittant Octave, l'abbé Mauduit le charge de prier Campardon de l'attendre le soir même.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : l'abbé annonce qu'il ira voir Campardon le soir pour causer d'une amélioration et demande à Octave de le prier de l'attendre.",
+      "elements_cles": [
+        "il viendra le soir",
+        "causer d'une amélioration"
+      ],
+      "extraits": [
+        "J’irai voir M. Campardon ce soir, dit enfin l’abbé Mauduit. Priez-le de m’attendre",
+        "Je veux causer à l’aise d’une amélioration."
+      ],
+      "fait_ids": [
+        "c09-f077"
+      ]
+    },
+    {
+      "id": "c09-q048",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelles gravures Campardon accroche-t-il dans la chambre de Gasparine ?",
+      "choix": [
+        "La Vierge au cœur saignant et le groupe de la Crèche",
+        "Mignon aspirant au ciel et une vue de la fontaine de Vaucluse",
+        "Une vue de Plassans et un portrait de l'abbé Mauduit",
+        "Le Calvaire de Saint-Roch et l'Opéra"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il accroche notamment Mignon aspirant au ciel et une vue de la fontaine de Vaucluse.",
+      "elements_cles": [
+        "Mignon aspirant au ciel",
+        "fontaine de Vaucluse"
+      ],
+      "extraits": [
+        "il devait accrocher, dans la chambre de Gasparine, des gravures, qui revenaient de l’encadreur : Mignon aspirant au ciel, une vue de la fontaine de Vaucluse, d’autres encore.",
+        "Emballée, Mignon aspirant au ciel ! cria la voix joyeuse de Campardon."
+      ],
+      "fait_ids": [
+        "c09-f086"
+      ]
+    },
+    {
+      "id": "c09-q049",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces comportements, lesquels sont ceux de Gasparine au dîner du soir chez les Campardon ?",
+      "choix": [
+        "Elle choisit pour Rose le meilleur morceau du plat",
+        "Elle tance vertement Lisa au sujet d'un morceau de fromage égaré",
+        "Elle refuse de s'asseoir à table",
+        "Elle se moque ouvertement de Rose",
+        "Elle a déjà dompté les bonnes, au point de faire trembler Victoire"
+      ],
+      "bonnes_reponses": [
+        0,
+        1,
+        4
+      ],
+      "reponse_libre": "Elle choisit pour Rose le meilleur morceau, tance Lisa pour un morceau de fromage, et fait déjà trembler Victoire d'un mot.",
+      "elements_cles": [
+        "meilleur morceau pour Rose",
+        "tance Lisa pour le fromage",
+        "fait trembler Victoire"
+      ],
+      "extraits": [
+        "Campardon lui versait à boire, Gasparine choisissait à son intention le meilleur morceau du plat.",
+        "Au dessert, Gasparine tança vertement Lisa qui répondait mal à madame, au sujet d’un morceau de fromage égaré.",
+        "d’un mot, elle faisait trembler Victoire elle-même devant ses casseroles."
+      ],
+      "fait_ids": [
+        "c09-f083",
+        "c09-f084"
+      ]
+    },
+    {
+      "id": "c09-q050",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Rose rêve de faire quitter le Bonheur des Dames à Gasparine pour lui confier l'éducation d'Angèle.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai, mais Campardon et Gasparine répondent gravement qu'il faut attendre.",
+      "elements_cles": [
+        "éducation d'Angèle",
+        "Campardon et Gasparine disent d'attendre"
+      ],
+      "extraits": [
+        "son rêve était de lui faire quitter, à elle aussi, le Bonheur des Dames, pour la charger de l’éducation d’Angèle.",
+        "Mais Campardon et Gasparine restèrent graves : non, non, il fallait attendre, on ne se lâchait point ainsi des pieds dans la vie, sans se tenir des mains."
+      ],
+      "fait_ids": [
+        "c09-f085"
+      ]
+    },
+    {
+      "id": "c09-q051",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Pendant que Campardon et Gasparine accrochent les gravures, Rose, seule avec Octave, se réjouit qu'Achille ne la quitte plus le soir. Depuis combien de temps ?",
+      "choix": [
+        "Depuis huit jours",
+        "Depuis trois semaines",
+        "Depuis quinze jours",
+        "Depuis deux jours"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Depuis quinze jours : plus de café, plus de réunions d'affaires, plus de rendez-vous.",
+      "elements_cles": [
+        "quinze jours"
+      ],
+      "extraits": [
+        "Achille ne se dérange plus, voici quinze jours qu’il ne me quitte pas, le soir ; non, plus de café, plus de réunions d’affaires, plus de rendez-vous",
+        "Alors, Octave, se trouvant seul avec Rose, reprit son histoire, expliqua qu’à la fin du mois il serait forcé de prendre pension ailleurs."
+      ],
+      "fait_ids": [
+        "c09-f088",
+        "c09-f087"
+      ]
+    },
+    {
+      "id": "c09-q052",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelqu'un a promis la décoration à Campardon, mais on cachait son nom. De qui s'agit-il ?",
+      "choix": [
+        "De l'abbé Mauduit",
+        "De monseigneur",
+        "De M. Duveyrier",
+        "De M. Hédouin"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "C'est l'abbé Mauduit, qui découvre la croix d'honneur en papier attachée par Rose et dit de la garder.",
+      "elements_cles": [
+        "l'abbé Mauduit"
+      ],
+      "extraits": [
+        "on en faisait un mystère, quelqu’un lui avait promis la décoration.",
+        "Justement, l’abbé était la personne dont on cachait le nom et qui s’occupait de l’affaire."
+      ],
+      "fait_ids": [
+        "c09-f089"
+      ]
+    },
+    {
+      "id": "c09-q053",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que répond Angèle quand son père la surprend en train de lire la Gazette de France ?",
+      "choix": [
+        "« Papa, je lisais à côté. »",
+        "« C'est Lisa qui me l'a donnée. »",
+        "« Je n'ai rien lu. »",
+        "« Je cherchais ma leçon d'histoire sainte. »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle répond : « Papa, je lisais à côté », alors qu'il avait barré l'article au crayon rouge.",
+      "elements_cles": [
+        "je lisais à côté"
+      ],
+      "extraits": [
+        "Il venait de s’apercevoir que la petite, par-dessus son histoire sainte, lisait la Gazette de France, traînant sur la table.",
+        "Ce matin, j’ai barré l’article au crayon rouge.",
+        "Papa, je lisais à côté, répondit la jeune fille."
+      ],
+      "fait_ids": [
+        "c09-f090"
+      ]
+    },
+    {
+      "id": "c09-q054",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Selon le narrateur, dans quel but l'abbé Mauduit semble-t-il être venu chez les Campardon ce soir-là ?",
+      "choix": [
+        "Pour réclamer de l'argent pour le Calvaire",
+        "Pour bénir la bonne union de la famille et sauver une situation délicate dont on pouvait causer dans le quartier",
+        "Pour faire réciter son histoire sainte à Angèle",
+        "Pour reprocher à Octave d'avoir quitté son emploi"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il semble venu bénir la bonne union de la famille et sauver une situation délicate ; il approuve Gasparine de vivre près de sa famille, car les demoiselles seules à Paris courent des risques.",
+      "elements_cles": [
+        "bénir l'union de la famille",
+        "sauver une situation délicate"
+      ],
+      "extraits": [
+        "Et il semblait être venu pour bénir la bonne union de la famille et sauver ainsi une situation délicate, dont on pouvait causer dans le quartier.",
+        "approuva beaucoup Gasparine de s’être fixée auprès d’une personne de sa famille. Les demoiselles seules, à Paris, couraient tant de risques !"
+      ],
+      "fait_ids": [
+        "c09-f091"
+      ]
+    },
+    {
+      "id": "c09-q055",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "En partant, Octave entend une conversation dans la salle à manger toute noire. Parmi ces personnes, lesquelles y parlent de Gasparine ?",
+      "choix": [
+        "Angèle",
+        "Lisa",
+        "Victoire",
+        "Rose",
+        "Gasparine"
+      ],
+      "bonnes_reponses": [
+        0,
+        1
+      ],
+      "reponse_libre": "Ce sont Angèle et Lisa : Lisa traite Gasparine de « méchante comme une gale », et Angèle se jette à son cou en lui disant que c'est elle qu'elle aime.",
+      "elements_cles": [
+        "Angèle",
+        "Lisa"
+      ],
+      "extraits": [
+        "C’est pour le beurre qu’elle criait ? demandait-elle.",
+        "Bien sûr, répondait une autre voix, celle de Lisa. Elle est méchante comme une gale.",
+        "Et, après, tant pire ! c’est toi que j’aime !"
+      ],
+      "fait_ids": [
+        "c09-f092",
+        "c09-f093"
+      ]
+    },
+    {
+      "id": "c09-q056",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Faisant le bilan de ses échecs, Octave pense à plusieurs femmes. Parmi celles-ci, lesquelles n'ont pas voulu de son cœur ?",
+      "choix": [
+        "Valérie",
+        "Mme Hédouin",
+        "Marie",
+        "Gasparine",
+        "Berthe"
+      ],
+      "bonnes_reponses": [
+        0,
+        1
+      ],
+      "reponse_libre": "Ni Valérie ni Mme Hédouin n'ont voulu de son cœur ; Marie, la seule qu'il ait conquise, il l'a rendue à Jules.",
+      "elements_cles": [
+        "Valérie",
+        "Mme Hédouin"
+      ],
+      "extraits": [
+        "Maintenant, il se retrouvait garçon : pas de femme, ni Valérie ni Mme Hédouin n’avaient voulu de son cœur, et il s’était trop pressé de rendre à Jules Marie, la seule qu’il eût conquise, encore sans avoir rien fait pour ça."
+      ],
+      "fait_ids": [
+        "c09-f094"
+      ]
+    },
+    {
+      "id": "c09-q057",
+      "type": "scene",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Sur le trottoir, qui interpelle Octave, et qui lui offre ensuite d'entrer chez eux ?",
+      "choix": [
+        "Gasparine, puis Campardon",
+        "Marie, puis Jules",
+        "Berthe, puis son mari Auguste",
+        "Mme Hédouin, puis l'abbé Mauduit"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Berthe l'interpelle depuis le seuil du magasin de soierie, puis appelle son mari Auguste, qui lui offre d'entrer chez eux.",
+      "elements_cles": [
+        "Berthe",
+        "Auguste"
+      ],
+      "extraits": [
+        "Comme il posait le pied sur le trottoir, une voix de femme l’appela ; et il reconnut Berthe, sur le seuil du magasin de soierie, dont un garçon mettait les volets.",
+        "Et Auguste, la mine maussade, sans transition, offrit à Octave d’entrer chez eux."
+      ],
+      "fait_ids": [
+        "c09-f095",
+        "c09-f096"
+      ]
+    },
+    {
+      "id": "c09-q058",
+      "type": "citation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Par quelle phrase se termine le chapitre ?",
+      "choix": [
+        "« Est-ce que Paris allait se refuser ? »",
+        "« Eh bien ! oui, dit-il résolument. »",
+        "« Reviens souvent ! cria-t-elle. »",
+        "« Personne ne viendra nous déranger, murmura-t-il. »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Le chapitre se termine par l'acceptation d'Octave : « Eh bien ! oui, dit-il résolument. »",
+      "elements_cles": [
+        "Eh bien ! oui",
+        "résolument"
+      ],
+      "extraits": [
+        "Eh bien ! oui, dit-il résolument."
+      ],
+      "fait_ids": [
+        "c09-f098"
+      ]
+    },
+    {
+      "id": "c09-q059",
+      "type": "chronologie",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Dans quel ordre se suivent ces événements, le jour où Octave quitte le Bonheur des Dames ?",
+      "choix": [
+        "La visite de Saint-Roch, le grand coup manqué, Campardon surpris dans l'antichambre",
+        "Le grand coup manqué, la visite de Saint-Roch avec l'abbé Mauduit, Campardon surpris avec Gasparine dans l'antichambre",
+        "Campardon surpris dans l'antichambre, le grand coup manqué, la visite de Saint-Roch",
+        "Le grand coup manqué, Campardon surpris dans l'antichambre, la visite de Saint-Roch"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Après l'échec auprès de Mme Hédouin (vers trois heures), Octave visite Saint-Roch (vers quatre heures), puis surprend Campardon et Gasparine à six heures et demie.",
+      "elements_cles": [
+        "le grand coup manqué",
+        "la visite de Saint-Roch",
+        "l'antichambre à six heures et demie"
+      ],
+      "extraits": [
+        "Il la poussait sur le canapé, croyant qu’elle cédait enfin.",
+        "C’était l’abbé Mauduit, qui venait de le reconnaître. L’architecte étant absent, il voulut absolument faire visiter au jeune homme les travaux du Calvaire, pour lesquels il se passionnait.",
+        "Le soir, à six heures et demie, comme il entrait sans sonner chez les Campardon, il tomba net sur l’architecte et sur Gasparine, en train de se baiser à pleine bouche dans l’antichambre."
+      ],
+      "fait_ids": [
+        "c09-f062",
+        "c09-f068",
+        "c09-f079"
+      ]
+    },
+    {
+      "id": "c09-q060",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelle excuse Campardon balbutie-t-il quand Octave le surprend avec Gasparine dans l'antichambre ?",
+      "choix": [
+        "« Nous accrochions des gravures. »",
+        "« Ma femme se donne un coup de peigne. Voyez-la donc. »",
+        "« La cousine arrive du magasin. »",
+        "« L'abbé Mauduit va venir. »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il balbutie : « Ma femme se donne un coup de peigne. Voyez-la donc. »",
+      "elements_cles": [
+        "coup de peigne"
+      ],
+      "extraits": [
+        "Le soir, à six heures et demie, comme il entrait sans sonner chez les Campardon, il tomba net sur l’architecte et sur Gasparine, en train de se baiser à pleine bouche dans l’antichambre.",
+        "Ma femme se donne un coup de peigne, balbutia Campardon pour dire quelque chose. Voyez-la donc."
+      ],
+      "fait_ids": [
+        "c09-f079"
+      ]
+    }
+  ]
+}

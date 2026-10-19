@@ -1,0 +1,3318 @@
+{
+  "version_schema": 1,
+  "chapitre": 10,
+  "resume_court": "Un soir d’été, Berthe donne sa soirée à Octave pour qu’il aille essayer sa voix chez Mme Duveyrier. Clotilde lui fait chanter un air de Zémire et Azor et se réjouit d’avoir enfin trouvé un ténor, quand Clémence annonce que M. Vabre vient d’avoir une attaque. Pendant ce temps, Duveyrier dîne au Café anglais avec l’oncle Bachelard, Trublot et Gueulin ; Bachelard se vante d’avoir une jeune fille « vraie » mais refuse de la montrer. Les quatre hommes vont ensuite chez Clarisse, rue de la Cerisaie, et trouvent l’appartement entièrement vidé : elle est partie avec les meubles. Envoyé par Clotilde, Octave ramène Duveyrier, qui décide de se remettre avec sa femme, tandis que le médecin déclare M. Vabre perdu.",
+  "scenes": [
+    {
+      "id": "s1",
+      "titre": "Berthe donne sa soirée à Octave",
+      "lieu": "Le magasin du frère de Mme Duveyrier, où travaille Octave",
+      "moment": "Un jour, avant le soir de la leçon de chant",
+      "personnages_presents": [
+        "clotilde-duveyrier",
+        "berthe",
+        "octave-mouret"
+      ],
+      "deroule": "Octave se rapproche des Duveyrier : en rentrant, Mme Duveyrier traverse souvent le magasin de son frère et cause avec Berthe. La première fois qu’elle voit Octave derrière un comptoir, elle lui reproche aimablement d’avoir oublié sa promesse de venir essayer sa voix au piano. Elle veut redonner la Bénédiction des Poignards l’hiver suivant, avec deux ténors de plus. Un jour, Berthe, qui reste avec Octave une patronne simplement polie, lui dit de monter après son dîner chez sa belle-sœur, qui l’attend. Octave objecte qu’il voulait ranger les cases, mais Berthe lui donne sa soirée.",
+      "enjeu": "Mme Duveyrier veut recruter Octave comme ténor pour ses concerts ; Berthe facilite la chose en le libérant de son travail.",
+      "regroupements": [],
+      "phrase_finale": "Ne vous inquiétez pas, reprit-elle, il y a ici du monde pour cette besogne… Je vous donne votre soirée."
+    },
+    {
+      "id": "s2",
+      "titre": "La leçon de chant dans le salon blanc et or",
+      "lieu": "Le grand salon blanc et or de Mme Duveyrier",
+      "moment": "Le soir, vers neuf heures",
+      "personnages_presents": [
+        "octave-mouret",
+        "clotilde-duveyrier",
+        "clemence"
+      ],
+      "deroule": "Vers neuf heures, Octave trouve Clotilde seule, le piano ouvert et les bougies allumées. Elle explique que son mari est sorti pour un rapport sur l’affaire de la rue de Provence, alors qu’Octave sait par Trublot qu’il dîne avec l’oncle Bachelard avant d’aller chez Clarisse. Elle rappelle avec mépris que Duveyrier se vante de ne pas aimer la musique, et Octave s’écrie, pour lui plaire : « Comment peut-on ne pas aimer la musique ? ». Elle lui fait chanter un air de Zémire et Azor, de Grétry, et s’écrie ravie qu’il est un ténor, elle qui en cherche un depuis trois ans. Pendant le chant, elle prend un air passionné puis le laisse tomber comme un masque ; Octave recule, pour ne pas revivre son aventure avec Mme Hédouin. Elle répète vingt fois « Plus tremblant que vous », quand Clémence, la femme de chambre, vient annoncer que M. Vabre est tombé le nez dans ses écritures.",
+      "enjeu": "Clotilde veut faire d’Octave le ténor de ses concerts et sauver les apparences sur l’absence de son mari ; Octave, qui la trouve belle, se heurte à sa froideur.",
+      "regroupements": [],
+      "phrase_finale": "Madame, c’est M. votre père qui est tombé le nez dans ses écritures et qui ne bouge plus… Il nous fait peur."
+    },
+    {
+      "id": "s3",
+      "titre": "L’attaque de M. Vabre",
+      "lieu": "La chambre de M. Vabre, chez les Duveyrier",
+      "moment": "Le même soir, juste après la leçon",
+      "personnages_presents": [
+        "clotilde-duveyrier",
+        "octave-mouret",
+        "m-vabre",
+        "clemence",
+        "julie",
+        "hippolyte"
+      ],
+      "deroule": "Octave rejoint la chambre de M. Vabre, entouré de Julie, Clémence et Hippolyte. Le vieillard a tapé du front sur son encrier, l’encre lui couvrant l’œil gauche. Octave reconnaît une attaque, fait coucher le malade avec Hippolyte, qui répugne à le toucher, et conseille d’envoyer chercher le Dr Juillerat. Clotilde explique qu’Auguste a un rendez-vous et que Théophile ne doit pas monter : son père était allé chez lui et Valérie toucher des termes arriérés, et Valérie surtout l’a reçu brutalement. Pendant qu’Octave lit les fiches rangées dans une boîte de chêne, Clotilde lui ordonne à voix basse d’aller chercher son mari rue de la Cerisaie, avouant que l’histoire du rapport était un prétexte. Elle lui demande de ne rien dire et de prendre un fiacre. Restée seule avec les bonnes, elle éclate en sanglots.",
+      "enjeu": "Clotilde veut faire revenir son mari sans scandale ni bruit dans la maison ; elle dévoile malgré elle qu’elle connaît sa liaison.",
+      "regroupements": [
+        {
+          "personnages": [
+            "clotilde-duveyrier",
+            "octave-mouret"
+          ],
+          "action": "Clotilde se plante devant Octave et lui parle à voix basse, à l’écart des bonnes, pour l’envoyer chercher son mari rue de la Cerisaie.",
+          "extraits": [
+            "Clotilde se planta devant lui et dit à voix basse, résolument",
+            "Elle ne parlait plus, de peur d’en trop dire en présence des bonnes."
+          ]
+        }
+      ],
+      "phrase_finale": "Alors, comme le médecin n’arrivait pas, se voyant seule avec les deux bonnes qui regardaient, l’air effaré, elle éclata en gros sanglots, dans une crise de profonde douleur."
+    },
+    {
+      "id": "s4",
+      "titre": "Le dîner du Café anglais",
+      "lieu": "Un salon du Café anglais, puis le boulevard",
+      "moment": "Le même soir, jusqu’après neuf heures",
+      "personnages_presents": [
+        "bachelard",
+        "duveyrier",
+        "trublot",
+        "gueulin"
+      ],
+      "deroule": "L’oncle Bachelard offre au Café anglais un dîner à Duveyrier, avec Trublot et Gueulin, sans femmes car « les femmes ne savent pas manger ». Le menu est fastueux et les vins rares ; Bachelard regrette un johannisberg de cent cinq ans vendu à un Turc. Il pose pour l’homme bien, une rose à la boutonnière, et répète que les bons vins ne grisent pas. Au café, les quatre hommes ne parlent que des femmes : Bachelard se dit désabusé et vante la vertu, Trublot méprise les filles, Duveyrier, buvant du kummel, réclame une maîtresse honnête. Gueulin rappelle les maîtresses qui ont trompé l’oncle. Bachelard annonce alors qu’il a « une jeune fille, mais une vraie », qu’il veut rendre heureuse et marier à un garçon sage. Il propose de la montrer, mais sur le boulevard, par peur qu’on la lui vole, il refuse.",
+      "enjeu": "Bachelard veut éblouir le conseiller par sa dépense et se vanter de sa jeune fille, tout en craignant de la perdre s’il la montre.",
+      "regroupements": [
+        {
+          "personnages": [
+            "bachelard",
+            "duveyrier",
+            "trublot",
+            "gueulin"
+          ],
+          "action": "Les garçons retirés, les quatre hommes rapprochent leurs visages au-dessus de la nappe pour ne parler que des femmes.",
+          "extraits": [
+            "Puis, libres, tout en se félicitant qu’il n’y eût pas de femmes, ils posèrent les coudes sur la nappe, rapprochèrent leurs visages allumés, et ne causèrent que des femmes, interminablement."
+          ]
+        }
+      ],
+      "phrase_finale": "Eh bien ! non, je ne veux pas."
+    },
+    {
+      "id": "s5",
+      "titre": "La marche vers la rue de la Cerisaie",
+      "lieu": "Rue de Richelieu, puis rue de Rivoli",
+      "moment": "Le même soir, après le dîner",
+      "personnages_presents": [
+        "bachelard",
+        "duveyrier",
+        "trublot",
+        "gueulin"
+      ],
+      "deroule": "Bachelard s’obstine à ne pas montrer la jeune fille, malgré les plaisanteries de Trublot. Comme la soirée est belle, les quatre hommes vont à pied chez Clarisse pour hâter leur digestion et descendent la rue de Richelieu. Gueulin et Trublot marchent devant, Bachelard et Duveyrier derrière, en confidences. Bachelard assure qu’il ne se méfie pas de Duveyrier. Le conseiller vante la fidélité de Clarisse, revenue à l’honneur depuis qu’elle l’aime. Tout le long de la rue de Rivoli, Bachelard se retient de lui dire que Clarisse couche avec tout le monde et se contente de répéter que la vertu est ce qu’il y a de meilleur.",
+      "enjeu": "Duveyrier se rassure sur la fidélité de Clarisse ; Bachelard, vexé de ne plus pouvoir parler de sa petite, garde pour lui ce qu’il sait.",
+      "regroupements": [
+        {
+          "personnages": [
+            "bachelard",
+            "duveyrier"
+          ],
+          "action": "Bachelard et Duveyrier marchent derrière les deux jeunes gens et se font des confidences sur la jeune fille de l’oncle et sur Clarisse.",
+          "extraits": [
+            "Gueulin et Trublot marchaient les premiers. Derrière, venaient Bachelard et Duveyrier, enfoncés dans de fraternelles confidences."
+          ]
+        }
+      ],
+      "phrase_finale": "Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur."
+    },
+    {
+      "id": "s6",
+      "titre": "L’appartement vide de Clarisse",
+      "lieu": "L’appartement de Clarisse, au troisième, rue de la Cerisaie",
+      "moment": "Le même soir, tard",
+      "personnages_presents": [
+        "duveyrier",
+        "bachelard",
+        "trublot",
+        "gueulin",
+        "concierge-cerisaie",
+        "octave-mouret"
+      ],
+      "deroule": "Rue de la Cerisaie, aucune lumière n’éclaire le troisième. Le concierge, ricanant sous un respect exagéré, remet à Duveyrier la clef et une bougie. Trublot doit ouvrir la porte, car le conseiller ne trouve pas la serrure. L’appartement est entièrement vide : plus de meubles, de rideaux, de patères, et même les clous de la cuisine ont été dévissés. Duveyrier pleure, puis estime les meubles à vingt-cinq mille francs ; Trublot s’assoit par terre et fume un cigare abandonné. Bachelard révèle les infidélités de Clarisse, partie sans doute avec le gros Payan, et Duveyrier s’écrie qu’il n’y a plus d’honnêteté sur terre. Octave arrive alors et annonce à Duveyrier que son beau-père se meurt.",
+      "enjeu": "Duveyrier découvre qu’il a été abandonné et dépouillé par Clarisse ; il veut sauver sa dignité, tandis que Bachelard se réjouit de son infortune.",
+      "regroupements": [
+        {
+          "personnages": [
+            "trublot"
+          ],
+          "action": "Épuisé, Trublot s’assoit seul par terre contre un mur pour fumer le cigare abandonné, à l’écart des trois autres qui restent debout.",
+          "extraits": [
+            "Cependant, Trublot fumait contre le mur, les jambes allongées. Il se reposait gravement, on l’oubliait."
+          ]
+        }
+      ],
+      "phrase_finale": "Oui, il vaut mieux s’en aller, ajouta Trublot, en train de coller une seconde feuille de papier à cigarette autour de son cigare."
+    },
+    {
+      "id": "s7",
+      "titre": "Bachelard veut montrer sa jeune fille",
+      "lieu": "La rue de la Cerisaie, devant la maison",
+      "moment": "Près de minuit",
+      "personnages_presents": [
+        "duveyrier",
+        "octave-mouret",
+        "bachelard",
+        "trublot",
+        "gueulin",
+        "concierge-cerisaie"
+      ],
+      "deroule": "Les hommes quittent l’appartement vide ; Duveyrier ferme soigneusement la porte. En bas, pris de honte, il laisse Trublot rendre la clef au concierge. Sur le trottoir, on échange de fortes poignées de main, puis un fiacre emporte Octave et Duveyrier. Resté avec Gueulin et Trublot, Bachelard, excité par le désespoir du conseiller, décide de leur montrer la jeune fille malgré l’heure. Il précise qu’elle est fille du capitaine Menu et qu’on peut se renseigner chez MM. Mardienne frères, rue Saint-Sulpice. Il prend leur bras et cherche une voiture.",
+      "enjeu": "Bachelard, qui ne peut plus contenir sa vanité, veut prouver aux jeunes gens ce qu’est « la vertu » en leur montrant sa protégée.",
+      "regroupements": [
+        {
+          "personnages": [
+            "bachelard",
+            "gueulin",
+            "trublot"
+          ],
+          "action": "Une fois le fiacre parti, Bachelard reste dans la rue avec Gueulin et Trublot et les emmène voir sa jeune fille.",
+          "extraits": [
+            "l’oncle Bachelard dit à Gueulin et à Trublot, restés dans la rue déserte",
+            "Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite."
+          ]
+        }
+      ],
+      "phrase_finale": "Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite."
+    },
+    {
+      "id": "s8",
+      "titre": "Le retour en fiacre et la loge de M. Gourd",
+      "lieu": "Le fiacre, puis la maison de la rue de Choiseul, devant la loge",
+      "moment": "Plus tard dans la nuit",
+      "personnages_presents": [
+        "octave-mouret",
+        "duveyrier",
+        "julie",
+        "m-gourd",
+        "hippolyte"
+      ],
+      "deroule": "Dans le fiacre, Octave raconte l’attaque de M. Vabre et avoue que Mme Duveyrier connaît l’adresse de la rue de la Cerisaie. Duveyrier demande d’une voix dolente si elle lui pardonnera, puis s’il ne ferait pas mieux de se remettre avec sa femme ; Octave répond que ce serait peut-être raisonnable. Duveyrier se met alors à regretter son beau-père. Rue de Choiseul, un groupe est planté devant la loge de M. Gourd. Julie s’emporte contre les bourgeois qui se laissent mourir entre eux, M. Gourd parle de cœurs secs et Hippolyte se moque de l’air bête de madame. Tous se taisent en voyant Duveyrier, et Hippolyte annonce que le médecin pose des sinapismes.",
+      "enjeu": "Duveyrier, abandonné par Clarisse, cherche à rentrer en grâce auprès de sa femme ; les domestiques jugent sévèrement leurs maîtres.",
+      "regroupements": [
+        {
+          "personnages": [
+            "octave-mouret",
+            "duveyrier"
+          ],
+          "action": "Seuls dans le fiacre, Octave raconte l’attaque de M. Vabre et Duveyrier lui demande conseil sur sa femme.",
+          "extraits": [
+            "Cependant, dans le fiacre, Octave avait brièvement raconté l’attaque de M. Vabre, sans cacher que Mme Duveyrier connaissait l’adresse de la rue de la Cerisaie."
+          ]
+        },
+        {
+          "personnages": [
+            "julie",
+            "m-gourd",
+            "hippolyte"
+          ],
+          "action": "Devant la loge de M. Gourd, Julie, le concierge et Hippolyte critiquent la façon dont les maîtres soignent le vieillard.",
+          "extraits": [
+            "Rue de Choiseul, ils trouvèrent la porte de la maison ouverte et ils tombèrent sur un groupe, planté devant la loge de M. Gourd."
+          ]
+        }
+      ],
+      "phrase_finale": "Le médecin pose des sinapismes à monsieur, répondit Hippolyte. Oh ! j’ai eu une peine pour le trouver !"
+    },
+    {
+      "id": "s9",
+      "titre": "Au chevet de M. Vabre",
+      "lieu": "Le salon et la chambre de M. Vabre, chez les Duveyrier",
+      "moment": "La nuit, jusqu’à une heure du matin",
+      "personnages_presents": [
+        "clotilde-duveyrier",
+        "duveyrier",
+        "octave-mouret",
+        "dr-juillerat",
+        "m-vabre"
+      ],
+      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que le deuil va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave, et les époux s’entendent pour ne pas prévenir la famille. Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
+      "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, s’accordent pour retarder l’arrivée de la famille ; Clotilde subit le retour de son mari.",
+      "regroupements": [
+        {
+          "personnages": [
+            "clotilde-duveyrier",
+            "octave-mouret"
+          ],
+          "action": "Pendant que Duveyrier est dans la chambre voisine, Clotilde s’approche d’Octave près du piano et l’interroge sur ce qu’il a trouvé rue de la Cerisaie.",
+          "extraits": [
+            "Quand Duveyrier eut passé dans la chambre voisine, elle s’approcha d’Octave qui, pour se donner une contenance, se tenait devant le piano.",
+            "Il était là-bas ? demanda-t-elle d’une voix brève."
+          ]
+        },
+        {
+          "personnages": [
+            "duveyrier",
+            "dr-juillerat"
+          ],
+          "action": "Le Dr Juillerat donne à demi-voix à Duveyrier ses explications sur l’état désespéré de M. Vabre.",
+          "extraits": [
+            "Duveyrier, très pâle, écoutait le Dr Juillerat qui lui donnait des explications à demi-voix."
+          ]
+        }
+      ],
+      "phrase_finale": "Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls."
+    }
+  ],
+  "personnages": [
+    {
+      "id": "octave-mouret",
+      "nom": "Octave",
+      "presence": "acteur",
+      "identite": "Jeune homme employé au magasin de Berthe, derrière un comptoir ; il lit à peine la musique, mais Mme Duveyrier le déclare ténor.",
+      "role_dans_chapitre": "Il chante chez Mme Duveyrier, prend en main les secours lors de l’attaque de M. Vabre, puis va chercher Duveyrier rue de la Cerisaie et le ramène.",
+      "scenes": [
+        "s1",
+        "s2",
+        "s3",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "id": "clotilde-duveyrier",
+      "nom": "Clotilde Duveyrier (Mme Duveyrier)",
+      "presence": "acteur",
+      "identite": "Femme de Duveyrier, fille de M. Vabre, sœur d’Auguste et de Théophile ; rousse, froide, passionnée de piano.",
+      "role_dans_chapitre": "Elle fait chanter Octave, envoie celui-ci chercher son mari chez sa maîtresse lors de l’attaque de son père, puis subit le retour de son mari.",
+      "scenes": [
+        "s1",
+        "s2",
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "id": "berthe",
+      "nom": "Berthe",
+      "presence": "acteur",
+      "identite": "Patronne d’Octave au magasin ; belle-sœur de Mme Duveyrier.",
+      "role_dans_chapitre": "Elle donne sa soirée à Octave pour qu’il monte chez sa belle-sœur ; Clotilde compte sur elle pour prévenir ses frères le lendemain.",
+      "scenes": [
+        "s1"
+      ]
+    },
+    {
+      "id": "duveyrier",
+      "nom": "Duveyrier",
+      "presence": "acteur",
+      "identite": "Conseiller à la cour, mari de Clotilde et gendre de M. Vabre ; il souffre de l’estomac et entretient Clarisse rue de la Cerisaie.",
+      "role_dans_chapitre": "Il dîne avec Bachelard, découvre que Clarisse l’a quitté en emportant les meubles, puis revient vers sa femme au chevet de son beau-père.",
+      "scenes": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "id": "m-vabre",
+      "nom": "M. Vabre",
+      "presence": "present_silencieux",
+      "identite": "Père de Clotilde, d’Auguste et de Théophile, beau-père de Duveyrier ; vieillard qui passe sa vie sur des fiches.",
+      "role_dans_chapitre": "Frappé d’une attaque d’apoplexie le nez dans ses fiches, il reste sans connaissance ; le médecin le déclare perdu.",
+      "scenes": [
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "id": "clemence",
+      "nom": "Clémence",
+      "presence": "acteur",
+      "identite": "Femme de chambre de Mme Duveyrier.",
+      "role_dans_chapitre": "Elle interrompt la leçon de chant pour annoncer que M. Vabre ne bouge plus, puis aide à le déshabiller.",
+      "scenes": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "julie",
+      "nom": "Julie",
+      "presence": "acteur",
+      "identite": "Domestique des Duveyrier, en tablier de cuisine.",
+      "role_dans_chapitre": "Elle débarbouille l’encre sur le visage de M. Vabre, puis critique devant la loge les bourgeois qui se laissent mourir entre eux.",
+      "scenes": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "hippolyte",
+      "nom": "Hippolyte",
+      "presence": "acteur",
+      "identite": "Domestique des Duveyrier.",
+      "role_dans_chapitre": "Il répugne à toucher M. Vabre, part chercher le Dr Juillerat et se moque ensuite de l’air de madame devant la loge.",
+      "scenes": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "dr-juillerat",
+      "nom": "Le Dr Juillerat",
+      "presence": "acteur",
+      "identite": "Médecin appelé auprès de M. Vabre.",
+      "role_dans_chapitre": "Il pose des sinapismes, diagnostique une attaque d’apoplexie séreuse sans espoir et espère que M. Vabre a réglé ses affaires.",
+      "scenes": [
+        "s9"
+      ]
+    },
+    {
+      "id": "bachelard",
+      "nom": "L’oncle Bachelard",
+      "presence": "acteur",
+      "identite": "Homme de commerce connu sur les boulevards pour ses dîners fastueux ; il porte un râtelier et a un grand nez flambant.",
+      "role_dans_chapitre": "Il offre un dîner somptueux à Duveyrier, se vante d’avoir une jeune fille vertueuse, révèle les infidélités de Clarisse et finit par emmener Gueulin et Trublot voir sa protégée.",
+      "scenes": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "trublot",
+      "nom": "Trublot",
+      "presence": "acteur",
+      "identite": "Jeune homme, convive de Bachelard ; selon Mme Duveyrier, il n’est pas ténor.",
+      "role_dans_chapitre": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare laissé par Clarisse et propose de trouver son adresse grâce à la bonne.",
+      "scenes": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "gueulin",
+      "nom": "Gueulin",
+      "presence": "acteur",
+      "identite": "Jeune homme aux cheveux rouges qui appelle Bachelard « l’oncle ».",
+      "role_dans_chapitre": "Il rappelle à Bachelard les maîtresses qui l’ont trompé et commente avec ironie l’appartement vide de Clarisse.",
+      "scenes": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "concierge-cerisaie",
+      "nom": "Le concierge de la rue de la Cerisaie",
+      "presence": "acteur",
+      "identite": "Concierge de la maison où logeait Clarisse.",
+      "role_dans_chapitre": "Il remet la clef et une bougie à Duveyrier avec un ricanement caché ; il a balayé l’appartement vide.",
+      "scenes": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "m-gourd",
+      "nom": "M. Gourd",
+      "presence": "acteur",
+      "identite": "Il occupe la loge de la maison de la rue de Choiseul.",
+      "role_dans_chapitre": "Devant sa loge, il traite les maîtres de « cœurs secs » qui ne savent pas soigner un père.",
+      "scenes": [
+        "s8"
+      ]
+    },
+    {
+      "id": "clarisse",
+      "nom": "Clarisse",
+      "presence": "evoque",
+      "identite": "Maîtresse de Duveyrier, qui l’installait dans un appartement au troisième, rue de la Cerisaie.",
+      "role_dans_chapitre": "Elle a quitté Duveyrier en emportant tous les meubles, sans doute avec le gros Payan.",
+      "scenes": []
+    },
+    {
+      "id": "fifi",
+      "nom": "Fifi",
+      "presence": "evoque",
+      "identite": "Jeune fille que l’oncle Bachelard protège ; selon lui, fille du capitaine Menu.",
+      "role_dans_chapitre": "Bachelard se vante d’elle comme d’une vraie jeune fille, d’abord sans vouloir la montrer, puis emmène Gueulin et Trublot la voir.",
+      "scenes": []
+    },
+    {
+      "id": "auguste",
+      "nom": "Auguste",
+      "presence": "evoque",
+      "identite": "Frère de Clotilde.",
+      "role_dans_chapitre": "Il est absent ce soir-là, à cause d’un rendez-vous, et ne peut être prévenu.",
+      "scenes": []
+    },
+    {
+      "id": "theophile",
+      "nom": "Théophile",
+      "presence": "evoque",
+      "identite": "Frère de Clotilde ; il habite en face avec Valérie.",
+      "role_dans_chapitre": "Avec Valérie, il a mal reçu M. Vabre venu toucher des termes arriérés ; Clotilde ne veut pas qu’il monte.",
+      "scenes": []
+    },
+    {
+      "id": "valerie",
+      "nom": "Valérie",
+      "presence": "evoque",
+      "identite": "Femme de Théophile.",
+      "role_dans_chapitre": "Elle a reçu brutalement M. Vabre en refusant de payer ; Clotilde compte la faire demander le lendemain pour prévenir ses frères.",
+      "scenes": []
+    },
+    {
+      "id": "gustave",
+      "nom": "Gustave",
+      "presence": "evoque",
+      "identite": "Fils de Clotilde et de Duveyrier, petit-fils de M. Vabre.",
+      "role_dans_chapitre": "Son grand-père avait promis de l’avantager, selon Duveyrier.",
+      "scenes": []
+    },
+    {
+      "id": "mme-hedouin",
+      "nom": "Mme Hédouin",
+      "presence": "evoque",
+      "identite": "Non précisé dans ce chapitre.",
+      "role_dans_chapitre": "Octave se souvient de son aventure avec elle et ne veut pas la recommencer avec Clotilde.",
+      "scenes": []
+    },
+    {
+      "id": "payan",
+      "nom": "Payan",
+      "presence": "evoque",
+      "identite": "Gros maçon dont une ville du Midi voulait faire un artiste.",
+      "role_dans_chapitre": "Selon Bachelard, Clarisse a dû partir avec lui.",
+      "scenes": []
+    },
+    {
+      "id": "capitaine-menu",
+      "nom": "Le capitaine Menu",
+      "presence": "evoque",
+      "identite": "Capitaine, père de la jeune fille de Bachelard selon celui-ci.",
+      "role_dans_chapitre": "Bachelard le cite pour prouver la bonne famille de sa protégée.",
+      "scenes": []
+    }
+  ],
+  "citations_cles": [
+    {
+      "texte": "Parfait ! cria-t-elle ravie, un ténor, il n’y a pas à en douter, un ténor !… Continuez, monsieur.",
+      "locuteur": "Clotilde Duveyrier",
+      "contexte": "Pendant la leçon de chant, quand Octave chante l’air de Zémire et Azor."
+    },
+    {
+      "texte": "Vous savez, rue de la Cerisaie… Tous nos amis le savent.",
+      "locuteur": "Clotilde Duveyrier",
+      "contexte": "Elle avoue à Octave où se trouve son mari et l’envoie le chercher."
+    },
+    {
+      "texte": "Moi, je suis désabusé, déclara l’oncle Bachelard. La vertu est encore ce qu’il y a de meilleur.",
+      "locuteur": "L’oncle Bachelard",
+      "contexte": "Au Café anglais, quand la conversation tourne sur les femmes."
+    },
+    {
+      "texte": "Celle-là, c’est pour Bibi. On ne la voit pas, on n’y touche pas… À bas les pattes !",
+      "locuteur": "L’oncle Bachelard",
+      "contexte": "Il se fâche contre Gueulin qui prétend connaître sa jeune fille."
+    },
+    {
+      "texte": "Il n’y a plus d’honnêteté sur terre !",
+      "locuteur": "Duveyrier",
+      "contexte": "Dans l’appartement vide, quand Bachelard lui révèle les infidélités de Clarisse."
+    },
+    {
+      "texte": "Pardonne-moi, oublions nos torts, dans cette triste circonstance… Tu le vois, je te reviens, et pour toujours… Ah ! je suis bien puni !",
+      "locuteur": "Duveyrier",
+      "contexte": "De retour chez lui, il embrasse Clotilde au chevet de son beau-père."
+    },
+    {
+      "texte": "Tonnerre de Dieu ! il faut que je vous la montre.",
+      "locuteur": "L’oncle Bachelard",
+      "contexte": "Une fois Duveyrier parti, il décide de montrer sa jeune fille à Gueulin et à Trublot."
+    }
+  ],
+  "faits": [
+    {
+      "id": "c10-f001",
+      "categorie": "relation",
+      "enonce": "Mme Duveyrier traverse souvent le magasin de son frère en rentrant et s’arrête pour causer avec Berthe.",
+      "scene": "s1",
+      "extraits": [
+        "Souvent, lorsque Mme Duveyrier rentrait, elle traversait le magasin de son frère, s’arrêtait à causer un instant avec Berthe"
+      ]
+    },
+    {
+      "id": "c10-f002",
+      "categorie": "but_moyen",
+      "enonce": "Mme Duveyrier reproche aimablement à Octave de ne pas avoir tenu sa promesse de venir chez elle essayer sa voix au piano.",
+      "scene": "s1",
+      "extraits": [
+        "elle lui fit d’aimables reproches sur son manque de parole, en lui rappelant son ancienne promesse de venir un soir, chez elle, essayer sa voix au piano."
+      ]
+    },
+    {
+      "id": "c10-f003",
+      "categorie": "culture",
+      "enonce": "Mme Duveyrier veut donner une seconde audition de la Bénédiction des Poignards, l’hiver suivant, avec deux ténors de plus.",
+      "scene": "s1",
+      "extraits": [
+        "Justement, elle voulait donner une seconde audition de la Bénédiction des Poignards, à un de ses premiers samedis de l’hiver suivant, mais avec deux ténors de plus, quelque chose de très complet."
+      ]
+    },
+    {
+      "id": "c10-f004",
+      "categorie": "parole",
+      "enonce": "Octave comptait ranger les cases du magasin ce soir-là, mais Berthe, qui garde avec lui une attitude de patronne polie, lui donne sa soirée pour monter chez sa belle-sœur.",
+      "scene": "s1",
+      "extraits": [
+        "Si cela ne vous contrarie pas, dit un jour Berthe à Octave, vous pourrez monter après votre dîner chez ma belle-sœur. Elle vous attend.",
+        "C’est que, ce soir, fit-il remarquer, je comptais mettre un peu d’ordre dans ces cases.",
+        "Je vous donne votre soirée."
+      ]
+    },
+    {
+      "id": "c10-f005",
+      "categorie": "duree_date",
+      "enonce": "Vers neuf heures, Octave trouve Mme Duveyrier qui l’attend dans son grand salon blanc et or, piano ouvert et bougies allumées.",
+      "scene": "s2",
+      "extraits": [
+        "Vers neuf heures, Octave trouva Mme Duveyrier qui l’attendait, dans son grand salon blanc et or.",
+        "Tout était prêt, le piano ouvert, les bougies allumées."
+      ]
+    },
+    {
+      "id": "c10-f006",
+      "categorie": "but_moyen",
+      "enonce": "Clotilde explique l’absence de son mari : ses collègues l’ont chargé d’un rapport sur l’affaire de la rue de Provence.",
+      "scene": "s2",
+      "extraits": [
+        "ses collègues l’avaient chargé d’un rapport, dans une affaire très grave, et il était justement sorti pour se renseigner sur certains faits.",
+        "Vous savez, cette affaire de la rue de Provence, dit-elle avec simplicité."
+      ]
+    },
+    {
+      "id": "c10-f007",
+      "categorie": "chiffre",
+      "enonce": "L’affaire de la rue de Provence est un scandale de prostitution clandestine : des enfants de quatorze ans livrés à de hauts personnages.",
+      "scene": "s2",
+      "extraits": [
+        "C’était un scandale qui passionnait Paris, toute une prostitution clandestine, des enfants de quatorze ans livrés à de hauts personnages."
+      ]
+    },
+    {
+      "id": "c10-f008",
+      "categorie": "duree_date",
+      "enonce": "Selon Clotilde, depuis quinze jours, les soirées de son mari sont prises par cette affaire.",
+      "scene": "s2",
+      "extraits": [
+        "Oui, ça lui donne beaucoup de mal. Depuis quinze jours, ses soirées sont prises."
+      ]
+    },
+    {
+      "id": "c10-f009",
+      "categorie": "relation",
+      "enonce": "Octave sait par Trublot que l’oncle Bachelard a invité Duveyrier à dîner ce soir-là et qu’on doit finir la soirée chez Clarisse.",
+      "scene": "s2",
+      "extraits": [
+        "Il la regarda, sachant par Trublot que l’oncle Bachelard, ce jour-là, avait invité Duveyrier à dîner, et qu’on devait ensuite finir la soirée chez Clarisse."
+      ]
+    },
+    {
+      "id": "c10-f010",
+      "categorie": "comportement",
+      "enonce": "Clotilde parle toujours de son mari avec gravité et invente des histoires pour expliquer pourquoi il n’est jamais chez lui.",
+      "scene": "s2",
+      "extraits": [
+        "elle parlait toujours de son mari avec gravité, contait de son grand air honnête des histoires extraordinaires, où elle expliquait pourquoi on ne le trouvait jamais au domicile conjugal."
+      ]
+    },
+    {
+      "id": "c10-f011",
+      "categorie": "identite",
+      "enonce": "Clotilde a les cheveux roux et le visage un peu long ; ce soir-là elle est vêtue de soie grise et serrée dans un corset à baleines.",
+      "scene": "s2",
+      "extraits": [
+        "Ses cheveux roux pâlissaient son visage un peu long, d’une obstination tranquille de femme cloîtrée au fond de ses devoirs",
+        "vêtue de soie grise, la gorge et la taille sanglées dans un corset cuirassé de baleines, elle le traitait avec une amabilité sans chaleur, comme séparée de lui par un triple airain."
+      ]
+    },
+    {
+      "id": "c10-f012",
+      "categorie": "opinion",
+      "enonce": "Clotilde rappelle avec mépris que Duveyrier se vante de ne pas aimer la musique ; c’est la seule attaque qui lui échappe contre lui en public.",
+      "scene": "s2",
+      "extraits": [
+        "Vous l’avez peut-être entendu se vanter de ne pas aimer la musique ?",
+        "Elle mettait un tel mépris dans cette phrase, qu’il crut devoir risquer un léger rire."
+      ]
+    },
+    {
+      "id": "c10-f013",
+      "categorie": "relation",
+      "enonce": "Clotilde est assez forte pour cacher la haine et la répulsion physique que lui inspire son mari, qui se moque de son piano.",
+      "scene": "s2",
+      "extraits": [
+        "exaspérée des plaisanteries de ce dernier sur son piano, elle qui était assez forte pour cacher la haine et la répulsion physique qu’il lui inspirait."
+      ]
+    },
+    {
+      "id": "c10-f014",
+      "categorie": "parole",
+      "enonce": "Pour lui être agréable, Octave répète d’un air d’extase : « Comment peut-on ne pas aimer la musique ? »",
+      "scene": "s2",
+      "extraits": [
+        "Comment peut-on ne pas aimer la musique ? répétait Octave d’un air d’extase, afin de lui être agréable."
+      ]
+    },
+    {
+      "id": "c10-f015",
+      "categorie": "culture",
+      "enonce": "Clotilde a choisi, dans un recueil d’anciens airs, un morceau de Zémire et Azor, de Grétry ; Octave, qui lit à peine ses notes, le déchiffre d’abord à demi-voix.",
+      "scene": "s2",
+      "extraits": [
+        "Un recueil d’anciens airs était ouvert sur le pupitre. Elle avait choisi un morceau de Zémire et Azor, de Grétry.",
+        "Comme le jeune homme lisait tout au plus ses notes, elle le lui fit d’abord déchiffrer à demi-voix."
+      ]
+    },
+    {
+      "id": "c10-f016",
+      "categorie": "culture",
+      "enonce": "Les vers chantés par Octave sont : « Du moment qu’on aime, L’on devient si doux… Et je suis moi-même Plus tremblant que vous. »",
+      "scene": "s2",
+      "extraits": [
+        "Du moment qu’on aime,",
+        "L’on devient si doux…",
+        "Plus tremblant que vous."
+      ]
+    },
+    {
+      "id": "c10-f017",
+      "categorie": "parole",
+      "enonce": "Ravie, Clotilde s’écrie qu’Octave est un ténor, sans aucun doute.",
+      "scene": "s2",
+      "extraits": [
+        "Parfait ! cria-t-elle ravie, un ténor, il n’y a pas à en douter, un ténor !… Continuez, monsieur."
+      ]
+    },
+    {
+      "id": "c10-f018",
+      "categorie": "duree_date",
+      "enonce": "Cela fait trois ans que Clotilde cherche un ténor.",
+      "scene": "s2",
+      "extraits": [
+        "Voilà trois ans qu’elle en cherchait un !"
+      ]
+    },
+    {
+      "id": "c10-f019",
+      "categorie": "opinion",
+      "enonce": "Clotilde cite M. Trublot parmi ses déboires et affirme qu’il n’y a plus de ténors chez les jeunes gens de la société, sans doute à cause du tabac.",
+      "scene": "s2",
+      "extraits": [
+        "Et elle lui conta ses déboires, M. Trublot par exemple ; car, c’était un fait dont on aurait dû étudier les causes, il n’y avait plus de ténors parmi les jeunes gens de la société : sans doute le tabac."
+      ]
+    },
+    {
+      "id": "c10-f020",
+      "categorie": "comportement",
+      "enonce": "Pendant le chant, Clotilde prend un air langoureux, puis, la phrase finie, laisse tomber cette expression passionnée comme un masque.",
+      "scene": "s2",
+      "extraits": [
+        "Son visage froid prit une langueur, ses yeux se tournèrent vers lui d’un air mourant.",
+        "Mais, la phrase mélodique achevée, elle laissa tomber son expression passionnée comme un masque. Sa froideur était dessous."
+      ]
+    },
+    {
+      "id": "c10-f021",
+      "categorie": "relation",
+      "enonce": "Octave recule, inquiet, ne voulant pas recommencer son aventure avec Mme Hédouin.",
+      "scene": "s2",
+      "extraits": [
+        "Il se recula, inquiet, ne voulant pas recommencer son aventure avec Mme Hédouin."
+      ]
+    },
+    {
+      "id": "c10-f022",
+      "categorie": "chiffre",
+      "enonce": "Clotilde chante elle-même « Plus tremblant que vous » et le répète à vingt reprises, en détachant les notes.",
+      "scene": "s2",
+      "extraits": [
+        "Et elle chanta elle-même, elle répéta à vingt reprises",
+        "en détachant les notes avec une rigueur de femme impeccable, dont la passion musicale était à fleur de peau, dans la mécanique."
+      ]
+    },
+    {
+      "id": "c10-f023",
+      "categorie": "parole",
+      "enonce": "Clémence, la femme de chambre, interrompt la leçon : M. Vabre est tombé le nez dans ses écritures et ne bouge plus.",
+      "scene": "s2",
+      "extraits": [
+        "Elle eut un sursaut, et reconnaissant sa femme de chambre Clémence",
+        "Madame, c’est M. votre père qui est tombé le nez dans ses écritures et qui ne bouge plus… Il nous fait peur."
+      ]
+    },
+    {
+      "id": "c10-f024",
+      "categorie": "action",
+      "enonce": "Tous les domestiques entourent M. Vabre : Julie en tablier de cuisine, Clémence et Hippolyte, qui viennent de lâcher une partie de dominos.",
+      "scene": "s3",
+      "extraits": [
+        "Tous les domestiques étaient accourus, Julie en tablier de cuisine, Clémence et Hippolyte, l’esprit encore occupé d’une partie de dominos qu’ils venaient de lâcher"
+      ]
+    },
+    {
+      "id": "c10-f025",
+      "categorie": "objet_lieu",
+      "enonce": "M. Vabre a tapé du front sur son encrier : une éclaboussure d’encre lui couvre l’œil gauche.",
+      "scene": "s3",
+      "extraits": [
+        "Il avait tapé du front sur son encrier. Une éclaboussure d’encre lui couvrait l’œil gauche, coulant en minces gouttes jusqu’à ses lèvres."
+      ]
+    },
+    {
+      "id": "c10-f026",
+      "categorie": "parole",
+      "enonce": "Octave reconnaît une attaque et dit qu’il faut mettre M. Vabre sur son lit.",
+      "scene": "s3",
+      "extraits": [
+        "C’est une attaque, dit Octave. On ne peut le laisser là. Il faut le mettre sur son lit."
+      ]
+    },
+    {
+      "id": "c10-f027",
+      "categorie": "comportement",
+      "enonce": "Hippolyte, qui répugne visiblement à toucher le vieillard, ne se hâte pas ; Octave doit lui crier de l’aider pour coucher M. Vabre.",
+      "scene": "s3",
+      "extraits": [
+        "Hippolyte ne se hâtait point, travaillé d’une inquiétude, d’une répulsion visible à toucher le vieux, qui allait peut-être passer entre ses bras.",
+        "Il fallut qu’Octave lui criât de l’aider. À eux deux, ils le couchèrent."
+      ]
+    },
+    {
+      "id": "c10-f028",
+      "categorie": "comportement",
+      "enonce": "Clotilde s’irrite contre son mari, qui n’est jamais à la maison quand on a besoin de lui.",
+      "scene": "s3",
+      "extraits": [
+        "Maintenant, Clotilde s’irritait contre son mari.",
+        "jamais il ne se trouvait à la maison, quand on avait besoin de lui"
+      ]
+    },
+    {
+      "id": "c10-f029",
+      "categorie": "action",
+      "enonce": "C’est Octave qui conseille d’envoyer chercher le Dr Juillerat ; Hippolyte part aussitôt, heureux de prendre l’air.",
+      "scene": "s3",
+      "extraits": [
+        "Octave l’interrompit pour lui conseiller d’envoyer chercher le Dr Juillerat. Personne n’y songeait. Hippolyte partit tout de suite, heureux de prendre l’air."
+      ]
+    },
+    {
+      "id": "c10-f030",
+      "categorie": "parole",
+      "enonce": "Octave propose de prévenir la famille et d’appeler les deux frères de Clotilde.",
+      "scene": "s3",
+      "extraits": [
+        "Voulez-vous que je prévienne la famille ? offrit Octave. Je puis appeler vos deux frères… Ce serait prudent."
+      ]
+    },
+    {
+      "id": "c10-f031",
+      "categorie": "relation",
+      "enonce": "Clotilde retient Octave : son frère Auguste est absent pour un rendez-vous, et Théophile ne doit pas monter, car sa vue achèverait leur père.",
+      "scene": "s3",
+      "extraits": [
+        "son frère Auguste était absent, ayant ce soir-là un rendez-vous",
+        "quant à Théophile, il ferait bien de ne pas monter, car sa vue seule achèverait leur père."
+      ]
+    },
+    {
+      "id": "c10-f032",
+      "categorie": "argent",
+      "enonce": "M. Vabre était allé chez Théophile, en face, toucher des termes arriérés ; Valérie surtout l’a reçu brutalement, refusant de payer et réclamant la somme promise au mariage.",
+      "scene": "s3",
+      "extraits": [
+        "Elle conta alors que celui-ci s’était présenté en face, chez ses enfants, pour toucher des termes arriérés",
+        "mais ils l’avaient reçu brutalement, Valérie surtout, refusant de payer, réclamant la somme promise par lui, lors de leur mariage"
+      ]
+    },
+    {
+      "id": "c10-f033",
+      "categorie": "action",
+      "enonce": "Selon Clotilde, l’attaque vient sans aucun doute de cette scène chez Théophile et Valérie.",
+      "scene": "s3",
+      "extraits": [
+        "l’attaque venait sans aucun doute de cette scène, car il était rentré dans un état pitoyable."
+      ]
+    },
+    {
+      "id": "c10-f034",
+      "categorie": "objet_lieu",
+      "enonce": "Les fiches de M. Vabre sont des cartons méticuleusement classés dans une grande boîte de chêne, « toute une vie de travail imbécile ».",
+      "scene": "s3",
+      "extraits": [
+        "c’était, dans une grande boîte de chêne, des séries de cartons méticuleusement classés, toute une vie de travail imbécile."
+      ]
+    },
+    {
+      "id": "c10-f035",
+      "categorie": "culture",
+      "enonce": "Sur une fiche, Octave lit le nom d’Isidore Charbotel et ses envois aux Salons : Atalante en 1857, le Lion d’Androclès en 1859.",
+      "scene": "s3",
+      "extraits": [
+        "Au moment où il lisait sur un de ces cartons : « Isidore Charbotel : Salon de 1857, Atalante ; Salon de 1859, le Lion d’Androclès"
+      ]
+    },
+    {
+      "id": "c10-f036",
+      "categorie": "parole",
+      "enonce": "Clotilde ordonne à voix basse à Octave d’aller chercher son mari rue de la Cerisaie, adresse que « tous nos amis » connaissent.",
+      "scene": "s3",
+      "extraits": [
+        "Clotilde se planta devant lui et dit à voix basse, résolument",
+        "Allez le chercher.",
+        "Vous savez, rue de la Cerisaie… Tous nos amis le savent."
+      ]
+    },
+    {
+      "id": "c10-f037",
+      "categorie": "comportement",
+      "enonce": "L’histoire du rapport sur l’affaire de la rue de Provence n’était qu’un des éternels prétextes que Clotilde inventait pour le monde.",
+      "scene": "s3",
+      "extraits": [
+        "un de ces éternels prétextes qu’elle inventait pour le monde. Dans son émotion, elle lâchait tout."
+      ]
+    },
+    {
+      "id": "c10-f038",
+      "categorie": "parole",
+      "enonce": "Clotilde dit qu’elle est trop heureuse que son mari reste là-bas, et ne le fait chercher que pour son père.",
+      "scene": "s3",
+      "extraits": [
+        "Ne le défendez donc pas ! reprit-elle. Je suis trop heureuse, il peut y rester… Ah ! mon Dieu ! si ce n’était pas pour mon pauvre père !"
+      ]
+    },
+    {
+      "id": "c10-f039",
+      "categorie": "but_moyen",
+      "enonce": "Clotilde demande à Octave de ne rien dire à personne pour ne pas bouleverser la maison, et de ramener son mari en fiacre.",
+      "scene": "s3",
+      "extraits": [
+        "Pas un mot à personne, murmura-t-elle. Il est inutile de bouleverser la maison… Prenez un fiacre, frappez là-bas, ramenez-le quand même."
+      ]
+    },
+    {
+      "id": "c10-f040",
+      "categorie": "action",
+      "enonce": "Restée seule avec les deux bonnes, comme le médecin n’arrive pas, Clotilde éclate en gros sanglots.",
+      "scene": "s3",
+      "extraits": [
+        "Alors, comme le médecin n’arrivait pas, se voyant seule avec les deux bonnes qui regardaient, l’air effaré, elle éclata en gros sanglots, dans une crise de profonde douleur."
+      ]
+    },
+    {
+      "id": "c10-f041",
+      "categorie": "objet_lieu",
+      "enonce": "L’oncle Bachelard a invité Duveyrier au Café anglais, peut-être pour le plaisir de traiter un conseiller à la cour.",
+      "scene": "s4",
+      "extraits": [
+        "C’était au Café anglais que l’oncle Bachelard avait invité Duveyrier, sans qu’on sût pourquoi, peut-être pour le plaisir de traiter un conseiller à la cour"
+      ]
+    },
+    {
+      "id": "c10-f042",
+      "categorie": "identite",
+      "enonce": "Bachelard a aussi amené Trublot et Gueulin : quatre hommes et pas de femmes, car selon lui les femmes ne savent pas manger.",
+      "scene": "s4",
+      "extraits": [
+        "Il avait amené en outre Trublot et Gueulin, quatre hommes et pas de femmes, car les femmes ne savent pas manger"
+      ]
+    },
+    {
+      "id": "c10-f043",
+      "categorie": "argent",
+      "enonce": "Bachelard est connu sur les boulevards pour ses dîners à trois cents francs par tête, offerts aux clients venus de l’Inde ou du Brésil.",
+      "scene": "s4",
+      "extraits": [
+        "quand un client tombait chez lui du fond de l’Inde ou du Brésil, des dîners à trois cents francs par tête"
+      ]
+    },
+    {
+      "id": "c10-f044",
+      "categorie": "comportement",
+      "enonce": "Pris d’une rage de dépense, Bachelard exige d’ordinaire des curiosités gastronomiques comme des pattes d’ours de la Forêt-Noire ou des bosses de bison.",
+      "scene": "s4",
+      "extraits": [
+        "Une rage de dépense le prenait, il exigeait tout ce qu’il y avait de plus cher, des curiosités gastronomiques, même immangeables",
+        "des pattes d’ours de la Forêt-Noire, des bosses de bison d’Amérique"
+      ]
+    },
+    {
+      "id": "c10-f045",
+      "categorie": "duree_date",
+      "enonce": "Le dîner a lieu en été, saison où tout abonde, si bien que Bachelard a eu du mal à enfler l’addition.",
+      "scene": "s4",
+      "extraits": [
+        "Ce soir-là, comme on se trouvait en été, saison où tout abonde, il avait eu du mal à enfler l’addition."
+      ]
+    },
+    {
+      "id": "c10-f046",
+      "categorie": "objet_lieu",
+      "enonce": "Le menu, arrêté la veille, comprend notamment un potage crème d’asperges, des ortolans à la Lucullus, une salade d’écrevisses et un soufflé au chocolat.",
+      "scene": "s4",
+      "extraits": [
+        "un potage crème d’asperges, puis des petites timbales à la Pompadour",
+        "deux entrées, des ortolans à la Lucullus et une salade d’écrevisses",
+        "suivis d’un soufflé au chocolat et d’une sicilienne de fruits"
+      ]
+    },
+    {
+      "id": "c10-f047",
+      "categorie": "chiffre",
+      "enonce": "Bachelard regrette une bouteille de johannisberg âgée de cent cinq ans, vendue dix louis à un Turc trois jours plus tôt.",
+      "scene": "s4",
+      "extraits": [
+        "Il regretta beaucoup une bouteille de johannisberg, âgée de cent cinq ans, qu’on avait vendue dix louis à un Turc, trois jours plus tôt."
+      ]
+    },
+    {
+      "id": "c10-f048",
+      "categorie": "opinion",
+      "enonce": "Bachelard répète à Duveyrier de boire, car selon lui les bons vins ne grisent pas.",
+      "scene": "s4",
+      "extraits": [
+        "Buvez donc, monsieur, répétait-il sans cesse à Duveyrier",
+        "quand les vins sont bons, ils ne grisent pas… C’est comme la nourriture, elle ne fait jamais de mal, si elle est délicate."
+      ]
+    },
+    {
+      "id": "c10-f049",
+      "categorie": "comportement",
+      "enonce": "Ce soir-là, Bachelard pose pour l’homme bien : une rose à la boutonnière, peigné et rasé, il se retient de casser la vaisselle.",
+      "scene": "s4",
+      "extraits": [
+        "Ce jour-là, il posait pour l’homme bien, une rose à la boutonnière, peigné et rasé, se retenant de casser la vaisselle, ainsi qu’il en avait l’habitude."
+      ]
+    },
+    {
+      "id": "c10-f050",
+      "categorie": "identite",
+      "enonce": "Duveyrier, qui souffre de l’estomac, a beaucoup bu et est revenu à la salade d’écrevisses.",
+      "scene": "s4",
+      "extraits": [
+        "car Duveyrier lui-même, qui souffrait de l’estomac, avait bu considérablement et était revenu à la salade d’écrevisses"
+      ]
+    },
+    {
+      "id": "c10-f051",
+      "categorie": "duree_date",
+      "enonce": "À neuf heures, le dîner du Café anglais dure encore ; un valet se tient derrière chaque convive.",
+      "scene": "s4",
+      "extraits": [
+        "À neuf heures, le dîner durait encore.",
+        "Outre les deux maîtres d’hôtel, il y avait derrière chaque convive un valet, spécialement chargé de veiller au pain, au vin, au changement des assiettes."
+      ]
+    },
+    {
+      "id": "c10-f052",
+      "categorie": "parole",
+      "enonce": "Au café, Bachelard soupire « on est bien », Trublot et Gueulin disent « Complet ! » et « Jusqu’aux yeux ! », et Duveyrier murmure « Oh ! les écrevisses ! ».",
+      "scene": "s4",
+      "extraits": [
+        "Ah ! déclara-t-il, on est bien.",
+        "Duveyrier, qui soufflait, hocha la tête et murmura",
+        "Oh ! les écrevisses !"
+      ]
+    },
+    {
+      "id": "c10-f053",
+      "categorie": "action",
+      "enonce": "Tout en se félicitant de l’absence de femmes, les quatre hommes rapprochent leurs visages et ne parlent que des femmes.",
+      "scene": "s4",
+      "extraits": [
+        "Puis, libres, tout en se félicitant qu’il n’y eût pas de femmes, ils posèrent les coudes sur la nappe, rapprochèrent leurs visages allumés, et ne causèrent que des femmes, interminablement."
+      ]
+    },
+    {
+      "id": "c10-f054",
+      "categorie": "opinion",
+      "enonce": "Bachelard se dit désabusé et affirme que la vertu est encore ce qu’il y a de meilleur.",
+      "scene": "s4",
+      "extraits": [
+        "Moi, je suis désabusé, déclara l’oncle Bachelard. La vertu est encore ce qu’il y a de meilleur."
+      ]
+    },
+    {
+      "id": "c10-f055",
+      "categorie": "objet_lieu",
+      "enonce": "Bachelard avoue avoir « roulé » et connaître toutes les filles de la rue Godot-de-Mauroy.",
+      "scene": "s4",
+      "extraits": [
+        "Ah ! j’ai roulé, je le confesse. Tenez ! rue Godot-de-Mauroy, je les connais toutes."
+      ]
+    },
+    {
+      "id": "c10-f056",
+      "categorie": "opinion",
+      "enonce": "Trublot, de son air supérieur, déclare qu’avec les filles on n’en a jamais pour son argent.",
+      "scene": "s4",
+      "extraits": [
+        "Oh ! les filles ! interrompit Trublot de son air supérieur, quelle blague !",
+        "On n’en a jamais pour son argent, avec elles."
+      ]
+    },
+    {
+      "id": "c10-f057",
+      "categorie": "comportement",
+      "enonce": "Pendant cette conversation, Duveyrier boit du kummel à petits coups, sa face de magistrat traversée de frissons.",
+      "scene": "s4",
+      "extraits": [
+        "Il buvait du kummel à petits coups, sa face raide de magistrat tiraillée par de courts frissons sensuels."
+      ]
+    },
+    {
+      "id": "c10-f058",
+      "categorie": "opinion",
+      "enonce": "Duveyrier déclare ne pas admettre le vice : pour aimer une femme, il faut l’estimer ; il ne résiste qu’à une maîtresse honnête.",
+      "scene": "s4",
+      "extraits": [
+        "Moi, dit-il, je ne puis admettre le vice. Il me révolte… N’est-ce pas ? pour aimer une femme, il faut l’estimer ?",
+        "Enfin, une maîtresse honnête, vous m’entendez… Alors, je ne dis pas, je suis sans force."
+      ]
+    },
+    {
+      "id": "c10-f059",
+      "categorie": "relation",
+      "enonce": "La dernière maîtresse de Bachelard, rencontrée à la porte d’une église, tenait un commerce de modes qu’il lui louait aux Ternes ; elle couchait avec toute la rue.",
+      "scene": "s4",
+      "extraits": [
+        "Par exemple, ma dernière, une petite dame très bien, que j’avais rencontrée à la porte d’une église. Je lui loue, aux Ternes, un commerce de modes, histoire de la poser",
+        "mais elle couchait avec toute la rue."
+      ]
+    },
+    {
+      "id": "c10-f060",
+      "categorie": "parole",
+      "enonce": "Gueulin rappelle à l’oncle d’autres maîtresses qui l’ont trompé : la grande de Passy au magasin de bonbons, celle aux trousseaux pour les orphelins, la veuve du capitaine au coup de sabre.",
+      "scene": "s4",
+      "extraits": [
+        "Et l’autre, la grande de Passy, celle au magasin de bonbons… Et l’autre, celle en chambre, là-bas, avec ses trousseaux pour les orphelins…",
+        "Et l’autre, la veuve du capitaine, rappelez-vous ! qui montrait sur son ventre un coup de sabre… Toutes, l’oncle, toutes, elles se sont fichues de vous !"
+      ]
+    },
+    {
+      "id": "c10-f061",
+      "categorie": "relation",
+      "enonce": "Bachelard annonce qu’il a « une jeune fille, mais une vraie », de très bonne famille ; Trublot s’écrie qu’on n’en fait plus.",
+      "scene": "s4",
+      "extraits": [
+        "Une jeune fille, dit-il enfin, mais une vraie, parole d’honneur !",
+        "Pas possible ! cria Trublot. On n’en fait plus.",
+        "Tout ce qu’il y a de mieux comme famille, affirma l’oncle."
+      ]
+    },
+    {
+      "id": "c10-f062",
+      "categorie": "parole",
+      "enonce": "Quand Gueulin dit qu’il sait, Bachelard se fâche : « Celle-là, c’est pour Bibi. »",
+      "scene": "s4",
+      "extraits": [
+        "Comment ? tu sais ! dit Bachelard, pris de colère. Tu ne sais rien, mon petit ; personne ne sait rien… Celle-là, c’est pour Bibi. On ne la voit pas, on n’y touche pas… À bas les pattes !"
+      ]
+    },
+    {
+      "id": "c10-f063",
+      "categorie": "identite",
+      "enonce": "Bachelard a un râtelier de dents trop blanches et un grand nez flambant entre les chairs tombées des joues.",
+      "scene": "s4",
+      "extraits": [
+        "à le voir avec son râtelier de dents trop blanches",
+        "dont le grand nez flambant tenait seul encore entre les chairs tombées des joues"
+      ]
+    },
+    {
+      "id": "c10-f064",
+      "categorie": "but_moyen",
+      "enonce": "Bachelard dit que son seul rêve est de rendre la jeune fille heureuse et qu’il la donnera en mariage à un garçon bien sage.",
+      "scene": "s4",
+      "extraits": [
+        "Après tout, mon seul rêve est de la rendre heureuse, cette enfant !",
+        "si je trouve un garçon bien sage, je la lui donne, oh ! en mariage, pas autrement."
+      ]
+    },
+    {
+      "id": "c10-f065",
+      "categorie": "parole",
+      "enonce": "Duveyrier répond avec sensibilité : « Vous ferez deux heureux. »",
+      "scene": "s4",
+      "extraits": [
+        "Vous ferez deux heureux, murmura Duveyrier avec sensibilité."
+      ]
+    },
+    {
+      "id": "c10-f066",
+      "categorie": "action",
+      "enonce": "Quand Bachelard propose de leur montrer la jeune fille, Duveyrier rappelle seulement que Clarisse les attend.",
+      "scene": "s4",
+      "extraits": [
+        "Voulez-vous la voir ? demanda brusquement l’oncle en se levant.",
+        "Duveyrier rappela seulement que Clarisse les attendait."
+      ]
+    },
+    {
+      "id": "c10-f067",
+      "categorie": "comportement",
+      "enonce": "Sur le boulevard, Bachelard, partagé entre le besoin vaniteux de montrer Fifi et la terreur de se la faire voler, refuse finalement.",
+      "scene": "s4",
+      "extraits": [
+        "Bachelard redevenait grave, torturé par son besoin vaniteux de montrer Fifi et par sa terreur de se la faire voler.",
+        "Eh bien ! non, je ne veux pas."
+      ]
+    },
+    {
+      "id": "c10-f068",
+      "categorie": "action",
+      "enonce": "Pour hâter leur digestion, les quatre hommes vont à pied chez Clarisse en descendant la rue de Richelieu.",
+      "scene": "s5",
+      "extraits": [
+        "Comme la soirée était superbe, ils décidèrent d’aller à pied, dans l’idée hygiénique de hâter leur digestion. Alors, ils descendirent la rue de Richelieu"
+      ]
+    },
+    {
+      "id": "c10-f069",
+      "categorie": "relation",
+      "enonce": "Gueulin et Trublot marchent devant ; derrière, Bachelard et Duveyrier échangent des confidences.",
+      "scene": "s5",
+      "extraits": [
+        "Gueulin et Trublot marchaient les premiers. Derrière, venaient Bachelard et Duveyrier, enfoncés dans de fraternelles confidences."
+      ]
+    },
+    {
+      "id": "c10-f070",
+      "categorie": "opinion",
+      "enonce": "Duveyrier vante la fidélité de Clarisse, « revenue à l’honneur » depuis qu’elle l’aime.",
+      "scene": "s5",
+      "extraits": [
+        "lorsqu’elle lui avait donné des preuves extraordinaires de fidélité",
+        "seulement, elle était revenue à l’honneur, depuis qu’elle l’aimait."
+      ]
+    },
+    {
+      "id": "c10-f071",
+      "categorie": "comportement",
+      "enonce": "Rue de Rivoli, Bachelard se retient de dire à Duveyrier que Clarisse couche avec tout le monde et répète que la vertu est ce qu’il y a de meilleur.",
+      "scene": "s5",
+      "extraits": [
+        "tandis que l’oncle, vexé de ne plus placer un mot sur la petite, se retenait pour ne pas lui apprendre que sa Clarisse couchait avec tout le monde.",
+        "Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur."
+      ]
+    },
+    {
+      "id": "c10-f072",
+      "categorie": "objet_lieu",
+      "enonce": "Rue de la Cerisaie, Duveyrier est surpris de ne voir aucune lumière aux fenêtres du troisième.",
+      "scene": "s6",
+      "extraits": [
+        "Duveyrier resta surpris de ne pas voir de lumière aux fenêtres du troisième."
+      ]
+    },
+    {
+      "id": "c10-f073",
+      "categorie": "parole",
+      "enonce": "Trublot suppose que Clarisse s’est couchée ; Gueulin, qu’elle fait un bésigue dans la cuisine avec sa bonne.",
+      "scene": "s6",
+      "extraits": [
+        "Trublot disait, de son air sérieux, que Clarisse s’était sans doute couchée, pour les attendre",
+        "ou peut-être, ajoutait Gueulin, faisait-elle un bésigue, dans la cuisine, en compagnie de sa bonne."
+      ]
+    },
+    {
+      "id": "c10-f074",
+      "categorie": "action",
+      "enonce": "Le concierge donne à Duveyrier la clef et une bougie, avec un ricanement caché sous un respect exagéré.",
+      "scene": "s6",
+      "extraits": [
+        "Monsieur, monsieur, la clef !",
+        "En lui donnant le bougeoir, le concierge laissa percer, sous le respect exagéré de sa face blême, tout un ricanement de blague canaille et féroce."
+      ]
+    },
+    {
+      "id": "c10-f075",
+      "categorie": "action",
+      "enonce": "Au troisième, Duveyrier, pris d’une faiblesse, ne trouve pas le trou de la serrure ; c’est Trublot qui ouvre.",
+      "scene": "s6",
+      "extraits": [
+        "Au troisième, il fut pris d’une faiblesse, jamais il ne put trouver le trou de la serrure. Trublot lui rendit le service d’ouvrir."
+      ]
+    },
+    {
+      "id": "c10-f076",
+      "categorie": "parole",
+      "enonce": "Devant le bruit de la clef, Bachelard dit que « ça sonne le creux » et Gueulin parle d’« un petit caveau de famille ».",
+      "scene": "s6",
+      "extraits": [
+        "Ça sonne le creux, dit Bachelard.",
+        "Un petit caveau de famille, ajouta Gueulin."
+      ]
+    },
+    {
+      "id": "c10-f077",
+      "categorie": "objet_lieu",
+      "enonce": "L’appartement est vide : plus de patères, plus un meuble, plus un rideau, plus une tringle ; même le lit a disparu.",
+      "scene": "s6",
+      "extraits": [
+        "L’antichambre était vide, les patères elles-mêmes avaient disparu.",
+        "plus un meuble, plus un rideau aux fenêtres, plus une tringle."
+      ]
+    },
+    {
+      "id": "c10-f078",
+      "categorie": "comportement",
+      "enonce": "Duveyrier peut enfin pleurer devant l’endroit où le frottement des matelas avait éraflé le papier peint.",
+      "scene": "s6",
+      "extraits": [
+        "Mon Dieu ! mon Dieu ! bégaya Duveyrier, pouvant enfin pleurer, détendu par la vue de l’endroit où le frottement des matelas avait éraflé le papier peint."
+      ]
+    },
+    {
+      "id": "c10-f079",
+      "categorie": "parole",
+      "enonce": "Bachelard, paternel, console Duveyrier : cela lui est arrivé aussi, et « l’honneur est sauf ».",
+      "scene": "s6",
+      "extraits": [
+        "Du courage, monsieur ! répétait-il. Ça m’est arrivé, et je n’en suis pas mort… L’honneur est sauf, que diable !"
+      ]
+    },
+    {
+      "id": "c10-f080",
+      "categorie": "objet_lieu",
+      "enonce": "On a décollé la toile cirée du cabinet et dévissé les clous des planches de la cuisine ; Gueulin trouve qu’elle aurait pu laisser les clous.",
+      "scene": "s6",
+      "extraits": [
+        "On avait décollé la toile cirée du cabinet et dévissé les clous des planches de la cuisine.",
+        "Non, ça, c’est trop, c’est de la fantaisie ! dit Gueulin, émerveillé. Elle aurait pu laisser les clous."
+      ]
+    },
+    {
+      "id": "c10-f081",
+      "categorie": "action",
+      "enonce": "L’appartement est très propre, car le concierge a eu la cruauté d’y donner partout un vigoureux coup de balai.",
+      "scene": "s6",
+      "extraits": [
+        "Et, pour comble de mélancolie, l’appartement était très propre, sans un brin de papier ni de paille",
+        "car le concierge avait eu la cruauté de donner partout un vigoureux coup de balai."
+      ]
+    },
+    {
+      "id": "c10-f082",
+      "categorie": "argent",
+      "enonce": "Au troisième tour du salon, Trublot, épuisé, déclare qu’il payerait dix sous une chaise.",
+      "scene": "s6",
+      "extraits": [
+        "Vous savez, je n’en puis plus, finit par déclarer Trublot, comme on visitait le salon pour la troisième fois… Vrai ! je payerais dix sous une chaise."
+      ]
+    },
+    {
+      "id": "c10-f083",
+      "categorie": "duree_date",
+      "enonce": "Duveyrier a vu Clarisse pour la dernière fois la veille.",
+      "scene": "s6",
+      "extraits": [
+        "Quand donc l’avez-vous vue ? demanda Bachelard.",
+        "Hier, monsieur ! cria Duveyrier."
+      ]
+    },
+    {
+      "id": "c10-f084",
+      "categorie": "objet_lieu",
+      "enonce": "Sur la cheminée, Trublot aperçoit un faux col sale et un cigare détérioré : « elle vous a laissé un souvenir ».",
+      "scene": "s6",
+      "extraits": [
+        "Il venait d’apercevoir sur la cheminée un faux col sale et un cigare détérioré.",
+        "Ne vous plaignez pas, dit-il en riant, elle vous a laissé un souvenir… C’est toujours ça."
+      ]
+    },
+    {
+      "id": "c10-f085",
+      "categorie": "argent",
+      "enonce": "Duveyrier chiffre les meubles disparus à vingt-cinq mille francs, tout en disant que ce n’est pas eux qu’il regrette.",
+      "scene": "s6",
+      "extraits": [
+        "Vingt-cinq mille francs de meubles, il y en avait pour vingt-cinq mille francs !… Et bien ! non, non, ce n’est pas eux que je regrette !"
+      ]
+    },
+    {
+      "id": "c10-f086",
+      "categorie": "action",
+      "enonce": "Trublot prend le cigare troué, le répare avec du papier à cigarette, l’allume à la bougie et s’assoit par terre contre un mur.",
+      "scene": "s6",
+      "extraits": [
+        "Il est troué, mais en y collant un papier à cigarette…",
+        "Il l’alluma à la bougie que le conseiller tenait toujours ; et, se laissant glisser le long d’un mur"
+      ]
+    },
+    {
+      "id": "c10-f087",
+      "categorie": "relation",
+      "enonce": "Bachelard révèle les infidélités de Clarisse : elle a dû filer avec le gros Payan, un maçon dont une ville du Midi voulait faire un artiste.",
+      "scene": "s6",
+      "extraits": [
+        "Pourtant, l’oncle prit une décision virile, et il conta tout au pauvre homme, les farces de Clarisse, ses continuelles culbutes, les amants qu’elle ramassait derrière lui, à chacune de leurs soirées.",
+        "Certainement, elle avait dû filer avec le dernier, le gros Payan, ce maçon dont une ville du Midi voulait faire un artiste."
+      ]
+    },
+    {
+      "id": "c10-f088",
+      "categorie": "parole",
+      "enonce": "En apprenant tout, Duveyrier laisse échapper ce cri désespéré : « Il n’y a plus d’honnêteté sur terre ! »",
+      "scene": "s6",
+      "extraits": [
+        "Duveyrier écoutait ces abominations d’un air d’horreur. Il laissa échapper ce cri désespéré",
+        "Il n’y a plus d’honnêteté sur terre !"
+      ]
+    },
+    {
+      "id": "c10-f089",
+      "categorie": "but_moyen",
+      "enonce": "Duveyrier dit qu’il retrouvera Clarisse dans le seul but de la faire rougir de son procédé.",
+      "scene": "s6",
+      "extraits": [
+        "Mais il la retrouverait, dans le seul but de la faire rougir de son procédé, disait-il, et pour voir si son cœur avait perdu toute noblesse."
+      ]
+    },
+    {
+      "id": "c10-f090",
+      "categorie": "parole",
+      "enonce": "Trublot propose de trouver l’adresse de Clarisse car il connaît la bonne ; Duveyrier refuse : elle doit lui demander pardon à genoux.",
+      "scene": "s6",
+      "extraits": [
+        "Si ça vous démange, je saurai l’adresse, dit-il. Je connais la bonne.",
+        "Non, elle est indigne de moi… Il faut qu’elle me demande pardon à genoux."
+      ]
+    },
+    {
+      "id": "c10-f091",
+      "categorie": "action",
+      "enonce": "Octave entre et découvre les quatre hommes dans le salon nu, un à terre et trois debout, éclairés par la bougie que Duveyrier tient comme un cierge.",
+      "scene": "s6",
+      "extraits": [
+        "Et ce fut Octave qui entra. Il était ahuri de ces pièces vides, de ces portes ouvertes.",
+        "les quatre hommes, un à terre, trois debout, éclairés seulement par la maigre bougie, que le conseiller tenait comme un cierge."
+      ]
+    },
+    {
+      "id": "c10-f092",
+      "categorie": "parole",
+      "enonce": "Octave, après avoir oublié un instant sa nouvelle, annonce que c’est Mme Duveyrier qui l’envoie : le beau-père se meurt. Duveyrier répond simplement « Ah ! ».",
+      "scene": "s6",
+      "extraits": [
+        "À propos, c’est votre femme qui m’envoie vous prendre… Votre beau-père se meurt.",
+        "Ah ! dit simplement le conseiller."
+      ]
+    },
+    {
+      "id": "c10-f093",
+      "categorie": "parole",
+      "enonce": "Bachelard dit qu’il s’attendait à la mort du père Vabre ; Gueulin et Trublot en parlent avec philosophie.",
+      "scene": "s6",
+      "extraits": [
+        "Le père Vabre ! murmura Bachelard. Je m’y attendais.",
+        "Bah ! quand on est au bout de son rouleau ! fit remarquer philosophiquement Gueulin."
+      ]
+    },
+    {
+      "id": "c10-f094",
+      "categorie": "action",
+      "enonce": "En bas, Duveyrier a honte et c’est Trublot qui doit rendre la clef au concierge.",
+      "scene": "s7",
+      "extraits": [
+        "Ce dernier ferma la porte soigneusement, comme s’il avait laissé là ses tendresses mortes",
+        "il fut pris d’une honte, Trublot dut rendre la clef au concierge."
+      ]
+    },
+    {
+      "id": "c10-f095",
+      "categorie": "but_moyen",
+      "enonce": "Une fois le fiacre parti avec Octave et Duveyrier, Bachelard, excité, décide de montrer la jeune fille à Gueulin et à Trublot, bien qu’il soit près de minuit.",
+      "scene": "s7",
+      "extraits": [
+        "Tonnerre de Dieu ! il faut que je vous la montre.",
+        "Il a beau être près de minuit : elle se lèvera, si elle est couchée…"
+      ]
+    },
+    {
+      "id": "c10-f096",
+      "categorie": "identite",
+      "enonce": "Selon Bachelard, la jeune fille est la fille du capitaine Menu et a une tante née à Villeneuve, près de Lille ; on peut se renseigner chez MM. Mardienne frères, rue Saint-Sulpice.",
+      "scene": "s7",
+      "extraits": [
+        "Vous savez, elle est fille d’un capitaine, le capitaine Menu, et elle a une tante très bien, née à Villeneuve, près de Lille, parole d’honneur !",
+        "On peut aller demander des renseignements chez MM. Mardienne frères, rue Saint-Sulpice…"
+      ]
+    },
+    {
+      "id": "c10-f097",
+      "categorie": "action",
+      "enonce": "Bachelard prend le bras de Gueulin à sa droite et de Trublot à sa gauche, en quête d’une voiture.",
+      "scene": "s7",
+      "extraits": [
+        "Et il prit leur bras, Gueulin à sa droite, Trublot à sa gauche, allongeant le pas, en quête d’une voiture pour arriver plus vite."
+      ]
+    },
+    {
+      "id": "c10-f098",
+      "categorie": "parole",
+      "enonce": "Dans le fiacre, Duveyrier demande à Octave si Clarisse lui pardonnera, puis s’il doit se remettre avec sa femme ; Octave, forcé de répondre, dit que ce serait raisonnable.",
+      "scene": "s8",
+      "extraits": [
+        "Croyez-vous qu’elle me pardonne ?",
+        "N’est-ce pas ? ce que j’ai de mieux à faire est encore de me remettre avec ma femme, en attendant ?",
+        "Ce serait peut-être raisonnable, dit le jeune homme, forcé de répondre."
+      ]
+    },
+    {
+      "id": "c10-f099",
+      "categorie": "comportement",
+      "enonce": "Duveyrier sent la nécessité de regretter son beau-père, qu’il dit très intelligent et d’une puissance de travail incroyable.",
+      "scene": "s8",
+      "extraits": [
+        "Alors, Duveyrier sentit la nécessité de regretter son beau-père. C’était un homme bien intelligent, une puissance de travail incroyable."
+      ]
+    },
+    {
+      "id": "c10-f100",
+      "categorie": "opinion",
+      "enonce": "Devant la loge, Julie, descendue chez le pharmacien, s’emporte contre les bourgeois qui se laissent crever entre eux ; le vieux râle depuis deux heures.",
+      "scene": "s8",
+      "extraits": [
+        "Julie, descendue pour courir chez le pharmacien, s’emportait contre les bourgeois qui se laissent crever entre eux, quand ils sont malades",
+        "depuis deux heures qu’il râlait là-haut"
+      ]
+    },
+    {
+      "id": "c10-f101",
+      "categorie": "opinion",
+      "enonce": "M. Gourd traite les maîtres de « cœurs secs » qui ne savent pas se servir de leurs dix doigts ; Hippolyte se moque de l’air bête de madame.",
+      "scene": "s8",
+      "extraits": [
+        "Des cœurs secs, disait M. Gourd, des gens qui ne savaient pas se servir de leurs dix doigts",
+        "tandis qu’Hippolyte, renchérissant encore, racontait la tête de madame, là-haut, son air bête, ses bras ballants en face de ce pauvre monsieur"
+      ]
+    },
+    {
+      "id": "c10-f102",
+      "categorie": "parole",
+      "enonce": "Hippolyte annonce que le médecin pose des sinapismes à M. Vabre et qu’il a eu de la peine à le trouver.",
+      "scene": "s8",
+      "extraits": [
+        "Le médecin pose des sinapismes à monsieur, répondit Hippolyte. Oh ! j’ai eu une peine pour le trouver !"
+      ]
+    },
+    {
+      "id": "c10-f103",
+      "categorie": "parole",
+      "enonce": "Duveyrier embrasse Clotilde (« Ma pauvre Clotilde ! ») et lui demande à voix basse pardon : il lui revient « pour toujours ».",
+      "scene": "s9",
+      "extraits": [
+        "Ma pauvre Clotilde !",
+        "Pardonne-moi, oublions nos torts, dans cette triste circonstance… Tu le vois, je te reviens, et pour toujours… Ah ! je suis bien puni !"
+      ]
+    },
+    {
+      "id": "c10-f104",
+      "categorie": "comportement",
+      "enonce": "Devant Octave, Clotilde reprend son attitude de femme qui veut ignorer et reparle de l’enquête sur l’affaire de la rue de Provence.",
+      "scene": "s9",
+      "extraits": [
+        "Puis, reprenant devant Octave son attitude de femme qui veut ignorer",
+        "Je ne vous aurais pas dérangé, mon ami, car je sais combien cette enquête sur l’affaire de la rue de Provence est pressée."
+      ]
+    },
+    {
+      "id": "c10-f105",
+      "categorie": "objet_lieu",
+      "enonce": "Pour se donner une contenance, Octave se tient devant le piano, où le morceau de Zémire et Azor est encore sur le pupitre.",
+      "scene": "s9",
+      "extraits": [
+        "L’instrument était resté ouvert, le morceau de Zémire et Azor se trouvait encore sur le pupitre"
+      ]
+    },
+    {
+      "id": "c10-f106",
+      "categorie": "parole",
+      "enonce": "Octave apprend à Clotilde que « cette personne » a lâché son mari en emportant les meubles.",
+      "scene": "s9",
+      "extraits": [
+        "Cette personne, madame, l’a lâché, en emportant les meubles… Je l’ai trouvé entre les quatre murs, avec une bougie…"
+      ]
+    },
+    {
+      "id": "c10-f107",
+      "categorie": "relation",
+      "enonce": "Clotilde comprend que la mort de son père va servir de prétexte à un rapprochement avec son mari, et elle redoute de ne pouvoir refuser « l’abominable corvée ».",
+      "scene": "s9",
+      "extraits": [
+        "Ce n’était pas assez de perdre son père, il fallait encore que ce malheur servît de prétexte à un rapprochement avec son mari !",
+        "dans son respect de tous les devoirs, elle tremblait de ne pouvoir se refuser à l’abominable corvée."
+      ]
+    },
+    {
+      "id": "c10-f108",
+      "categorie": "identite",
+      "enonce": "Le Dr Juillerat diagnostique une attaque d’apoplexie séreuse : le malade peut traîner jusqu’au lendemain, mais il n’y a plus d’espoir.",
+      "scene": "s9",
+      "extraits": [
+        "C’était une attaque d’apoplexie séreuse",
+        "mais il n’y avait plus aucune espérance."
+      ]
+    },
+    {
+      "id": "c10-f109",
+      "categorie": "argent",
+      "enonce": "Le docteur espère que M. Vabre a réglé ses affaires ; Duveyrier dit seulement avoir des promesses en faveur de son fils Gustave, que le grand-père parlait d’avantager.",
+      "scene": "s9",
+      "extraits": [
+        "il exprima l’espoir que M. Vabre avait depuis longtemps réglé ses affaires.",
+        "il avait simplement des promesses en faveur de leur fils Gustave, que son grand-père souvent parlait d’avantager, pour les récompenser de l’avoir pris chez eux."
+      ]
+    },
+    {
+      "id": "c10-f110",
+      "categorie": "relation",
+      "enonce": "Clotilde n’a pas averti la famille ; Duveyrier et elle échangent un regard : désormais, tous deux s’entendent.",
+      "scene": "s9",
+      "extraits": [
+        "Mon Dieu ! non, murmura Clotilde. J’ai reçu un tel coup !",
+        "Duveyrier lui jeta un nouveau regard. Maintenant, tous deux s’entendaient."
+      ]
+    },
+    {
+      "id": "c10-f111",
+      "categorie": "duree_date",
+      "enonce": "Une heure du matin sonne quand le docteur parle de se retirer ; il promet de revenir de bonne heure.",
+      "scene": "s9",
+      "extraits": [
+        "Une heure sonnait. Le docteur parla de se retirer, car il avait essayé les révulsifs d’usage, il ne pouvait rien de plus."
+      ]
+    },
+    {
+      "id": "c10-f112",
+      "categorie": "but_moyen",
+      "enonce": "Clotilde décide d’attendre le lendemain : Octave lui enverra Berthe sous un prétexte, elle fera demander Valérie, et ce sont elles qui préviendront ses frères.",
+      "scene": "s9",
+      "extraits": [
+        "Attendons demain, n’est-ce pas ? dit-elle, vous m’enverrez Berthe sous un prétexte",
+        "je ferai aussi demander Valérie, et ce sont elles qui instruiront mes frères…"
+      ]
+    },
+    {
+      "id": "c10-f113",
+      "categorie": "action",
+      "enonce": "Le chapitre se termine sur Clotilde et son mari restés seuls face au vieillard qui râle.",
+      "scene": "s9",
+      "extraits": [
+        "Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c10-q001",
+      "type": "fait",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Quel morceau Mme Duveyrier fait-elle chanter à Octave dans son salon ?",
+      "choix": [
+        "La Bénédiction des Poignards",
+        "Atalante",
+        "Un morceau de Zémire et Azor, de Grétry",
+        "Le Lion d’Androclès"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle lui fait chanter un morceau de Zémire et Azor, de Grétry, pris dans un recueil d’anciens airs.",
+      "elements_cles": [
+        "Zémire et Azor",
+        "Grétry"
+      ],
+      "extraits": [
+        "Un recueil d’anciens airs était ouvert sur le pupitre. Elle avait choisi un morceau de Zémire et Azor, de Grétry.",
+        "Comme le jeune homme lisait tout au plus ses notes, elle le lui fit d’abord déchiffrer à demi-voix."
+      ],
+      "fait_ids": [
+        "c10-f015",
+        "c10-f105"
+      ]
+    },
+    {
+      "id": "c10-q002",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Depuis combien de temps Mme Duveyrier cherchait-elle un ténor ?",
+      "choix": [
+        "Trois ans",
+        "Deux ans",
+        "Cinq ans",
+        "Quinze jours"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle cherchait un ténor depuis trois ans.",
+      "elements_cles": [
+        "trois ans"
+      ],
+      "extraits": [
+        "Voilà trois ans qu’elle en cherchait un !"
+      ],
+      "fait_ids": [
+        "c10-f018",
+        "c10-f017"
+      ]
+    },
+    {
+      "id": "c10-q003",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel âge ont les enfants livrés à de hauts personnages dans l’affaire de la rue de Provence ?",
+      "choix": [
+        "Douze ans",
+        "Seize ans",
+        "Quinze ans",
+        "Quatorze ans"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Ce sont des enfants de quatorze ans.",
+      "elements_cles": [
+        "quatorze ans"
+      ],
+      "extraits": [
+        "C’était un scandale qui passionnait Paris, toute une prostitution clandestine, des enfants de quatorze ans livrés à de hauts personnages."
+      ],
+      "fait_ids": [
+        "c10-f007"
+      ]
+    },
+    {
+      "id": "c10-q004",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quelle raison Clotilde donne-t-elle à Octave pour expliquer l’absence de son mari ce soir-là ?",
+      "choix": [
+        "Il dîne chez M. Vabre",
+        "Ses collègues l’ont chargé d’un rapport sur l’affaire de la rue de Provence",
+        "Il veille un collègue malade",
+        "Il est en voyage près de Lille"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle prétend que ses collègues l’ont chargé d’un rapport sur l’affaire de la rue de Provence, qui lui prend ses soirées depuis quinze jours.",
+      "elements_cles": [
+        "rapport",
+        "affaire de la rue de Provence"
+      ],
+      "extraits": [
+        "ses collègues l’avaient chargé d’un rapport, dans une affaire très grave, et il était justement sorti pour se renseigner sur certains faits.",
+        "Vous savez, cette affaire de la rue de Provence, dit-elle avec simplicité."
+      ],
+      "fait_ids": [
+        "c10-f006",
+        "c10-f008"
+      ]
+    },
+    {
+      "id": "c10-q005",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Par qui Octave sait-il que Duveyrier dîne ce soir-là avec l’oncle Bachelard avant d’aller chez Clarisse ?",
+      "choix": [
+        "Par Gueulin",
+        "Par Berthe",
+        "Par Trublot",
+        "Par Clémence"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il le sait par Trublot.",
+      "elements_cles": [
+        "Trublot"
+      ],
+      "extraits": [
+        "Il la regarda, sachant par Trublot que l’oncle Bachelard, ce jour-là, avait invité Duveyrier à dîner, et qu’on devait ensuite finir la soirée chez Clarisse."
+      ],
+      "fait_ids": [
+        "c10-f009",
+        "c10-f010"
+      ]
+    },
+    {
+      "id": "c10-q006",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : ce soir-là, Mme Duveyrier, aux cheveux roux, est vêtue de soie grise et serrée dans un corset à baleines.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : elle a les cheveux roux et porte une robe de soie grise, la taille sanglée dans un corset cuirassé de baleines.",
+      "elements_cles": [
+        "Vrai",
+        "cheveux roux",
+        "soie grise"
+      ],
+      "extraits": [
+        "Ses cheveux roux pâlissaient son visage un peu long, d’une obstination tranquille de femme cloîtrée au fond de ses devoirs",
+        "vêtue de soie grise, la gorge et la taille sanglées dans un corset cuirassé de baleines, elle le traitait avec une amabilité sans chaleur, comme séparée de lui par un triple airain."
+      ],
+      "fait_ids": [
+        "c10-f011"
+      ]
+    },
+    {
+      "id": "c10-q007",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Lorsque Clotilde rappelle avec mépris que son mari se vante de ne pas aimer la musique, que répète Octave pour lui être agréable ?",
+      "choix": [
+        "« Comment peut-on ne pas aimer la musique ? »",
+        "« Il a charge d’âmes. »",
+        "« Ce serait peut-être raisonnable. »",
+        "« C’est une attaque. »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il répète d’un air d’extase : « Comment peut-on ne pas aimer la musique ? »",
+      "elements_cles": [
+        "Comment peut-on ne pas aimer la musique"
+      ],
+      "extraits": [
+        "Comment peut-on ne pas aimer la musique ? répétait Octave d’un air d’extase, afin de lui être agréable."
+      ],
+      "fait_ids": [
+        "c10-f014",
+        "c10-f012"
+      ]
+    },
+    {
+      "id": "c10-q008",
+      "type": "dialogue",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Qui donne sa soirée à Octave pour qu’il monte chez Mme Duveyrier essayer sa voix ?",
+      "choix": [
+        "Clémence",
+        "Julie",
+        "Trublot",
+        "Berthe"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "C’est Berthe, sa patronne et belle-sœur de Mme Duveyrier, qui lui donne sa soirée alors qu’il voulait ranger les cases.",
+      "elements_cles": [
+        "Berthe"
+      ],
+      "extraits": [
+        "Si cela ne vous contrarie pas, dit un jour Berthe à Octave, vous pourrez monter après votre dîner chez ma belle-sœur. Elle vous attend.",
+        "C’est que, ce soir, fit-il remarquer, je comptais mettre un peu d’ordre dans ces cases.",
+        "Je vous donne votre soirée."
+      ],
+      "fait_ids": [
+        "c10-f004",
+        "c10-f002",
+        "c10-f001"
+      ]
+    },
+    {
+      "id": "c10-q009",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Selon Mme Duveyrier, quelle est sans doute la cause du manque de ténors parmi les jeunes gens de la société ?",
+      "choix": [
+        "Le vin",
+        "Le tabac",
+        "Le manque de leçons",
+        "Les dîners trop riches"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Selon elle, c’est sans doute le tabac ; elle cite M. Trublot parmi ses déboires.",
+      "elements_cles": [
+        "le tabac"
+      ],
+      "extraits": [
+        "Et elle lui conta ses déboires, M. Trublot par exemple ; car, c’était un fait dont on aurait dû étudier les causes, il n’y avait plus de ténors parmi les jeunes gens de la société : sans doute le tabac."
+      ],
+      "fait_ids": [
+        "c10-f019"
+      ]
+    },
+    {
+      "id": "c10-q010",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Pourquoi Octave se recule-t-il, inquiet, après la phrase chantée avec expression ?",
+      "choix": [
+        "Il entend des pas dans la pièce voisine",
+        "Il a oublié les paroles",
+        "Il ne veut pas recommencer son aventure avec Mme Hédouin",
+        "Il craint le retour de Duveyrier"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Clotilde laisse tomber son expression passionnée comme un masque, et Octave recule pour ne pas recommencer son aventure avec Mme Hédouin.",
+      "elements_cles": [
+        "Mme Hédouin",
+        "froideur de Clotilde"
+      ],
+      "extraits": [
+        "Il se recula, inquiet, ne voulant pas recommencer son aventure avec Mme Hédouin."
+      ],
+      "fait_ids": [
+        "c10-f021",
+        "c10-f020"
+      ]
+    },
+    {
+      "id": "c10-q011",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Combien de fois Mme Duveyrier répète-t-elle elle-même « Plus tremblant que vous » ?",
+      "choix": [
+        "Vingt fois",
+        "Dix fois",
+        "Trois fois",
+        "Cent fois"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle le répète à vingt reprises, en détachant les notes.",
+      "elements_cles": [
+        "vingt"
+      ],
+      "extraits": [
+        "Et elle chanta elle-même, elle répéta à vingt reprises",
+        "en détachant les notes avec une rigueur de femme impeccable, dont la passion musicale était à fleur de peau, dans la mécanique."
+      ],
+      "fait_ids": [
+        "c10-f022",
+        "c10-f016"
+      ]
+    },
+    {
+      "id": "c10-q012",
+      "type": "dialogue",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Qui interrompt la leçon de chant pour annoncer que M. Vabre ne bouge plus ?",
+      "choix": [
+        "Julie",
+        "Hippolyte",
+        "Berthe",
+        "Clémence"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "C’est Clémence, la femme de chambre de Mme Duveyrier.",
+      "elements_cles": [
+        "Clémence"
+      ],
+      "extraits": [
+        "Elle eut un sursaut, et reconnaissant sa femme de chambre Clémence",
+        "Madame, c’est M. votre père qui est tombé le nez dans ses écritures et qui ne bouge plus… Il nous fait peur."
+      ],
+      "fait_ids": [
+        "c10-f023"
+      ]
+    },
+    {
+      "id": "c10-q013",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : en tombant, M. Vabre a tapé du front sur son encrier, et l’encre lui couvre l’œil droit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : il a bien tapé du front sur son encrier, mais l’éclaboussure d’encre lui couvre l’œil gauche.",
+      "elements_cles": [
+        "Faux",
+        "encrier",
+        "œil gauche"
+      ],
+      "extraits": [
+        "Il avait tapé du front sur son encrier. Une éclaboussure d’encre lui couvrait l’œil gauche, coulant en minces gouttes jusqu’à ses lèvres."
+      ],
+      "fait_ids": [
+        "c10-f025"
+      ]
+    },
+    {
+      "id": "c10-q014",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces personnes, lesquelles sont accourues dans la chambre de M. Vabre au moment de l’attaque ?",
+      "choix": [
+        "Julie",
+        "M. Gourd",
+        "Clémence",
+        "Hippolyte",
+        "Berthe"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Julie, en tablier de cuisine, Clémence et Hippolyte, qui jouaient aux dominos, entourent le vieillard.",
+      "elements_cles": [
+        "Julie",
+        "Clémence",
+        "Hippolyte"
+      ],
+      "extraits": [
+        "Tous les domestiques étaient accourus, Julie en tablier de cuisine, Clémence et Hippolyte, l’esprit encore occupé d’une partie de dominos qu’ils venaient de lâcher"
+      ],
+      "fait_ids": [
+        "c10-f024"
+      ]
+    },
+    {
+      "id": "c10-q015",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quel domestique, qui répugne à toucher le vieillard, part ensuite chercher le médecin, « heureux de prendre l’air » ?",
+      "choix": [
+        "Clémence",
+        "Hippolyte",
+        "Julie",
+        "Le concierge"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "C’est Hippolyte : il montre une répulsion visible à toucher M. Vabre, puis part chercher le Dr Juillerat.",
+      "elements_cles": [
+        "Hippolyte"
+      ],
+      "extraits": [
+        "Hippolyte ne se hâtait point, travaillé d’une inquiétude, d’une répulsion visible à toucher le vieux, qui allait peut-être passer entre ses bras.",
+        "Il fallut qu’Octave lui criât de l’aider. À eux deux, ils le couchèrent."
+      ],
+      "fait_ids": [
+        "c10-f027",
+        "c10-f029"
+      ]
+    },
+    {
+      "id": "c10-q016",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quand Octave propose d’appeler les frères de Clotilde, pourquoi Auguste ne peut-il pas venir ?",
+      "choix": [
+        "Il est malade",
+        "Il dîne au Café anglais",
+        "Il est absent, ayant un rendez-vous ce soir-là",
+        "Il est fâché avec son père"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Auguste est absent car il a un rendez-vous ce soir-là ; quant à Théophile, sa vue achèverait leur père.",
+      "elements_cles": [
+        "absent",
+        "rendez-vous"
+      ],
+      "extraits": [
+        "son frère Auguste était absent, ayant ce soir-là un rendez-vous",
+        "quant à Théophile, il ferait bien de ne pas monter, car sa vue seule achèverait leur père."
+      ],
+      "fait_ids": [
+        "c10-f031",
+        "c10-f030"
+      ]
+    },
+    {
+      "id": "c10-q017",
+      "type": "motivation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Pourquoi M. Vabre s’était-il présenté chez Théophile et Valérie, en face, avant son attaque ?",
+      "choix": [
+        "Pour toucher des termes arriérés",
+        "Pour leur annoncer son testament",
+        "Pour leur rendre la somme promise au mariage",
+        "Pour leur montrer ses fiches"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il voulait toucher des termes arriérés ; Valérie surtout l’a reçu brutalement, refusant de payer et réclamant la somme promise au mariage. L’attaque viendrait de cette scène.",
+      "elements_cles": [
+        "termes arriérés",
+        "Valérie refuse de payer"
+      ],
+      "extraits": [
+        "Elle conta alors que celui-ci s’était présenté en face, chez ses enfants, pour toucher des termes arriérés",
+        "mais ils l’avaient reçu brutalement, Valérie surtout, refusant de payer, réclamant la somme promise par lui, lors de leur mariage"
+      ],
+      "fait_ids": [
+        "c10-f032",
+        "c10-f033"
+      ]
+    },
+    {
+      "id": "c10-q018",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Pour quel fils M. Vabre avait-il fait des promesses, selon Duveyrier ?",
+      "choix": [
+        "Hippolyte",
+        "Auguste",
+        "Théophile",
+        "Gustave"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Duveyrier dit avoir des promesses en faveur de leur fils Gustave, que le grand-père parlait d’avantager.",
+      "elements_cles": [
+        "Gustave"
+      ],
+      "extraits": [
+        "il avait simplement des promesses en faveur de leur fils Gustave, que son grand-père souvent parlait d’avantager, pour les récompenser de l’avoir pris chez eux."
+      ],
+      "fait_ids": [
+        "c10-f109"
+      ]
+    },
+    {
+      "id": "c10-q019",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel nom Octave lit-il sur une des fiches de M. Vabre ?",
+      "choix": [
+        "Payan",
+        "Isidore Charbotel",
+        "Mardienne",
+        "Menu"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il lit la fiche d’Isidore Charbotel, avec ses envois aux Salons de 1857 et 1859.",
+      "elements_cles": [
+        "Isidore Charbotel"
+      ],
+      "extraits": [
+        "Au moment où il lisait sur un de ces cartons : « Isidore Charbotel : Salon de 1857, Atalante ; Salon de 1859, le Lion d’Androclès"
+      ],
+      "fait_ids": [
+        "c10-f035",
+        "c10-f034"
+      ]
+    },
+    {
+      "id": "c10-q020",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que dit Clotilde à voix basse, résolument, à Octave, en lui révélant où se trouve son mari ?",
+      "choix": [
+        "« Prévenez mes frères. » Il est chez Bachelard",
+        "« Restez avec moi. » Il est au Palais",
+        "« Allez le chercher. » Il est rue de la Cerisaie",
+        "« Allez chercher le médecin. » Il est rue de Provence"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle lui dit « Allez le chercher » et avoue que son mari est rue de la Cerisaie, ce que tous leurs amis savent ; l’histoire du rapport était un prétexte.",
+      "elements_cles": [
+        "Allez le chercher",
+        "rue de la Cerisaie"
+      ],
+      "extraits": [
+        "Clotilde se planta devant lui et dit à voix basse, résolument",
+        "Allez le chercher.",
+        "Vous savez, rue de la Cerisaie… Tous nos amis le savent."
+      ],
+      "fait_ids": [
+        "c10-f036",
+        "c10-f037",
+        "c10-f038"
+      ]
+    },
+    {
+      "id": "c10-q021",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Pourquoi Clotilde recommande-t-elle à Octave : « Pas un mot à personne » ?",
+      "choix": [
+        "Parce qu’il est inutile de bouleverser la maison",
+        "Pour que Théophile ne vienne pas",
+        "Pour cacher la maladie au docteur",
+        "Parce que Berthe est fâchée avec elle"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Elle juge inutile de bouleverser la maison ; Octave doit prendre un fiacre et ramener son mari.",
+      "elements_cles": [
+        "inutile de bouleverser la maison"
+      ],
+      "extraits": [
+        "Pas un mot à personne, murmura-t-elle. Il est inutile de bouleverser la maison… Prenez un fiacre, frappez là-bas, ramenez-le quand même."
+      ],
+      "fait_ids": [
+        "c10-f039"
+      ]
+    },
+    {
+      "id": "c10-q022",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : une fois Octave parti, Clotilde, seule avec les deux bonnes, éclate en gros sanglots.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Vrai : comme le médecin n’arrive pas, elle éclate en gros sanglots devant les deux bonnes.",
+      "elements_cles": [
+        "Vrai",
+        "sanglots"
+      ],
+      "extraits": [
+        "Alors, comme le médecin n’arrivait pas, se voyant seule avec les deux bonnes qui regardaient, l’air effaré, elle éclata en gros sanglots, dans une crise de profonde douleur."
+      ],
+      "fait_ids": [
+        "c10-f040",
+        "c10-f028"
+      ]
+    },
+    {
+      "id": "c10-q023",
+      "type": "fait",
+      "difficulte": 1,
+      "format": "qcm",
+      "enonce": "Dans quel restaurant l’oncle Bachelard a-t-il invité Duveyrier ?",
+      "choix": [
+        "Chez Clarisse",
+        "Dans un hôtel de Montmartre",
+        "Dans un restaurant de la rue de Richelieu",
+        "Au Café anglais"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Bachelard a invité Duveyrier au Café anglais.",
+      "elements_cles": [
+        "Café anglais"
+      ],
+      "extraits": [
+        "C’était au Café anglais que l’oncle Bachelard avait invité Duveyrier, sans qu’on sût pourquoi, peut-être pour le plaisir de traiter un conseiller à la cour"
+      ],
+      "fait_ids": [
+        "c10-f041"
+      ]
+    },
+    {
+      "id": "c10-q024",
+      "type": "scene",
+      "difficulte": 1,
+      "format": "multi",
+      "enonce": "Parmi ces personnages, lesquels participent au dîner offert par l’oncle Bachelard ?",
+      "choix": [
+        "Duveyrier",
+        "Octave",
+        "Trublot",
+        "Gueulin",
+        "Clarisse"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Bachelard dîne avec Duveyrier, Trublot et Gueulin : quatre hommes et pas de femmes.",
+      "elements_cles": [
+        "Duveyrier",
+        "Trublot",
+        "Gueulin"
+      ],
+      "extraits": [
+        "Il avait amené en outre Trublot et Gueulin, quatre hommes et pas de femmes, car les femmes ne savent pas manger"
+      ],
+      "fait_ids": [
+        "c10-f042",
+        "c10-f041"
+      ],
+      "explication": "Il n’y a pas de femmes, car selon Bachelard « les femmes ne savent pas manger »."
+    },
+    {
+      "id": "c10-q025",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel âge avait la bouteille de johannisberg que Bachelard regrette, vendue à un Turc ?",
+      "choix": [
+        "Quarante-huit ans",
+        "Cent cinq ans",
+        "Cent ans",
+        "Cinquante-huit ans"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Elle avait cent cinq ans et avait été vendue dix louis à un Turc, trois jours plus tôt.",
+      "elements_cles": [
+        "cent cinq ans"
+      ],
+      "extraits": [
+        "Il regretta beaucoup une bouteille de johannisberg, âgée de cent cinq ans, qu’on avait vendue dix louis à un Turc, trois jours plus tôt."
+      ],
+      "fait_ids": [
+        "c10-f047"
+      ]
+    },
+    {
+      "id": "c10-q026",
+      "type": "chronologie",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que fait Duveyrier vers neuf heures, au moment où Octave arrive chez Mme Duveyrier ?",
+      "choix": [
+        "Il est déjà rue de la Cerisaie",
+        "Il travaille à son rapport au Palais",
+        "Il est encore à table au Café anglais",
+        "Il marche rue de Rivoli"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "À neuf heures, le dîner du Café anglais dure encore : Duveyrier est à table avec Bachelard, Trublot et Gueulin.",
+      "elements_cles": [
+        "Café anglais",
+        "dîner"
+      ],
+      "extraits": [
+        "À neuf heures, le dîner durait encore.",
+        "Outre les deux maîtres d’hôtel, il y avait derrière chaque convive un valet, spécialement chargé de veiller au pain, au vin, au changement des assiettes."
+      ],
+      "fait_ids": [
+        "c10-f051",
+        "c10-f005"
+      ]
+    },
+    {
+      "id": "c10-q027",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces plats, lesquels figurent au menu du dîner de ce soir-là ?",
+      "choix": [
+        "Un potage crème d’asperges",
+        "Des pattes d’ours de la Forêt-Noire",
+        "Des ortolans à la Lucullus",
+        "Un soufflé au chocolat",
+        "Des bosses de bison d’Amérique"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Le menu comprend entre autres un potage crème d’asperges, des ortolans à la Lucullus et un soufflé au chocolat.",
+      "elements_cles": [
+        "potage crème d’asperges",
+        "ortolans à la Lucullus",
+        "soufflé au chocolat"
+      ],
+      "extraits": [
+        "un potage crème d’asperges, puis des petites timbales à la Pompadour",
+        "deux entrées, des ortolans à la Lucullus et une salade d’écrevisses",
+        "suivis d’un soufflé au chocolat et d’une sicilienne de fruits"
+      ],
+      "fait_ids": [
+        "c10-f046",
+        "c10-f045",
+        "c10-f044"
+      ],
+      "explication": "Les pattes d’ours et les bosses de bison font partie des curiosités que Bachelard exige d’ordinaire, pas du menu de ce soir d’été."
+    },
+    {
+      "id": "c10-q028",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que répète sans cesse Bachelard à Duveyrier pour l’encourager à boire ?",
+      "choix": [
+        "« Quand les vins sont bons, ils ne grisent pas. »",
+        "« La vertu est encore ce qu’il y a de meilleur. »",
+        "« On est bien. »",
+        "« Vous ferez deux heureux. »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il répète que quand les vins sont bons, ils ne grisent pas, comme une nourriture délicate ne fait jamais de mal.",
+      "elements_cles": [
+        "les vins bons ne grisent pas"
+      ],
+      "extraits": [
+        "Buvez donc, monsieur, répétait-il sans cesse à Duveyrier",
+        "quand les vins sont bons, ils ne grisent pas… C’est comme la nourriture, elle ne fait jamais de mal, si elle est délicate."
+      ],
+      "fait_ids": [
+        "c10-f048"
+      ]
+    },
+    {
+      "id": "c10-q029",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Comment l’oncle Bachelard se tient-il pendant ce dîner ?",
+      "choix": [
+        "Il casse la vaisselle comme à son habitude",
+        "Il quitte la table avant le café",
+        "Il refuse de boire",
+        "Il pose pour l’homme bien, une rose à la boutonnière"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il pose pour l’homme bien : une rose à la boutonnière, peigné et rasé, il se retient de casser la vaisselle.",
+      "elements_cles": [
+        "homme bien",
+        "rose à la boutonnière"
+      ],
+      "extraits": [
+        "Ce jour-là, il posait pour l’homme bien, une rose à la boutonnière, peigné et rasé, se retenant de casser la vaisselle, ainsi qu’il en avait l’habitude."
+      ],
+      "fait_ids": [
+        "c10-f049"
+      ]
+    },
+    {
+      "id": "c10-q030",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : Duveyrier, qui a l’estomac solide, boit peu pendant le dîner.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : Duveyrier souffre de l’estomac, mais il a bu considérablement et est revenu à la salade d’écrevisses.",
+      "elements_cles": [
+        "Faux",
+        "souffre de l’estomac",
+        "a beaucoup bu"
+      ],
+      "extraits": [
+        "car Duveyrier lui-même, qui souffrait de l’estomac, avait bu considérablement et était revenu à la salade d’écrevisses"
+      ],
+      "fait_ids": [
+        "c10-f050"
+      ]
+    },
+    {
+      "id": "c10-q031",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Une fois les garçons retirés, de quoi les quatre hommes parlent-ils « interminablement » ?",
+      "choix": [
+        "De politique",
+        "Des femmes",
+        "De l’affaire de la rue de Provence",
+        "Du commerce de Bachelard"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Tout en se félicitant qu’il n’y ait pas de femmes, ils ne parlent que des femmes.",
+      "elements_cles": [
+        "des femmes"
+      ],
+      "extraits": [
+        "Puis, libres, tout en se félicitant qu’il n’y eût pas de femmes, ils posèrent les coudes sur la nappe, rapprochèrent leurs visages allumés, et ne causèrent que des femmes, interminablement."
+      ],
+      "fait_ids": [
+        "c10-f053"
+      ]
+    },
+    {
+      "id": "c10-q032",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Qui déclare, pendant le dîner puis dans la rue : « La vertu est encore ce qu’il y a de meilleur » ?",
+      "choix": [
+        "Duveyrier",
+        "Trublot",
+        "Bachelard",
+        "Gueulin"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "C’est l’oncle Bachelard, qui se dit désabusé et le répète à Duveyrier en marchant.",
+      "elements_cles": [
+        "Bachelard"
+      ],
+      "extraits": [
+        "Moi, je suis désabusé, déclara l’oncle Bachelard. La vertu est encore ce qu’il y a de meilleur."
+      ],
+      "fait_ids": [
+        "c10-f054",
+        "c10-f071",
+        "c10-f055"
+      ]
+    },
+    {
+      "id": "c10-q033",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Que boit Duveyrier à petits coups pendant la conversation risquée sur les femmes ?",
+      "choix": [
+        "Du kummel",
+        "Du madère vieux",
+        "Du roederer frappé",
+        "Du johannisberg"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il boit du kummel à petits coups, sa face de magistrat traversée de frissons sensuels.",
+      "elements_cles": [
+        "kummel"
+      ],
+      "extraits": [
+        "Il buvait du kummel à petits coups, sa face raide de magistrat tiraillée par de courts frissons sensuels."
+      ],
+      "fait_ids": [
+        "c10-f057"
+      ]
+    },
+    {
+      "id": "c10-q034",
+      "type": "dialogue",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "D’après Duveyrier, que faut-il pour aimer une femme ?",
+      "choix": [
+        "La rendre heureuse",
+        "La rencontrer à l’église",
+        "Lui louer un commerce",
+        "L’estimer"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Pour Duveyrier, pour aimer une femme il faut l’estimer ; il ne résiste qu’à une maîtresse honnête.",
+      "elements_cles": [
+        "l’estimer",
+        "maîtresse honnête"
+      ],
+      "extraits": [
+        "Moi, dit-il, je ne puis admettre le vice. Il me révolte… N’est-ce pas ? pour aimer une femme, il faut l’estimer ?",
+        "Enfin, une maîtresse honnête, vous m’entendez… Alors, je ne dis pas, je suis sans force."
+      ],
+      "fait_ids": [
+        "c10-f058",
+        "c10-f056"
+      ]
+    },
+    {
+      "id": "c10-q035",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Où Bachelard louait-il un commerce de modes à sa dernière maîtresse, rencontrée à la porte d’une église ?",
+      "choix": [
+        "À Passy",
+        "Aux Ternes",
+        "À Montmartre",
+        "Rue Godot-de-Mauroy"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il lui louait un commerce de modes aux Ternes, où elle n’avait pas une cliente et couchait avec toute la rue.",
+      "elements_cles": [
+        "aux Ternes"
+      ],
+      "extraits": [
+        "Par exemple, ma dernière, une petite dame très bien, que j’avais rencontrée à la porte d’une église. Je lui loue, aux Ternes, un commerce de modes, histoire de la poser",
+        "mais elle couchait avec toute la rue."
+      ],
+      "fait_ids": [
+        "c10-f059"
+      ]
+    },
+    {
+      "id": "c10-q036",
+      "type": "dialogue",
+      "difficulte": 3,
+      "format": "multi",
+      "enonce": "Parmi ces femmes, lesquelles Gueulin rappelle-t-il à l’oncle comme s’étant moquées de lui ?",
+      "choix": [
+        "La grande de Passy, celle au magasin de bonbons",
+        "La fille du capitaine Menu",
+        "La veuve du capitaine au coup de sabre",
+        "Celle en chambre, avec ses trousseaux pour les orphelins",
+        "Clarisse"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Gueulin cite la grande de Passy au magasin de bonbons, celle aux trousseaux pour les orphelins et la veuve du capitaine au coup de sabre.",
+      "elements_cles": [
+        "la grande de Passy",
+        "la veuve du capitaine",
+        "les trousseaux pour les orphelins"
+      ],
+      "extraits": [
+        "Et l’autre, la grande de Passy, celle au magasin de bonbons… Et l’autre, celle en chambre, là-bas, avec ses trousseaux pour les orphelins…",
+        "Et l’autre, la veuve du capitaine, rappelez-vous ! qui montrait sur son ventre un coup de sabre… Toutes, l’oncle, toutes, elles se sont fichues de vous !"
+      ],
+      "fait_ids": [
+        "c10-f060"
+      ]
+    },
+    {
+      "id": "c10-q037",
+      "type": "citation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Par quelle expression Bachelard, en colère contre Gueulin, affirme-t-il que la jeune fille est à lui seul ?",
+      "choix": [
+        "« Mon petit, tu peux toutes les prendre. »",
+        "« L’honneur est sauf, que diable ! »",
+        "« Celle-là, c’est pour Bibi. »",
+        "« Tonnerre de Dieu ! »"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il dit : « Celle-là, c’est pour Bibi. On ne la voit pas, on n’y touche pas… À bas les pattes ! »",
+      "elements_cles": [
+        "c’est pour Bibi"
+      ],
+      "extraits": [
+        "Comment ? tu sais ! dit Bachelard, pris de colère. Tu ne sais rien, mon petit ; personne ne sait rien… Celle-là, c’est pour Bibi. On ne la voit pas, on n’y touche pas… À bas les pattes !"
+      ],
+      "fait_ids": [
+        "c10-f062"
+      ]
+    },
+    {
+      "id": "c10-q038",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quel est, d’après Bachelard, son « seul rêve » pour la jeune fille ?",
+      "choix": [
+        "La rendre heureuse et la marier à un garçon bien sage",
+        "La présenter à Clarisse",
+        "La faire chanter chez Mme Duveyrier",
+        "La garder toujours cachée"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Son seul rêve est de la rendre heureuse ; s’il trouve un garçon bien sage, il la lui donnera en mariage. Duveyrier répond : « Vous ferez deux heureux. »",
+      "elements_cles": [
+        "la rendre heureuse",
+        "la marier à un garçon bien sage"
+      ],
+      "extraits": [
+        "Après tout, mon seul rêve est de la rendre heureuse, cette enfant !",
+        "si je trouve un garçon bien sage, je la lui donne, oh ! en mariage, pas autrement."
+      ],
+      "fait_ids": [
+        "c10-f064",
+        "c10-f065"
+      ]
+    },
+    {
+      "id": "c10-q039",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Pourquoi Bachelard renonce-t-il, sur le boulevard, à montrer la jeune fille aux trois autres ?",
+      "choix": [
+        "Parce que Duveyrier rappelle que Clarisse les attend",
+        "Parce qu’elle est malade",
+        "Parce qu’il est trop tard",
+        "Par terreur de se la faire voler"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il est partagé entre son besoin vaniteux de montrer Fifi et sa terreur de se la faire voler ; il refuse finalement.",
+      "elements_cles": [
+        "terreur de se la faire voler"
+      ],
+      "extraits": [
+        "Bachelard redevenait grave, torturé par son besoin vaniteux de montrer Fifi et par sa terreur de se la faire voler.",
+        "Eh bien ! non, je ne veux pas."
+      ],
+      "fait_ids": [
+        "c10-f067",
+        "c10-f066"
+      ]
+    },
+    {
+      "id": "c10-q040",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Pendant la marche vers chez Clarisse, qui fait route avec Duveyrier, derrière les deux autres ?",
+      "choix": [
+        "Trublot",
+        "Bachelard",
+        "Gueulin",
+        "Octave"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Gueulin et Trublot marchent devant ; Bachelard et Duveyrier suivent en échangeant des confidences.",
+      "elements_cles": [
+        "Bachelard"
+      ],
+      "extraits": [
+        "Gueulin et Trublot marchaient les premiers. Derrière, venaient Bachelard et Duveyrier, enfoncés dans de fraternelles confidences."
+      ],
+      "fait_ids": [
+        "c10-f069",
+        "c10-f068"
+      ]
+    },
+    {
+      "id": "c10-q041",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : pendant la marche, Bachelard révèle à Duveyrier que Clarisse couche avec tout le monde.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : pendant que Duveyrier vante la fidélité de Clarisse, Bachelard se retient de le lui apprendre.",
+      "elements_cles": [
+        "Faux",
+        "il se retient"
+      ],
+      "extraits": [
+        "tandis que l’oncle, vexé de ne plus placer un mot sur la petite, se retenait pour ne pas lui apprendre que sa Clarisse couchait avec tout le monde.",
+        "Oui, oui, sans doute, murmurait-il. Mais soyez-en convaincu, cher monsieur, la vertu est encore ce qu’il y a de meilleur."
+      ],
+      "fait_ids": [
+        "c10-f071",
+        "c10-f070"
+      ]
+    },
+    {
+      "id": "c10-q042",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que remet le concierge de la rue de la Cerisaie à Duveyrier ?",
+      "choix": [
+        "Une lettre de Clarisse",
+        "Un faux col",
+        "La clef et une bougie",
+        "Les meubles"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Il lui donne la clef et une bougie, avec un ricanement caché sous un respect exagéré.",
+      "elements_cles": [
+        "la clef",
+        "une bougie"
+      ],
+      "extraits": [
+        "Monsieur, monsieur, la clef !",
+        "En lui donnant le bougeoir, le concierge laissa percer, sous le respect exagéré de sa face blême, tout un ricanement de blague canaille et féroce."
+      ],
+      "fait_ids": [
+        "c10-f074",
+        "c10-f072",
+        "c10-f075"
+      ]
+    },
+    {
+      "id": "c10-q043",
+      "type": "fait",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces éléments, lesquels ont disparu ou ont été enlevés de l’appartement de Clarisse ?",
+      "choix": [
+        "Les patères",
+        "Le faux col sale",
+        "Les rideaux",
+        "Les clous des planches de la cuisine",
+        "Le cigare détérioré"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        3
+      ],
+      "reponse_libre": "Les patères, les meubles, les rideaux, la toile cirée et même les clous de la cuisine ont été emportés ; seuls restent un faux col sale et un cigare.",
+      "elements_cles": [
+        "patères",
+        "rideaux",
+        "clous"
+      ],
+      "extraits": [
+        "L’antichambre était vide, les patères elles-mêmes avaient disparu.",
+        "plus un meuble, plus un rideau aux fenêtres, plus une tringle."
+      ],
+      "fait_ids": [
+        "c10-f077",
+        "c10-f080",
+        "c10-f084"
+      ]
+    },
+    {
+      "id": "c10-q044",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "vrai_faux",
+      "enonce": "Vrai ou faux : l’appartement vide est sale, encombré de papiers et de paille.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Faux : l’appartement est très propre, car le concierge y a donné un vigoureux coup de balai.",
+      "elements_cles": [
+        "Faux",
+        "coup de balai du concierge"
+      ],
+      "extraits": [
+        "Et, pour comble de mélancolie, l’appartement était très propre, sans un brin de papier ni de paille",
+        "car le concierge avait eu la cruauté de donner partout un vigoureux coup de balai."
+      ],
+      "fait_ids": [
+        "c10-f081"
+      ]
+    },
+    {
+      "id": "c10-q045",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Combien Trublot, épuisé, dit-il qu’il payerait une chaise ?",
+      "choix": [
+        "Dix sous",
+        "Deux louis",
+        "Dix louis",
+        "Trois cents francs"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il payerait dix sous une chaise.",
+      "elements_cles": [
+        "dix sous"
+      ],
+      "extraits": [
+        "Vous savez, je n’en puis plus, finit par déclarer Trublot, comme on visitait le salon pour la troisième fois… Vrai ! je payerais dix sous une chaise."
+      ],
+      "fait_ids": [
+        "c10-f082"
+      ]
+    },
+    {
+      "id": "c10-q046",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "À combien Duveyrier estime-t-il les meubles disparus ?",
+      "choix": [
+        "Trois mille francs",
+        "Dix mille francs",
+        "Cent mille francs",
+        "Vingt-cinq mille francs"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il y en avait pour vingt-cinq mille francs, dit-il, tout en assurant que ce n’est pas eux qu’il regrette.",
+      "elements_cles": [
+        "vingt-cinq mille francs"
+      ],
+      "extraits": [
+        "Vingt-cinq mille francs de meubles, il y en avait pour vingt-cinq mille francs !… Et bien ! non, non, ce n’est pas eux que je regrette !"
+      ],
+      "fait_ids": [
+        "c10-f085",
+        "c10-f086"
+      ]
+    },
+    {
+      "id": "c10-q047",
+      "type": "chronologie",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quand Duveyrier a-t-il vu Clarisse pour la dernière fois ?",
+      "choix": [
+        "Le matin même",
+        "La veille",
+        "Il y a trois jours",
+        "Il y a quinze jours"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il l’a vue la veille : « Hier, monsieur ! »",
+      "elements_cles": [
+        "hier"
+      ],
+      "extraits": [
+        "Quand donc l’avez-vous vue ? demanda Bachelard.",
+        "Hier, monsieur ! cria Duveyrier."
+      ],
+      "fait_ids": [
+        "c10-f083"
+      ]
+    },
+    {
+      "id": "c10-q048",
+      "type": "personnage",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Avec qui, selon Bachelard, Clarisse a-t-elle dû filer ?",
+      "choix": [
+        "Avec Trublot",
+        "Avec le concierge",
+        "Avec le gros Payan, un maçon",
+        "Avec le capitaine Menu"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Avec le gros Payan, un maçon dont une ville du Midi voulait faire un artiste.",
+      "elements_cles": [
+        "Payan",
+        "maçon"
+      ],
+      "extraits": [
+        "Certainement, elle avait dû filer avec le dernier, le gros Payan, ce maçon dont une ville du Midi voulait faire un artiste."
+      ],
+      "fait_ids": [
+        "c10-f087"
+      ]
+    },
+    {
+      "id": "c10-q049",
+      "type": "citation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quel cri désespéré Duveyrier laisse-t-il échapper en apprenant les infidélités de Clarisse ?",
+      "choix": [
+        "« Il n’y a plus d’honnêteté sur terre ! »",
+        "« Je suis bien puni ! »",
+        "« Mon Dieu ! mon Dieu ! »",
+        "« Elle est indigne de moi. »"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il s’écrie : « Il n’y a plus d’honnêteté sur terre ! »",
+      "elements_cles": [
+        "Il n’y a plus d’honnêteté sur terre"
+      ],
+      "extraits": [
+        "Duveyrier écoutait ces abominations d’un air d’horreur. Il laissa échapper ce cri désespéré",
+        "Il n’y a plus d’honnêteté sur terre !"
+      ],
+      "fait_ids": [
+        "c10-f088",
+        "c10-f078"
+      ]
+    },
+    {
+      "id": "c10-q050",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quand Trublot propose de trouver l’adresse de Clarisse, comment réagit Duveyrier ?",
+      "choix": [
+        "Il accepte avec reconnaissance",
+        "Il décide de porter plainte",
+        "Il demande à Bachelard d’y aller",
+        "Il refuse : elle est indigne de lui et doit lui demander pardon à genoux"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Il refuse : Clarisse est indigne de lui et doit lui demander pardon à genoux. Il disait pourtant vouloir la retrouver pour la faire rougir.",
+      "elements_cles": [
+        "indigne",
+        "pardon à genoux"
+      ],
+      "extraits": [
+        "Si ça vous démange, je saurai l’adresse, dit-il. Je connais la bonne.",
+        "Non, elle est indigne de moi… Il faut qu’elle me demande pardon à genoux."
+      ],
+      "fait_ids": [
+        "c10-f090",
+        "c10-f089"
+      ]
+    },
+    {
+      "id": "c10-q051",
+      "type": "citation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Que répond Duveyrier quand Octave lui annonce que son beau-père se meurt ?",
+      "choix": [
+        "« Mon pauvre père ! »",
+        "« Ah ! », simplement",
+        "« Je m’y attendais. »",
+        "« Il vaut mieux s’en aller. »"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "Il répond simplement : « Ah ! »",
+      "elements_cles": [
+        "Ah"
+      ],
+      "extraits": [
+        "À propos, c’est votre femme qui m’envoie vous prendre… Votre beau-père se meurt.",
+        "Ah ! dit simplement le conseiller."
+      ],
+      "fait_ids": [
+        "c10-f092",
+        "c10-f091",
+        "c10-f093"
+      ],
+      "explication": "« Je m’y attendais » est la réaction de Bachelard, « Il vaut mieux s’en aller » celle de Trublot."
+    },
+    {
+      "id": "c10-q052",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces personnages, lesquels Bachelard emmène-t-il voir la jeune fille à la fin de la soirée ?",
+      "choix": [
+        "Gueulin",
+        "Duveyrier",
+        "Trublot",
+        "Octave"
+      ],
+      "bonnes_reponses": [
+        0,
+        2
+      ],
+      "reponse_libre": "Il emmène Gueulin, à sa droite, et Trublot, à sa gauche, une fois le fiacre parti avec Octave et Duveyrier.",
+      "elements_cles": [
+        "Gueulin",
+        "Trublot"
+      ],
+      "extraits": [
+        "Tonnerre de Dieu ! il faut que je vous la montre.",
+        "Il a beau être près de minuit : elle se lèvera, si elle est couchée…"
+      ],
+      "fait_ids": [
+        "c10-f095",
+        "c10-f097",
+        "c10-f094"
+      ]
+    },
+    {
+      "id": "c10-q053",
+      "type": "personnage",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Selon Bachelard, de qui la jeune fille est-elle la fille ?",
+      "choix": [
+        "D’un maçon du Midi",
+        "De MM. Mardienne frères",
+        "Du capitaine Menu",
+        "D’un conseiller à la cour"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle est la fille du capitaine Menu ; sa tante est née à Villeneuve, près de Lille, et on peut se renseigner chez MM. Mardienne frères, rue Saint-Sulpice.",
+      "elements_cles": [
+        "capitaine Menu"
+      ],
+      "extraits": [
+        "Vous savez, elle est fille d’un capitaine, le capitaine Menu, et elle a une tante très bien, née à Villeneuve, près de Lille, parole d’honneur !",
+        "On peut aller demander des renseignements chez MM. Mardienne frères, rue Saint-Sulpice…"
+      ],
+      "fait_ids": [
+        "c10-f096"
+      ]
+    },
+    {
+      "id": "c10-q054",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Dans le fiacre, que décide Duveyrier, avec l’approbation forcée d’Octave ?",
+      "choix": [
+        "De se remettre avec sa femme, en attendant",
+        "De retrouver Clarisse le lendemain",
+        "De quitter Paris",
+        "De renvoyer Hippolyte"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Il juge que le mieux est de se remettre avec sa femme, en attendant ; Octave répond que ce serait peut-être raisonnable.",
+      "elements_cles": [
+        "se remettre avec sa femme"
+      ],
+      "extraits": [
+        "Croyez-vous qu’elle me pardonne ?",
+        "N’est-ce pas ? ce que j’ai de mieux à faire est encore de me remettre avec ma femme, en attendant ?",
+        "Ce serait peut-être raisonnable, dit le jeune homme, forcé de répondre."
+      ],
+      "fait_ids": [
+        "c10-f098",
+        "c10-f099"
+      ]
+    },
+    {
+      "id": "c10-q055",
+      "type": "scene",
+      "difficulte": 2,
+      "format": "multi",
+      "enonce": "Parmi ces personnages, lesquels critiquent leurs maîtres devant la loge de M. Gourd, avant l’arrivée de Duveyrier ?",
+      "choix": [
+        "Julie",
+        "Le Dr Juillerat",
+        "M. Gourd",
+        "Duveyrier",
+        "Hippolyte"
+      ],
+      "bonnes_reponses": [
+        0,
+        2,
+        4
+      ],
+      "reponse_libre": "Julie s’emporte contre les bourgeois qui se laissent crever entre eux, M. Gourd parle de « cœurs secs » et Hippolyte se moque de l’air bête de madame.",
+      "elements_cles": [
+        "Julie",
+        "M. Gourd",
+        "Hippolyte"
+      ],
+      "extraits": [
+        "Julie, descendue pour courir chez le pharmacien, s’emportait contre les bourgeois qui se laissent crever entre eux, quand ils sont malades",
+        "depuis deux heures qu’il râlait là-haut"
+      ],
+      "fait_ids": [
+        "c10-f100",
+        "c10-f101",
+        "c10-f102"
+      ],
+      "explication": "Le Dr Juillerat est en haut à poser des sinapismes, et tous se taisent quand Duveyrier arrive."
+    },
+    {
+      "id": "c10-q056",
+      "type": "motivation",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Pourquoi le malheur de Clotilde est-il double quand elle apprend que Clarisse a quitté Duveyrier ?",
+      "choix": [
+        "Elle va perdre l’héritage de son père",
+        "Octave va raconter l’histoire à toute la maison",
+        "Elle doit prévenir seule ses frères",
+        "La mort de son père va servir de prétexte au retour de son mari auprès d’elle"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Elle comprend que, Clarisse partie, son mari va se rapprocher d’elle sous prétexte du deuil, et qu’elle ne pourra refuser « l’abominable corvée ».",
+      "elements_cles": [
+        "rapprochement avec son mari",
+        "abominable corvée"
+      ],
+      "extraits": [
+        "Ce n’était pas assez de perdre son père, il fallait encore que ce malheur servît de prétexte à un rapprochement avec son mari !",
+        "dans son respect de tous les devoirs, elle tremblait de ne pouvoir se refuser à l’abominable corvée."
+      ],
+      "fait_ids": [
+        "c10-f107",
+        "c10-f106",
+        "c10-f103"
+      ]
+    },
+    {
+      "id": "c10-q057",
+      "type": "fait",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quel diagnostic le Dr Juillerat porte-t-il sur M. Vabre ?",
+      "choix": [
+        "Une indigestion",
+        "Une attaque d’apoplexie séreuse",
+        "Une fièvre",
+        "Une simple faiblesse"
+      ],
+      "bonnes_reponses": [
+        1
+      ],
+      "reponse_libre": "C’est une attaque d’apoplexie séreuse ; le malade peut traîner jusqu’au lendemain, mais il n’y a plus d’espoir.",
+      "elements_cles": [
+        "apoplexie séreuse",
+        "plus d’espoir"
+      ],
+      "extraits": [
+        "C’était une attaque d’apoplexie séreuse",
+        "mais il n’y avait plus aucune espérance."
+      ],
+      "fait_ids": [
+        "c10-f108"
+      ]
+    },
+    {
+      "id": "c10-q058",
+      "type": "motivation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Comment Clotilde compte-t-elle faire prévenir ses frères ?",
+      "choix": [
+        "Octave ira les réveiller dans la nuit",
+        "Par une lettre portée par Hippolyte",
+        "Le lendemain, par Berthe et Valérie, qu’elle fera venir",
+        "Par le Dr Juillerat"
+      ],
+      "bonnes_reponses": [
+        2
+      ],
+      "reponse_libre": "Elle attend le lendemain : Octave lui enverra Berthe sous un prétexte, elle fera demander Valérie, et ce sont elles qui préviendront ses frères.",
+      "elements_cles": [
+        "le lendemain",
+        "Berthe",
+        "Valérie"
+      ],
+      "extraits": [
+        "Attendons demain, n’est-ce pas ? dit-elle, vous m’enverrez Berthe sous un prétexte",
+        "je ferai aussi demander Valérie, et ce sont elles qui instruiront mes frères…"
+      ],
+      "fait_ids": [
+        "c10-f112",
+        "c10-f110"
+      ]
+    },
+    {
+      "id": "c10-q059",
+      "type": "chronologie",
+      "difficulte": 3,
+      "format": "qcm",
+      "enonce": "Quelle heure sonne quand le docteur parle de se retirer ?",
+      "choix": [
+        "Une heure",
+        "Minuit",
+        "Neuf heures",
+        "Deux heures"
+      ],
+      "bonnes_reponses": [
+        0
+      ],
+      "reponse_libre": "Une heure sonne quand le docteur parle de se retirer.",
+      "elements_cles": [
+        "une heure"
+      ],
+      "extraits": [
+        "Une heure sonnait. Le docteur parla de se retirer, car il avait essayé les révulsifs d’usage, il ne pouvait rien de plus."
+      ],
+      "fait_ids": [
+        "c10-f111"
+      ]
+    },
+    {
+      "id": "c10-q060",
+      "type": "citation",
+      "difficulte": 2,
+      "format": "qcm",
+      "enonce": "Quelle phrase termine le chapitre ?",
+      "choix": [
+        "« Merci, monsieur. »",
+        "« Maintenant, tous deux s’entendaient. »",
+        "« Il y a bien assez de nous, à veiller dans les larmes. »",
+        "« Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls. »"
+      ],
+      "bonnes_reponses": [
+        3
+      ],
+      "reponse_libre": "Le chapitre se termine sur Clotilde et son mari restés seuls face au vieillard dont le râle emplit la chambre.",
+      "elements_cles": [
+        "le vieillard qui râle",
+        "elle et son mari restèrent seuls"
+      ],
+      "extraits": [
+        "Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls."
+      ],
+      "fait_ids": [
+        "c10-f113"
+      ]
+    }
+  ]
+}

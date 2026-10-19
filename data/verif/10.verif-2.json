@@ -1,0 +1,48 @@
+{
+  "chapitre": 10,
+  "verdict_global": "OK",
+  "problemes": [
+    {
+      "cible": "c10-q065",
+      "gravite": "mineur",
+      "description": "« Quel vers suit « Du moment qu’on aime » ? » : deux leurres, « Et je suis moi-même » et « Plus tremblant que vous. », viennent eux aussi après ce vers dans l’air chanté (« Du moment qu’on aime, / L’on devient si doux… » puis « Octave, très flatté, fila les deux autres vers. Et je suis moi-même / Plus tremblant que vous. »). Le sens attendu (le vers qui vient juste après) est le plus naturel, mais un élève pointilleux pourrait discuter. Il suffit de préciser « juste après ».",
+      "correction_proposee": "Dans l’air de Zémire et Azor que chante Octave, quel vers vient juste après « Du moment qu’on aime » ?"
+    },
+    {
+      "cible": "s4",
+      "gravite": "mineur",
+      "description": "Regroupement : l’action « rapprochent leurs visages au-dessus de la nappe pour ne parler que des femmes » ajoute une intention (« pour ») que le texte ne formule pas. Il juxtapose seulement : « ils posèrent les coudes sur la nappe, rapprochèrent leurs visages allumés, et ne causèrent que des femmes, interminablement. »",
+      "correction_proposee": "Les garçons retirés, les quatre hommes posent les coudes sur la nappe, rapprochent leurs visages et ne parlent plus que des femmes."
+    },
+    {
+      "cible": "s7",
+      "gravite": "mineur",
+      "description": "Enjeu : « qui ne peut plus contenir sa vanité ». Ce que Bachelard ne peut plus contenir, d’après le texte, c’est son bonheur : « crevant de son bonheur à lui, de ce bonheur qu’il croyait dû à sa profonde malice, et qu’il ne pouvait plus contenir. » (La vanité est mentionnée plus tôt, sur le boulevard : « son besoin vaniteux de montrer Fifi ».)",
+      "correction_proposee": "Bachelard, qui ne peut plus contenir son bonheur, veut montrer aux jeunes gens « ce que c’est que la vertu » en leur présentant sa protégée."
+    },
+    {
+      "cible": "s9",
+      "gravite": "mineur",
+      "description": "Déroulé : « les époux échangent un regard ». Le texte ne décrit qu’un regard de Duveyrier vers sa femme : « Duveyrier lui jeta un nouveau regard. Maintenant, tous deux s’entendaient. »",
+      "correction_proposee": "Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, Duveyrier lui jette un nouveau regard et « tous deux s’entendaient »."
+    },
+    {
+      "cible": "s9",
+      "gravite": "mineur",
+      "description": "Enjeu : « la famille ne sera prévenue que le lendemain » présente comme acquis ce qui n’est qu’une décision de Clotilde à la fin du chapitre : « Attendons demain, n’est-ce pas ? dit-elle, vous m’enverrez Berthe sous un prétexte ; je ferai aussi demander Valérie, et ce sont elles qui instruiront mes frères ». Le texte ne montre pas ce qui se passe le lendemain.",
+      "correction_proposee": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et Clotilde décide de n’avertir la famille que le lendemain ; elle subit le retour de son mari."
+    },
+    {
+      "cible": "trublot",
+      "gravite": "mineur",
+      "description": "Rôle : dans « propose de trouver son adresse grâce à la bonne », le possessif « son » peut renvoyer à Trublot lui-même. Le texte parle de l’adresse de Clarisse : « Si ça vous démange, je saurai l’adresse, dit-il. Je connais la bonne. »",
+      "correction_proposee": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare troué trouvé sur la cheminée et propose de trouver l’adresse de Clarisse grâce à la bonne."
+    }
+  ],
+  "omissions": [],
+  "bilan": {
+    "questions_verifiees": 34,
+    "questions_ok": 33,
+    "faits_verifies": 54
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "chapitre": 9,
+  "verdict_global": "OK",
+  "problemes": [
+    {
+      "cible": "s7",
+      "gravite": "mineur",
+      "description": "Dans l'enjeu, « semble venu bénir cette union » suit directement « Campardon et Gasparine, qu'Octave a surpris s'embrassant » : on peut comprendre que l'abbé bénit la liaison de Campardon et Gasparine. Le texte dit « la bonne union de la famille » : « Et il semblait être venu pour bénir la bonne union de la famille et sauver ainsi une situation délicate, dont on pouvait causer dans le quartier. » Même formule « cette union » dans le déroulé, moins ambiguë mais à aligner sur le texte.",
+      "correction_proposee": "enjeu : remplacer « semble venu bénir cette union et sauver une situation délicate » par « semble venu bénir la bonne union de la famille et sauver ainsi une situation délicate » ; deroule : remplacer « et semble bénir cette union » par « et semble venu bénir la bonne union de la famille »"
+    }
+  ],
+  "omissions": [],
+  "bilan": { "questions_verifiees": 30, "questions_ok": 30, "faits_verifies": 39 }
+}

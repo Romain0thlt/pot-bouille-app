@@ -84,7 +84,7 @@
             "trublot",
             "gueulin"
           ],
-          "action": "Les garçons retirés, les quatre hommes rapprochent leurs visages au-dessus de la nappe pour ne parler que des femmes.",
+          "action": "Les garçons retirés, les quatre hommes posent les coudes sur la nappe, rapprochent leurs visages et ne parlent plus que des femmes.",
           "extraits": [
             "Puis, libres, tout en se félicitant qu’il n’y eût pas de femmes, ils posèrent les coudes sur la nappe, rapprochèrent leurs visages allumés, et ne causèrent que des femmes, interminablement."
           ]
@@ -151,7 +151,7 @@
         "concierge-cerisaie"
       ],
       "deroule": "Les hommes quittent l’appartement vide ; Duveyrier ferme soigneusement la porte. En bas, pris de honte, il laisse Trublot rendre la clef au concierge. Sur le trottoir, on échange de fortes poignées de main, puis un fiacre emporte Octave et Duveyrier. Resté avec Gueulin et Trublot, Bachelard, excité par le désespoir du conseiller, décide de leur montrer la jeune fille malgré l’heure. Il précise qu’elle est fille du capitaine Menu et qu’on peut se renseigner chez MM. Mardienne frères, rue Saint-Sulpice. Il prend leur bras et cherche une voiture.",
-      "enjeu": "Bachelard, qui ne peut plus contenir sa vanité, veut prouver aux jeunes gens ce qu’est « la vertu » en leur montrant sa protégée.",
+      "enjeu": "Bachelard, qui ne peut plus contenir son bonheur, veut montrer aux jeunes gens « ce que c’est que la vertu » en leur présentant sa protégée.",
       "regroupements": [
         {
           "personnages": [
@@ -220,8 +220,8 @@
         "dr-juillerat",
         "m-vabre"
       ],
-      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que ce malheur va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, et les époux échangent un regard : « tous deux s’entendaient ». Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
-      "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et la famille ne sera prévenue que le lendemain ; Clotilde subit le retour de son mari.",
+      "deroule": "Duveyrier embrasse Clotilde et lui demande pardon à voix basse en promettant de lui revenir pour toujours ; elle se dégage sans répondre. Devant Octave, elle reparle de l’enquête sur l’affaire de la rue de Provence. Seule avec Octave près du piano, où Zémire et Azor est resté sur le pupitre, elle apprend que Clarisse a lâché son mari en emportant les meubles. Elle comprend avec dégoût que ce malheur va servir de prétexte à un rapprochement et dit simplement : « Merci, monsieur. » Le Dr Juillerat diagnostique une apoplexie séreuse sans espoir. Duveyrier évoque des promesses en faveur de leur fils Gustave ; Clotilde avoue n’avoir pas prévenu la famille, Duveyrier lui jette un nouveau regard et « tous deux s’entendaient ». Clotilde charge Octave de lui envoyer Berthe le lendemain, et reste seule avec son mari près du mourant.",
+      "enjeu": "Clotilde et Duveyrier, préoccupés des affaires de M. Vabre, se comprennent à demi-mot et Clotilde décide de n’avertir la famille que le lendemain ; elle subit le retour de son mari.",
       "regroupements": [
         {
           "personnages": [
@@ -375,7 +375,7 @@
       "nom": "Trublot",
       "presence": "acteur",
       "identite": "Jeune homme, convive de Bachelard ; selon Mme Duveyrier, il n’est pas ténor.",
-      "role_dans_chapitre": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare troué trouvé sur la cheminée et propose de trouver son adresse grâce à la bonne.",
+      "role_dans_chapitre": "Il dîne avec Bachelard, ouvre la porte de l’appartement vide, fume le cigare troué trouvé sur la cheminée et propose de trouver l’adresse de Clarisse grâce à la bonne.",
       "scenes": [
         "s4",
         "s5",
@@ -3475,7 +3475,7 @@
       "type": "citation",
       "difficulte": 3,
       "format": "qcm",
-      "enonce": "Dans l’air de Zémire et Azor que chante Octave, quel vers suit « Du moment qu’on aime » ?",
+      "enonce": "Dans l’air de Zémire et Azor que chante Octave, quel vers vient juste après « Du moment qu’on aime » ?",
       "choix": [
         "« L’on devient si doux… »",
         "« Plus tremblant que vous. »",

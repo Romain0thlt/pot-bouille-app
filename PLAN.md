@@ -50,9 +50,9 @@ Règle : toute décision prise dans le chat est reportée ici ou dans `CLAUDE.md
 **Condition de passage :** schéma et prompts validés dans le chat.
 
 ## Phase 4 — Pilote sur 2 chapitres (Claude Code + chat, ~2 h) ⚠️ étape critique
-- [ ] Génération des 2 prochains chapitres du contrôle (un sous-agent par chapitre)
-- [ ] Vérification par un sous-agent séparé, puis application des corrections
-- [ ] Validation automatique OK
+- [x] Génération des 2 prochains chapitres du contrôle (un sous-agent par chapitre) — ch. 9 et 10, modèle opus
+- [x] Vérification par un sous-agent séparé, puis application des corrections — rapports dans `data/verif/`, 0 erreur, 5 ambiguïtés et 17 mineurs corrigés
+- [x] Validation automatique OK (09 et 10 : 0 erreur, 0 avertissement)
 - [ ] Revue par Romain : relecture de 10 questions au hasard et du résumé, avec le livre ouvert
 - [ ] Test de couverture : les questions des anciens contrôles seraient-elles couvertes par le quiz ?
 - [ ] Ajustement des prompts dans le chat si nécessaire, puis régénération

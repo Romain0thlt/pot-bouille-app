@@ -29,7 +29,8 @@ def jonctions():
     for n in range(NB_CHAPITRES):
         for i in range(bornes[n], bornes[n + 1] - 1):
             fin, pleine, _ = lignes_corps(doc, i, bornes[n])
-            suite, _, alinea = lignes_corps(doc, i + 1, bornes[n])
+            suite, _, alineas = lignes_corps(doc, i + 1, bornes[n])
+            alinea = alineas[0]
             derniere, premiere = fin[-1].rstrip(), suite[0].lstrip()
             joint = not alinea  # décision de extraire.py
             motifs = []

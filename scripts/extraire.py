@@ -6,10 +6,10 @@ Règles de nettoyage :
 - suppression du numéro de page « – N – » en tête de chaque page ;
 - suppression du titre « Chapitre X » ;
 - U+FFFE (trait d'union en fin de ligne mal codé par le PDF) -> « - » ;
-- reconstruction des paragraphes : une ligne qui finit par une espace est
-  coupée, une ligne sans espace finale termine le paragraphe. Pour la
-  dernière ligne d'une page (qui n'a jamais d'espace finale), on regarde
-  si la page suivante commence par un alinéa (retrait de première ligne).
+- reconstruction des paragraphes : un paragraphe commence à chaque ligne
+  en retrait (alinéa), y compris en haut de page. L'espace finale des
+  lignes n'est pas un critère fiable : pdfium l'omet sur certaines lignes
+  pleines (39 paragraphes coupés en pleine phrase avec cette règle).
 Un paragraphe par ligne dans le fichier de sortie.
 """
 import re
@@ -44,41 +44,44 @@ def lignes_corps(doc, i, debut):
 
     Renvoie aussi deux indices de mise en page :
     - pleine : la dernière ligne atteint la marge droite ;
-    - alinea : la première ligne est en retrait (début de paragraphe).
+    - alineas : pour chaque ligne, est-elle en retrait (début de paragraphe) ?
     """
     tp = doc[i].get_textpage()
     brut = tp.get_text_range()
     lignes = brut.split("\r\n")
-    index = 0  # index du premier caractère de la première ligne gardée
+    debuts_lignes, index = [], 0  # index du premier caractère de chaque ligne
+    for l in lignes:
+        debuts_lignes.append(index)
+        index += len(l) + 2
+    garde = 0
     if lignes and ENTETE_PAGE.match(lignes[0].strip()):
-        index += len(lignes[0]) + 2
-        lignes = lignes[1:]
-    if i == debut and lignes and TITRE_CHAPITRE.match(lignes[0].strip()):
-        index += len(lignes[0]) + 2
-        lignes = lignes[1:]
-    assert brut[index] == lignes[0][0]
+        garde += 1
+    if i == debut and len(lignes) > garde and TITRE_CHAPITRE.match(lignes[garde].strip()):
+        garde += 1
+    lignes, debuts_lignes = lignes[garde:], debuts_lignes[garde:]
+    assert all(brut[k] == l[0] for k, l in zip(debuts_lignes, lignes) if l)
     rects = [tp.get_rect(k) for k in range(tp.count_rects())]
     gauche_min = min(r[0] for r in rects)
     droite_max = max(r[2] for r in rects)
     pleine = rects[-1][2] >= droite_max - TOLERANCE_MARGE
-    alinea = tp.get_charbox(index)[0] >= gauche_min + TOLERANCE_MARGE
-    return [l.replace("￾", "-") for l in lignes], pleine, alinea
+    alineas = [tp.get_charbox(k)[0] >= gauche_min + TOLERANCE_MARGE for k in debuts_lignes]
+    return [l.replace("￾", "-") for l in lignes], pleine, alineas
 
 
 def extraire_chapitre(doc, debut, fin):
     paragraphes = []
     courant = ""
     for i in range(debut, fin):
-        lignes, _, _ = lignes_corps(doc, i, debut)
-        # Bas de page : le paragraphe continue si la page suivante ne commence pas par un alinéa
-        suite_continue = i + 1 < fin and not lignes_corps(doc, i + 1, debut)[2]
+        lignes, _, alineas = lignes_corps(doc, i, debut)
+        # Le paragraphe continue si la ligne suivante (ou la première de la page suivante)
+        # n'est pas en retrait. L'espace finale n'est pas fiable : pdfium l'omet parfois.
+        suite_continue = i + 1 < fin and not lignes_corps(doc, i + 1, debut)[2][0]
         for j, ligne in enumerate(lignes):
-            derniere = j == len(lignes) - 1
             courant += ligne
-            if derniere:
+            if j == len(lignes) - 1:
                 continuer = suite_continue
             else:
-                continuer = ligne.endswith(" ")
+                continuer = not alineas[j + 1]
             if continuer:
                 if not courant.endswith((" ", "-")):
                     courant += " "

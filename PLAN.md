@@ -54,8 +54,8 @@ Règle : toute décision prise dans le chat est reportée ici ou dans `CLAUDE.md
 - [x] Vérification par un sous-agent séparé, puis application des corrections — rapports dans `data/verif/`, 0 erreur, 5 ambiguïtés et 17 mineurs corrigés
 - [x] Validation automatique OK (09 et 10 : 0 erreur, 0 avertissement)
 - [ ] Revue par Romain : relecture de 10 questions au hasard et du résumé, avec le livre ouvert
-- [ ] Test de couverture : les questions des anciens contrôles seraient-elles couvertes par le quiz ?
-- [ ] Ajustement des prompts dans le chat si nécessaire, puis régénération
+- [ ] Test de couverture : les questions des anciens contrôles seraient-elles couvertes par le quiz ? — `data/controles_passes.md` créé (ch. 3 à 6) ; les ch. 9-10 sont contrôlés par nature de question (âge, œuvre, lettre, qui avec qui, comportement, phrase finale, durée), le test direct se fera sur les ch. 3 à 6
+- [x] Ajustement des prompts dans le chat si nécessaire, puis régénération — principe 6 de fidélité ajouté à `generation.md`, 15 questions complémentaires par chapitre sur les omissions, vérification ciblée (`data/verif/NN.verif-2.json`, verdict OK) ; ch. 9 : 100 faits / 75 questions, ch. 10 : 117 faits / 75 questions
 
 **Condition de passage :** 0 erreur factuelle sur l'échantillon relu, et une couverture jugée suffisante.
 
@@ -115,3 +115,6 @@ Processus par lot de 2 chapitres, à finir au moins **5 jours avant** le contrô
 | 2026-10-19 | Extraction PDF avec pypdfium2 (pypdf casse les mots) ; paragraphes reconstruits via les alinéas | Claude Code, validé par Romain |
 | 2026-10-19 | `source/`, `data/chapitres/`, `data/controles_passes.md` jamais versionnés | Romain |
 | 2026-10-19 | Schéma v1 : inventaire de faits + quiz relié aux faits (`fait_ids`), 1 à 3 `extraits` exacts par fait, question et regroupement ; validation par `python scripts/valider.py NN` (pas npm), couverture ≥ 70 % bloquante, objectif 85 % ; rapports de vérification dans `data/verif/` | Chat |
+| 2026-10-19 | Regroupement : 2 personnages minimum ; 1 à 4 extraits par élément (3 en général) ; principe 6 de fidélité stricte dans `generation.md` (pas d'action annoncée présentée comme faite, ni cause ou intention non formulée, statuts du chapitre seulement, leurres non défendables) | Chat |
+| 2026-10-19 | Coquilles de l'édition corrigées via la table `CORRECTIONS` de `scripts/extraire.py` (seulement si le contexte lève tout doute ; « Gueufin » → « Gueulin ») ; les cas douteux restent tels quels (« s'approcha du fil », ch. 10) | Chat |
+| 2026-10-19 | Plafond de 75 questions par chapitre ; omissions des vérificateurs couvertes en priorité ; vérification ciblée des ajouts (rapports `NN.verif-2.json`) | Chat |
